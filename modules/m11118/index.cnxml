@@ -1,0 +1,307 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Harmonic Series</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11118</md:content-id>
+  <md:title>Harmonic Series</md:title>
+  <md:abstract>The harmonic series is the key to understanding not only harmonics, but also timbre and the basic functioning of many musical instruments.</md:abstract>
+  <md:uuid>5612e514-585d-4327-abdf-d1a6aad41d6c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11639/latest/" strength="3">Tuning Systems</link>
+      <link url="http://cnx.rice.edu/content/m12413/latest/" strength="3">Standing Waves and Musical Instruments</link>
+      <link url="http://cnx.rice.edu/content/m12589/latest/" strength="3">Standing Waves and Wind Instruments</link>
+      <link url="http://cnx.rice.edu/content/m11638/latest/" strength="2">Music and Math</link>
+      <link url="http://cnx.rice.edu/content/m10862/latest/" strength="2">Octaves</link>
+      <link url="http://cnx.rice.edu/content/m11617/latest/" strength="1">French Horn</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="3">Interval</link>
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="1">Physics and Music</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+	<section id="s1">
+		<title>Introduction</title>
+
+    		<para id="p0a">Have you ever wondered how a <link document="m12606">trumpet</link> plays so many different notes with only three <link document="m12364" target-id="p2f">valves</link>, or how a bugle plays different notes with no valves at all? Have you ever wondered why an <link document="m12615">oboe</link> and a <link document="m12603">flute</link> sound so different, even when they're playing the same note? What is a string player doing when she plays "harmonics"? Why do some notes sound good together while other notes seem to clash with each other? The answers to all of these questions will become clear with an understanding of the harmonic series.
+    		</para>  
+
+	</section>
+	<section id="s2">
+		<title>Physics, Harmonics and Color</title>
+
+		<para id="p1a">
+Most musical notes are sounds that have a particular <link document="m10943" strength="2">pitch</link>. The pitch depends on the main <link document="m11060" target-id="fig1b" strength="3">frequency</link> of the sound; the higher the frequency, and shorter the wavelength, of the sound waves, the higher the pitch is. But musical sounds don't have just one frequency. Sounds that have only one frequency are not very interesting or pretty. They have no more musical <link document="m11059" strength="2">color</link> than the beeping of a watch alarm. On the other hand, sounds that have too many frequencies, like the sound of glass breaking or of ocean waves crashing on a beach, may be interesting and even pleasant. But they don't have a particular pitch, so they usually aren't considered musical notes.
+		</para>
+
+		<figure id="fig1a">
+			<title>Frequency and Pitch</title>
+			<media id="id1170867628399" alt="">
+                          <image src="../../media/Harmseries1.png" mime-type="image/png"/>
+                          <image for="pdf" src="../../media/Harmseries1.eps" mime-type="application/postscript"/>
+                        </media>
+			<caption>The higher the frequency, the higher the note sounds.</caption>
+		</figure>
+
+		<para id="p1b">
+When someone plays or sings a note, only a very particular set of frequencies is heard. Imagine that each note that comes out of the instrument is a smooth mixture of many different pitches. These different pitches are called <term>harmonics</term>, and they are blended together so well that you do not hear them as separate notes at all. Instead, the harmonics give the note its color. 
+		</para>
+ 		<para id="p1bb">What is the <link document="m11059" strength="2">color</link> of a sound? Say an oboe plays a middle C. Then a flute plays the same note at the same loudness as the oboe. It is still easy to tell the two notes apart, because an oboe sounds different from a flute. This difference in the sounds is the <term>color</term>, or <term>timbre</term> (pronounced "TAM-ber") of the notes. Like a color you see, the color of a sound can be bright and bold or deep and rich. It can be heavy, light, murky, thin, smooth, or transparently clear. Some other words that musicians use to describe the timbre of a sound are: reedy, brassy, piercing, mellow, thin, hollow, focussed, breathy (pronounced BRETH-ee) or full. Listen to recordings of a <link resource="timvl.mp3">violin</link> and a <link resource="timvla.mp3">viola</link>. Although these instruments are quite similar, the viola has a noticeably "deeper" and the violin a noticeably "brighter" sound that is not simply a matter of the violin playing higher notes. Now listen to the same phrase played by an <link resource="electricGUITARS.wav">electric guitar</link>, an acoustic guitar with <link resource="12stringGUITARS.wav">twelve steel strings</link> and an acoustic guitar with <link resource="nylonGUITARS.wav">six nylon strings</link>. The words musicians use to describe timbre are somewhat subjective, but most musicians would agree with the statement that, compared with each other, the first sound is mellow, the second bright, and the third rich.
+		</para>
+
+		<exercise id="exer1a">
+
+			<problem id="id1170865827510">
+				<para id="prob1a">
+Listen to recordings of different instruments playing alone or playing very prominently above a group. Some suggestions: an unaccompanied violin or cello sonata, a flute, oboe, trumpet, or horn concerto, native American flute music, classical guitar, bagpipes, steel pan drums, panpipes, or organ. For each instrument, what "color" words would you use to describe the timbre of each instrument? Use as many words as you can that seem appropriate, and try to think of some that aren't listed above. Do any of the instruments actually make you think of specific shades of color, like fire-engine red or sky blue?
+				</para>
+			</problem>
+	
+			<solution id="id1170867567489">
+                <para id="solu1a">
+Although trained musicians will generally agree that a particular sound is reedy, thin, or full, there are no hard-and-fast right-and-wrong answers to this exercise. 
+                </para>
+			</solution>
+		</exercise>
+
+		<para id="p1c">
+Where do the harmonics, and the timbre, come from? When a string vibrates, the main pitch you hear is from the vibration of the whole string back and forth. That is the <term>fundamental</term>, or first harmonic. But the string also vibrates in halves, in thirds, fourths, and so on. Each of these fractions also produces a harmonic. The string vibrating in halves produces the second harmonic; vibrating in thirds produces the third harmonic, and so on.
+<note id="id1170867597199">This method of naming and numbering harmonics is the most straightforward and least confusing, but there are other ways of naming and numbering harmonics, and this can cause confusion. Some musicians do not consider the fundamental to be a harmonic; it is just the fundamental. In that case, the string halves will give the first harmonic, the string thirds will give the second harmonic and so on. When the fundamental is included in calculations, it is called the first <term>partial</term>, and the rest of the harmonics are the second, third, fourth partials and so on. Also, some musicians use the term <term>overtones</term> as a synonym for harmonics. For others, however, an overtone is any frequency (not necessarily a harmonic) that can be heard resonating with the fundamental. The sound of a gong or cymbals will include overtones that aren't harmonics; that's why the gong's sound doesn't seem to have as definite a pitch as the vibrating string does. If you are uncertain what someone means by the second harmonic or by the term overtones, ask for clarification.</note>  
+		</para>
+
+		<figure id="fig1b">
+			<title>Vibrating String</title>
+			<media id="id1170867642160" alt="">
+                          <image src="../../media/Harmseries2.png" mime-type="image/png"/>
+                          <image for="pdf" src="../../media/Harmseries2.eps" mime-type="application/postscript"/>
+                        </media>
+			<caption>The fundamental pitch is produced by the whole string vibrating back and forth. But the string is also vibrating in halves, thirds, quarters, fifths, and so on, producing <term>harmonics</term>. All of these vibrations happen at the same time, producing a rich, complex, interesting sound.</caption>
+		</figure>
+
+		<para id="p1d">
+A column of air vibrating inside a tube is different from a vibrating string, but the column of air can also vibrate in halves, thirds, fourths, and so on, of the fundamental, so the harmonic series will be the same. So why do different instruments have different timbres? The difference is the relative loudness of all the different harmonics compared to each other. When a <link document="m12604">clarinet</link> plays a note, perhaps the odd-numbered harmonics are strongest; when a <link document="m11617" strength="2">French horn</link> plays the same notes, perhaps the fifth and tenth harmonics are the strongest. This is what you hear that allows you to recognize that it is a clarinet or horn that is playing. <note id="id1170865839361">You will find some more extensive information on instruments and harmonics in <link document="m12413" strength="3">Standing Waves and Musical Instruments</link> and <link document="m12589" strength="3">Standing Waves and Wind Instruments</link>.</note>
+		</para>
+
+	</section>
+
+	<section id="s2a">
+		<title>The Harmonic Series</title>
+
+		<para id="p2a">
+A harmonic series can have any note as its fundamental, so there are many different harmonic series. But the relationship between the <link document="m11060" target-id="fig1b" strength="3">frequencies</link> of a harmonic series is always the same. The second harmonic always has exactly half the wavelength (and twice the frequency) of the fundamental; the third harmonic always has exactly a third of the wavelength (and so three times the frequency) of the fundamental, and so on. For more discussion of wavelengths and frequencies, see <link document="m11060" strength="3">Frequency, Wavelength, and Pitch</link>.
+		</para>
+
+		<figure id="fig2a">
+			<title>Harmonic Series Wavelengths and Frequencies</title>
+			<media id="id1170867496039" alt="">
+                          <image src="../../media/Harmseries3.png" mime-type="image/png"/>
+                          <image for="pdf" src="../../media/Harmseries3.eps" mime-type="application/postscript"/>
+                        </media>
+			<caption>The second harmonic has half the wavelength and twice the frequency of the first. The third harmonic has a third the wavelength and three times the frequency of the first. The fourth harmonic has a quarter the wavelength and four times the frequency of the first, and so on. Notice that the fourth harmonic is also twice the frequency of the second harmonic, and the sixth harmonic is also twice the frequency of the third harmonic.</caption>
+     		</figure>
+
+		<para id="p2b">
+Say someone plays a note, a <link document="m10862" target-id="p2b" strength="2">middle C</link>. Now someone else plays the note that is twice the frequency of the middle C. Since this second note was already a harmonic of the first note, the sound waves of the two notes reinforce each other and sound good together. If the second person played instead the note that was just a litle bit more than twice the frequency of the first note, the harmonic series of the two notes would not fit together at all, and the two notes would not sound as good together. There are many combinations of notes that share some harmonics and make a pleasant sound together. They are considered <link document="m11953">consonant</link>. Other combinations share fewer or no harmonics and are considered <link document="m11953">dissonant</link> or, when they really clash, simply "out of tune" with each other. The scales and chords of most of the world's musics are based on these physical facts. <note id="id1170867643578">In real music, consonance and dissonance also depend on the standard practices of a musical tradition, especially its harmony practices, but these are also often related to the harmonic series.</note>
+		</para>
+
+		<para id="p2c">
+For example, a note that is twice the frequency of another note is one <link document="m10862" strength="3">octave</link> higher than the first note. So in the figure above, the second harmonic is one octave higher than the first; the fourth harmonic is one octave higher than the second; and the sixth harmonic is one octave higher than the third.
+		</para>
+
+		<exercise id="exer2a">
+			<problem id="id1170865841594">
+				<list id="prob2a" list-type="enumerated">
+					<item>
+Which harmonic will be one octave higher than the fourth harmonic?
+					</item>
+					<item>
+Predict the next four sets of octaves in a harmonic series.
+					</item>
+					<item>
+What is the pattern that predicts which notes of a harmonic series will be one octave apart?
+					</item>
+                              <item>
+Notes one octave apart are given the same name. So if the first harmonic is a "A", the second and fourth will also be A's. Name three other harmonics that will also be A's.
+					</item>
+				</list>
+			</problem>
+			<solution id="id1170867598548">
+				<list id="solu2a" list-type="enumerated">
+					<item>
+The eighth harmonic
+					</item>
+					<item>
+The fifth and tenth harmonics; the sixth and twelfth harmonics; the seventh and fourteenth harmonics; and the eighth and sixteenth harmonics
+					</item>
+					<item>
+The note that is one octave higher than a harmonic is also a harmonic, and its number in the harmonic series is twice (2 X) the number of the first note.
+					</item>
+					<item>
+The eighth, sixteenth, and thirty-second harmonics will also be A's.
+					</item>
+				</list>
+			</solution>
+		</exercise>
+
+		<para id="p2d">
+A mathematical way to say this is "if two notes are an octave apart, the <link document="m11808" strength="3">ratio</link> of their frequencies is two to one (2:1)". Although the notes themselves can be any frequency, the 2:1 ratio is the same for all octaves. And all the other <link document="m10867" strength="3">intervals</link> that musicians talk about can also be described as being particular ratios of frequencies.
+		</para>
+
+		<figure id="fig2b">
+			<title>A Harmonic Series Written as Notes</title>
+			<media id="id1170871268168" alt="">
+                          <image src="../../media/HarmonicSeriesC.png" mime-type="image/png"/>
+                          <image for="pdf" src="../../media/HarmonicSeriesC.eps" mime-type="application/postscript"/>
+                        </media>
+		</figure>
+
+		<para id="p2e">
+Take the third harmonic, for example. Its frequency is three times the first harmonic (ratio 3:1). Remember, the frequency of the second harmonic is two times that of the first harmonic. So the <link document="m11808" strength="2">ratio</link> of the frequencies of the second to the third harmonics is 2:3. From the harmonic series shown above, you can see that the <link document="m10867" strength="3">interval</link> between these two notes is a <link document="m10867" target-id="s21" strength="2">perfect fifth</link>. The ratio of the frequencies of all perfect fifths is 2:3.
+		</para>
+
+		<exercise id="exer2b">
+			<problem id="id1170867649558">
+				<list id="prob2b" list-type="enumerated">
+					<item>
+The interval between the fourth and sixth harmonics (frequency ratio 4:6) is also a fifth. Can you explain this?
+					</item>
+					<item>
+What other harmonics have an interval of a fifth?
+					</item>
+					<item>
+Which harmonics have an interval of a fourth?
+					</item>
+					<item>
+What is the frequency ratio for the interval of a fourth?
+					</item>
+				</list>
+			</problem>
+			<solution id="id1170865827696">
+				<list id="solu2b" list-type="enumerated">
+					<item>
+The ratio 4:6 reduced to lowest terms is 2:3. (If you are more comfortable with fractions than with ratios, think of all the ratios as fractions instead. 2:3 is just two-thirds, and 4:6 is four-sixths. Four-sixths reduces to two-thirds.)
+					</item>
+					<item>
+Six and nine (6:9 also reduces to 2:3); eight and twelve; ten and fifteen; and any other combination that can be reduced to 2:3 (12:18, 14:21 and so on).
+					</item>
+					<item>
+Harmonics three and four; six and eight; nine and twelve; twelve and sixteen; and so on.
+					</item>
+					<item>
+3:4
+					</item>
+				</list>
+			</solution>
+		</exercise>
+
+	<para id="p2f">
+<note id="id1170867826457">If you have been looking at the harmonic series above closely, you may have noticed that some notes that are written to give the same interval have different frequency ratios. For example, the interval between the seventh and eighth harmonics is a major second, but so are the intervals between 8 and 9, between 9 and 10, and between 10 and 11. But 7:8, 8:9, 9:10, and 10:11, although they are pretty close, are not exactly the same. In fact, modern <link document="m11421">Western</link> music uses the <link document="m11639" target-id="s22">equal temperament</link> tuning system, which divides the octave into twelve notes that are spaced equally far apart. The positive aspect of equal temperament (and the reason it is used) is that an instrument will be equally in tune in all keys. The negative aspect is that it means that all intervals except for octaves are slightly out of tune with regard to the actual harmonic series. For more about equal temperament, see <link document="m11639" target-id="s2" strength="3">Tuning Systems</link>. Interestingly, musicians have a tendency to revert to true harmonics when they can (in other words, when it is easy to fine-tune each note). For example, an a capella choral group or a brass ensemble, may find themselves singing or playing perfect fourths and fifths, "contracted" major thirds and "expanded" minor thirds.</note>
+	</para>
+
+	</section>
+
+	<section id="s3">
+		<title>Brass Instruments</title>
+
+		<para id="p3a">
+The harmonic series is particularly important for brass instruments. A pianist or xylophone player only gets one note from each key. A string player who wants a different note from a string holds the string tightly in a different place. This basically makes a vibrating string of a new length, with a new fundamental.
+		</para>
+
+		<para id="p3b">
+But a brass player, without changing the length of the instrument, gets different notes by actually playing the harmonics of the instrument. Woodwinds also do this, although not as much. Most woodwinds can get two different octaves with essentially the same fingering; the lower octave is the fundamental of the column of air inside the instrument at that fingering. The upper octave is the first harmonic. 
+		</para>
+
+		<para id="p3c">
+But it is the brass instruments that excel in getting different notes from the same length of tubing. The sound of a brass instruments starts with vibrations of the player's lips. By vibrating the lips at different speeds, the player can cause a harmonic of the air column to sound instead of the fundamental.
+		</para>
+
+		<para id="p3d">
+So a bugle player can play any note in the harmonic series of the instrument that falls within the player's range. Compare these well-known bugle calls to the harmonic series <link target-id="fig2b" strength="3">above</link>.
+		</para>
+
+		<figure id="fig3a"><title>Bugle Calls</title>
+			<media id="id1170867602280" alt=""><image src="../../media/BugleCalls.png" mime-type="image/png"/></media>
+			<caption>Although limited by the fact that it can only play one harmonic series, the bugle can still play many well-known tunes.</caption>
+		</figure>
+
+		<para id="p3e">
+For centuries, all brass instruments were valveless. A brass instrument could play only the notes of one harmonic series. The upper octaves of the series, where the notes are close together, could be difficult or impossible to play, and some of the harmonics sound quite out of tune to ears that expect equal temperament. The solution to these problems, once brass valves were perfected, was to add a few valves to the instrument. Three is usually enough. Each valve opens an extra length of tube, making the instrument a little longer, and making available a whole new harmonic series. Usually one valve gives the harmonic series one half step lower than the valveless intrument, another one whole step lower, and another one and a half steps lower. The valves can be used at the same time, too, making even more harmonic series. So a valved brass instrument can find, in the comfortable middle of its range (its <term>middle register</term>), a valve combination that will give a reasonably in-tune version for every note of the <link document="m10866" target-id="p0bb" strength="2">chromatic scale</link>. (For more on the history of valved brass, see <link document="m11617" target-id="s2" strength="2">History of the French Horn</link>. For more on how and why harmonics are produced in wind instruments, please see <link document="m12589">Standing Waves and Wind Instruments</link>)
+		</para>
+
+		<para id="p3f">
+<note id="id1170867830597">Trombones use a slide instead of valves to make their instrument longer. But the basic principle is still the same. At each slide "position", the instrument gets a new harmonic series. The notes in between the positions aren't part of the chromatic scale, so they are usually only used for special effects like <term>glissandos</term> (sliding notes).</note>
+		</para>
+
+	
+		<figure id="fig3b">
+			<title>Overlapping Harmonic Series in Brass Instruments</title>
+			<media id="id1170867519066" alt="">
+                          <image src="../../media/Harmseries6.png" mime-type="image/png"/>
+                          <image for="pdf" src="../../media/Harmseries6.eps" mime-type="application/postscript"/>
+                        </media>
+			<caption>These harmonic series are for a brass instrument that has a "C" fundamental when no valves are being used - for example, a C trumpet. Remember, there is an entire harmonic series for every fundamental, and any note can be a fundamental. You just have to find the brass tube with the right length. So a trumpet or tuba can get one harmonic series using no valves, another one a half step lower using one valve, another one a whole step lower using another valve, and so on. By the time all the combinations of valves are used, there is some way to get an in-tune version of every note they need.</caption>
+                </figure>
+
+	<exercise id="exer3a">
+
+		<problem id="id1170865815613">
+			<para id="pprob3a">
+Write the harmonic series for the instrument above when both the first and second valves are open. (You can use this <link resource="staffpaper1.pdf">PDF file</link> if you need staff paper.) What new notes are added in the instrument's middle range? Are any notes still missing?
+			</para>
+
+		</problem>
+
+		<solution id="id1170867649690">
+			<para id="psolu3a">
+Opening both first and second valves gives the harmonic series one-and-a-half steps lower than "no valves".
+			</para>
+
+			<figure id="fsolu3a">
+				<media id="id1170863471930" alt="">
+                                  <image src="../../media/Harmseries7.png" mime-type="image/png"/>
+                                  <image for="pdf" src="../../media/Harmseries7.eps" mime-type="application/postscript"/>
+                                </media>
+			</figure>
+		</solution>
+
+	</exercise>
+
+	<para id="p3g">
+<note id="id1170867694910">The <link document="m11617" strength="2">French horn</link> has a reputation for being a "difficult" instrument to play. This is also because of the harmonic series. Most brass instruments play in the first few octaves of the harmonic series, where the notes are farther apart and it takes a pretty big difference in the mouth and lips (the <link document="m12364" target-id="p2a">embouchure</link>, pronounced AHM-buh-sher) to get a different note.  The range of the French horn is higher in the harmonic series, where the notes are closer together. So very small differences in the mouth and lips can mean the wrong harmonic comes out. </note>
+	</para>
+
+	</section>
+
+	<section id="s4">
+		<title>Playing Harmonics on Strings</title>
+
+		<para id="p4a">
+String players also use harmonics, although not as much as brass players. Harmonics on strings have a very different <link document="m11059">timbre</link> from ordinary string sounds. They give a quieter, thinner, more bell-like tone, and are usually used as a kind of ear-catching-special-effect.
+		</para>
+
+		<para id="p4b">Normally when a string player puts a finger on a string, he holds it down tight. This basically forms a (temporarily) shorter vibrating string, which then produces an entire harmonic series, with a shorter (higher) fundamental. 
+		</para>
+
+		<para id="p4c">
+In order to play a harmonic, he touches the string very, very lightly instead. So the length of the string does not change. Instead, the light touch interferes with all of the vibrations that don't have a node at that spot. (A <term>node</term> is a place in the wave where the string does not move back-and-forth. For example, the ends of the string are both nodes, since they are held in place.)
+		</para>
+
+		<figure id="fig4a"><title>String Harmonics</title>
+			<media id="id1170867469106" alt=""><image src="../../media/harmseries4a.png" mime-type="image/png"/></media>
+			
+		</figure>
+
+		<para id="p4d">The thinner, quieter sound of "playing harmonics" is caused by the fact that much of the harmonic series is missing from the sound, which will of course be heard in the <link target-id="p1bb" strength="3">timbre</link>. Lightly touching the string in most spots will result in no sound at all. It only works at the precise spots that will leave some of the main harmonics (the longer, louder, lower-numbered ones) free to vibrate.
+		</para>
+
+	</section>
+ 
+  </content>
+  
+</document>

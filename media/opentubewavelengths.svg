@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="357" height="135"
+	 viewBox="0.007 -0.001 357 135" overflow="visible" enable-background="new 0.007 -0.001 357 135" xml:space="preserve">
+	<style type="text/css">
+	<![CDATA[
+@font-face{font-family:'Myriad-Roman';src:url("data:;base64,\
+T1RUTwADACAAAQAQQ0ZGIP0wlB0AAAA8AAAImUdQT1Oy1cI+AAAJVAAAAYpjbWFwAtgCvwAACNgA\
+AAB8AQAEAgABAQENTXlyaWFkLVJvbWFuAAEBASD4GwH4GARd+476+vnTBR0AAKQDDfd9D/efEcUc\
+CF8SAAEBAapDb3B5cmlnaHQgKGMpIDE5OTIsIDE5OTQgQWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0\
+ZWQuICBBbGwgUmlnaHRzIFJlc2VydmVkLk15cmlhZCBpcyBhIHRyYWRlbWFyayBvZiBBZG9iZSBT\
+eXN0ZW1zIEluY29ycG9yYXRlZCBtYXkgYmUgcmVnaXN0ZXJlZCBpbiBjZXJ0YWluIGp1cmlzZGlj\
+dGlvbnMuAAABAAEAAAkBABMCAB4AACcAAEIEAEgBAE0CAFIBAFUBAFkBABkCAAEAAgADADYAaQCu\
+ARQBWQF6AZoCDAJ4ArkDKAODBA8EVARnBOEFKQWWBeAGJgZxBsMHHg4O+6P7DfnDAcvVA/dX+UoV\
+TDdI+xWK+1gI+1fP+xTKOB7PBkXvVPcT90Ya90q/9xXU7h4O+6P7DfnDAfcl1QPj+w0VyuDO9xOM\
+91gI91hH9xVM3R5HBtInwfsT+0ga+0hU+xVFKB4OYYvU+JfUAff44wP4YBbU+7eNB767Bfcd9xji\
+7PcMGuhQ6/sfQEpuZl8ep00FpKm8qcYb7KpOSSk/N/s6+zIfRkgFVQcOYYDS95TN92TSEvfi5Enm\
+E+i1rBV2q8t01Bv3L93m8+ZKxzuaH40HE/DaqLTEzxraUdf7FEVJcnJoHqNLBZ+nvaK/G9ysXVc+\
+OmpLH1pJvAYT6ODdZDCMH1SMZ0T7BBtNUqSach8OYaB290XP99TgAZrk92neA/gkFvdF5s8w+Cks\
+B/u2/DQFUvfC+0UH+2n3iRWNB/cz93Gdqpunn7EZjgaJaYppaRr7bgcOtPchx/ccxwGz+JgD+MD3\
+5RXH/JhPB/iY+1gVx/yYTwcOR6B298XT93TUAdbjA9YW4/fF95LT+5L3dPen1Pv/Bg5CgMxqdveL\
+yPcOzBKu4/df4xO8+DL3vRXsZ/D7KU5QenJjHp9QBaKtupi5G+6MlkJjGoEH+0+MI0v7CRpFvUbt\
+0MCtsaUejgYTfJNOBdoGhqyJtLUaNboVE7yCioGIgh5ifWJjSxtfZaXF6fcBnOuJHw6ZgNFldvg+\
+0PdrdxLU4/eu5BO81PcRFRN8YIpaiGoe1wYTvJDbBY0GS7DCcNEb9wD3AuH3QvcmN+/7DD1TaVVs\
+H4n3wzMG4/xBFZmNl46WHs2cw7XHG+m9OCn7A1VALkxXtch6H4mVipaWGg4ggNL4AdEBseQD+Cfe\
+FYByan9ZGytD0PcE8Mfe9wO7rH+AoB+fzgWYc12YVxv7MiX7Afsp+ynqKPcmzL6clqIfDpSA0mR2\
++D7Q92t3ErHk96jjE7z4J/laFfu0iQexdlmuQBv7CSYp+zaMH/sn5ij3CdrFtMGmHo0GE3yPNwXa\
+Boisiry2GvjdBzP8jxV9in+Ifx4TvEp7VWNQGy1a3O71wdvmzbtdVJgfjn+MfX8aDlWB0P8Ap4AA\
+/wA/gAD3I8oBseD3leAD+GL3dhWNlYyZnRrkYvcf+zL7ITT7B/sn+yXlKPco2MGcmaoee8kFfmtk\
+gEwbM0C89wuJH4zKFciSsd3lG+2jM1SKHw6P+2XQ9yLO9/rPgHcSseT3pOMT7Ph79/QVE9zGjLKO\
+rR49BhPsiEMFiQazdV62Nxv7BCAv+zj7G+El9wzWwK+4pR+NVgb7D0lcMU9ZnaBrHnVHBXGyy33F\
+G8jPmra7H7m2os73BBoz9xwVe4l6hn0eUnlaaVQbLVrb6fcFx9LfzLVhV5sfj3+Mfn0aDougdvg6\
+1PdrdwHU4/eA4wPUFuP3uAacjJiQlx67nLezxBveqEo8H/uq4/e0B/c7I7NKamyCe3EecH11dH1y\
+CIn3wjMGDvvVoHb5WncB1OMD1Bbj+VozBg73q6B2+DvTgHcS1OH3beH3beEUHBPc1Bbh97gGmo2a\
+kJget5m0t8Ebzq1UPR/7tuH3wAeajpuPmB61m7GwvhvRrlQtH/um4fexB/c8LLVKXWx/dW4ed3x3\
+d3xvCIkGxHZZs0obOl5gXXAfiAYTvIfZBT4GjWONY1gaDougdvg704B3EtTj94DjE9jUFuP3uAaZ\
+jZuPlh68m7i0xBveqEk9H/ur4/e1B/c6I7NIO1NeXnMeiQYTuIbaBT0GjmOMY1gaDpP7RXb3T9H4\
+AtGAdxKx5Peo4xPs+Cf7WhXj+LkGE9y+jLWOsx43BhPsiEIFiQa6c1mwQBsl+wk7+0n7KOcq9wXZ\
+wbG6pR+NBvcPBH6Ieod/Hk53WmhSGypd3uz3AcLY5s25XVWZH46AjH5+Gg77eKB2+DDegHendxLV\
+4hPI1Bbj95YGmoyZjZgezJe3uskbl5SKipUfE5jdBxPIjYOEjIIbUFViSnUfiAYTqIfqBT4Gjl6M\
+WlIaDvt0gNRjdvg0zhLo4RNw6PjRFTJASNb7nAcTsFKVYKNwHnSgrH20G62mkZGcH4fOBYd+fYlz\
+G1p6rccf95n3Es77EvcIBw6HgNRidvh4dxLR4/d84xO4+HL4eBUz+7wGeoh7hn8eY3tiYlAbPG7K\
+5x/3nzP7rwf7PeZg1+G/vrKhHo0GE3iQPAXZBoixire9Gg4voHb4eHcBk/hPA5v4eBX3OPuB+0D7\
+iwXsBtH3AZ2onKWbqBmNBpxum3Ceb9L7ARjvBvs99473Ofd+BSsGSCR6cXtye28ZiAZ7pnyjeadG\
+8hgON/tcdvlVdwGU+FsDlPh4FfdG/FMFkIGNhIYahYiFh4Iedl5uaXN4cXRufXWFoUEYoY+1mrew\
+x8C24Mr3OvcY9+0YLgYr+7B/aIFmgm4ZiQaDqH+xf6si97IYDoCW+TaW+12X9y6WvJYG95mQ/GaR\
+cJQHHqBgRYKZ/wwJHnoJmZmfDArOCuMLzpEMDOOPDA33aBT4vxUAAAAAAAABAAAAAwAAAAwABABw\
+AAAAGAAQAAMACAAgACkANAA9AEYAZQBoAG4AcgB1AHn//wAAACAAKAAyAD0ARgBhAGcAbABxAHQA\
+eP///+H/2v/S/8r/wv+o/6f/pP+i/6H/nwABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAK\
+AB4ALAABREZMVAAIAAQAAAAA//8AAQAAAAFrZXJuAAgAAAABAAAAAQAEAAIAAAABAAgAAQE2AAQA\
+AAAOACYAQABKAGQAegCAAIoAkACaAKQArgDsAQIBHAAGAAn/0gAN/+AAEP/vABT/5gAW/90AGP/r\
+AAIAFf/8ABj/9QAGAAsAAQAMAAEADQABAA4AAQATAAEAGP/4AAUACQABAAz/+gAN//oAFQANABgA\
+EgABABj//wACABf//QAY//4AAQAY//8AAgAV//wAGP/zAAIAFf/8ABj/8wACABX//AAY//MADwAJ\
+//oAC//6AAz/+gAN//oADv/4AA8ABQAQAAQAEQAEABIABAAT//UAFAAEABUAGAAW//4AFwASABgA\
+GAAFAAv/+gAM//oADf/6AA7/+gAYAAkABgAL//EADP/xAA3/8QAT//EAFQANABgADwAGAAn/+wAL\
+//YADP/2AA3/9gAO//YAE//2AAIABAAIAA8AAAARABIACAAUABUACgAXABgADAAA")}
+	]]>
+	</style>
+	<g id="Layer_1_2_">
+		<path fill="none" stroke="#000000" d="M0.408,134.227h186.61"/>
+		<path fill="none" stroke="#000000" d="M0.043,118.311h186.608"/>
+		<path fill="none" stroke="#FF0000" d="M1.003,77.811c15.316,0,26.956,5.75,30.633,7.667c3.675,1.917,15.315,7.667,30.631,7.667
+			c15.316,0,26.957-5.75,30.631-7.667c3.676-1.917,15.316-7.667,30.632-7.667c15.318,0,26.958,5.75,30.632,7.667
+			c3.677,1.917,15.316,7.667,30.633,7.667c0.972,0,1.93-0.023,2.871-0.067"/>
+		<path fill="none" stroke="#0A50A1" d="M0.896,93.145c15.263,0,26.862-5.75,30.525-7.667c3.662-1.917,15.262-7.667,30.524-7.667
+			c15.263,0,26.862,5.75,30.524,7.667c3.663,1.917,15.262,7.667,30.524,7.667c15.264,0,26.862-5.75,30.525-7.667
+			c3.663-1.917,15.261-7.667,30.524-7.667c1.084,0,2.15,0.029,3.195,0.083"/>
+		<path fill="none" stroke="#000000" d="M1.107,93.416h186.61"/>
+		<path fill="none" stroke="#000000" d="M0.742,77.5H187.35"/>
+		<path fill="none" stroke="#FF0000" d="M0.852,38.334c23.256,0,40.93,5.75,46.512,7.667c5.58,1.917,23.255,7.667,46.51,7.667
+			c23.256,0,40.931-5.75,46.51-7.667c5.581-1.917,23.255-7.667,46.513-7.667"/>
+		<path fill="none" stroke="#0A50A1" d="M0.967,53.668c23.313,0,41.032-5.75,46.627-7.667c5.594-1.917,23.312-7.667,46.626-7.667
+			c23.314,0,41.031,5.75,46.625,7.667c5.595,1.917,23.314,7.667,46.626,7.667"/>
+		<path fill="none" stroke="#000000" d="M1.107,54.416h186.61"/>
+		<path fill="none" stroke="#000000" d="M0.742,37.5H187.35"/>
+		<path fill="none" stroke="#FF0000" d="M0.512,0.72c2.33-0.035,4.695-0.053,7.092-0.053c42.634,0,75.034,5.75,85.268,7.667
+			C103.1,10.25,135.501,16,178.134,16c2.79,0,5.538-0.024,8.236-0.071"/>
+		<path fill="none" stroke="#0A50A1" d="M0.008,15.925c2.81,0.049,5.671,0.076,8.579,0.076c43.125,0,75.898-5.75,86.249-7.667
+			c10.347-1.917,43.122-7.667,86.247-7.667c1.61,0,3.206,0.008,4.786,0.023"/>
+		<path fill="none" stroke="#000000" d="M0.441,16.416h186.61"/>
+		<path fill="none" stroke="#000000" d="M0.076,0.5h186.608"/>
+		<text transform="matrix(1 0 0 1 206.0073 10.9985)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">Fundamental (2 x tube length)</tspan></text>
+		<text transform="matrix(1 0 0 1 206.0073 50.9985)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">Frequency = 2 x Fundamental</tspan></text>
+		<text transform="matrix(1 0 0 1 208.0073 89.9985)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">Frequency = 3 x Fundamental</tspan></text>
+		<text transform="matrix(1 0 0 1 209.0073 129.9985)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">Frequency = 4 x Fundamental</tspan></text>
+		<path fill="none" stroke="#0A50A1" d="M0.442,133.855C1.464,133.949,2.512,134,3.585,134c11.399,0,20.062-5.75,22.797-7.667
+			c2.735-1.917,11.398-7.667,22.797-7.667c11.398,0,20.061,5.75,22.796,7.667S83.375,134,94.773,134
+			c11.398,0,20.062-5.75,22.796-7.667c2.736-1.917,11.399-7.667,22.797-7.667s20.062,5.75,22.797,7.667
+			c2.735,1.917,11.398,7.667,22.796,7.667"/>
+		<path fill="none" stroke="#FF0000" d="M0.109,119.143c1.021-0.094,2.07-0.145,3.143-0.145c11.399,0,20.062,5.75,22.797,7.667
+			c2.735,1.917,11.398,7.667,22.797,7.667c11.398,0,20.061-5.75,22.796-7.667s11.399-7.667,22.797-7.667
+			c11.398,0,20.062,5.75,22.796,7.667c2.736,1.917,11.399,7.667,22.797,7.667s20.062-5.75,22.797-7.667
+			c2.735-1.917,11.398-7.667,22.796-7.667"/>
+	</g>
+</svg>

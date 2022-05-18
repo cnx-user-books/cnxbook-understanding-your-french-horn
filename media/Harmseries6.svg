@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="444" height="402"
+	 viewBox="0 0.162 444 402" overflow="visible" enable-background="new 0 0.162 444 402" xml:space="preserve">
+	<style type="text/css">
+	<![CDATA[
+@font-face{font-family:'Maestro';src:url("data:;base64,\
+T1RUTwACACAAAQAAQ0ZGIGutKNcAAAAsAAADnmNtYXD/mLFgAAADzAAAAEwBAAQCAAEBAQhNYWVz\
+dHJvAAEBAR34GwwA+BgE+yr+aBwF4hwFsQXrD4wQ9hGL+jISAAEBASlDb3B5cmlnaHQgKGMpIDE5\
+OTkgQ29kYSBNdXNpYyBUZWNobm9sb2d5AAAAAAQABwBDAE8AWAAGAgABABgAbwIpApgCwQMj+IjK\
+FviB+Av8gQf7zcoV9474BPuOBg73gPc+6RUpawX7KQftqwX7PvdZFbaZBfc3qPstB+2rBfcmqPsd\
+B7KYBSMHZH4F+ygHspcFJAdkfgX7N273LgcpawX7KG73HgdgfQXzB7aZBfcpB2B9BQ75Wfhm+5AV\
+h3JwiW4bTV2SmW4fLrhJwmTMb7p6yobZhsybzq7SqciywLu4urjBuMe4iJyGrIW8CIi5iaucGruP\
+uZO2HpOyn7mswK/FqqimjAihpGpJph+mSZlSjFyMTIVVfV6CbXlmcl6AeXVtamKCf35/fH5+gX6B\
+foCs+1YYjJSUjJYbyLp/cqwfyl2tSZE2kFB9VGxYaVRZYUlwlE6TUZRUCJBqjW50GmuGcoF4HmZG\
+VGdAhl6IYJVgoFalb7GIvIivkqqcpJ6pppuwjaSNo4OieaJ4l3SNcJBPZmI8dQhxna9+wRuop5Sc\
+ph+mnKChmqUIlJyQpq4aoImjiKYegsSCw4LECKAcBPMVYWhrSnAfcU9+RTwacY1yjnMewLS3ubC8\
+ucigwIi4h8V3qGeKCFH+ARXD+/HgqLHMhPIZg/VSviCGCHGJFVqKZ3pyanhyg26NbIx0k3Occ5ty\
+nXqegYiJh4eIhmSeb6B5pHCvfLOIt4mokqqaqwicrqOoq6SjnqaYqpJt90kYdH5rcWBkVlxlYHNm\
+VzpzRpBQkEKsTchXCFbI0nHdG6aljpGmH3f3C3j3Cnj3CggO92al+EUV+5QHi4t2YBqppq2ZsIwI\
+op+BeJwfmnmSd4x1jHqGd4J0iIKDgYCAgoOCg4KCWmdZZ1pmCPjjB/b76hWUg4GQfht7foJ5gR+E\
+fYdqVxo1B4yInZywrp+emKGRpAiOlYyVlRqhhZ1/mB4O91r3HucV+wZtBfsxB/cGqQX7BvdzFfcg\
+sQX8z3H3agf7H2cF+NakBw74OY4EiK6eqbKmCKWyupjCG8eKvYC0dbhzo2mPX45oem1kcQhxZFt+\
+VBtOjFmWY6BepHKth7YI9xGeFTSYq1/AG6KelJ2aH5mdkZ6Ingjjfmm3VBt0eYJ5fh99eYZ4jncI\
+DgAAAAAAAQAAAAMAAAAMAAQAQAAAAAwACAACAATwI/Am8GLwbvB3//8AAPAj8CbwYvBu8Hf//w/e\
+D9wPoQ+WD44AAQAAAAAAAAAAAAAAAA==")}
+@font-face{font-family:'Myriad-Roman';src:url("data:;base64,\
+T1RUTwADACAAAQAQQ0ZGIM9rjnUAAAA8AAAKH0dQT1O9Cs7VAAAK0AAAAsRjbWFwAk0B8gAAClwA\
+AAB0AQAEAgABAQENTXlyaWFkLVJvbWFuAAEBASD4GwH4GARd+476+vnTBR0AAKQDDfd9D/ecEcUc\
+CeUSAAEBAapDb3B5cmlnaHQgKGMpIDE5OTIsIDE5OTQgQWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0\
+ZWQuICBBbGwgUmlnaHRzIFJlc2VydmVkLk15cmlhZCBpcyBhIHRyYWRlbWFyayBvZiBBZG9iZSBT\
+eXN0ZW1zIEluY29ycG9yYXRlZCBtYXkgYmUgcmVnaXN0ZXJlZCBpbiBjZXJ0YWluIGp1cmlzZGlj\
+dGlvbnMuAAABAAEAAA0BABIBABsAACkAAC4BADQAAEIIAE0EAFMFAB8CAAEABAAHACYAOgBeAKMA\
+2gEDAWsBvQIVAocC8wM0A6MD/gQ/BMsFEAVEBVcF0QYZBloGxQcPB2UHqwf2CDAIm/vrDvvrDvsQ\
+944Bm/cyA9n7CRWnurf3A6PgKYEYgEJwIHVPCA77jPeCywGp94sDqffCFUv3i8sHDmGgdvjM3Yt3\
+EveA4BOw94AW4PkeQAYT0PsiP5xI9wXIBY0GDmGL1PiX1AH3+OMD+GAW1Pu3jQe+uwX3HfcY4uz3\
+DBroUOv7H0BKbmZfHqdNBaSpvKnGG+yqTkkpPzf7OvsyH0ZIBVUHDoD3Efd49xEBv/cKA/cE9+oV\
+r6KmrrB0pWdpcnFmaKNwrR/79QSvoqausHSlZ2lycWZoo3CtHw7soHb30Nf3rncB1uP32uMD1vk2\
+Ff024/fQ99r70OP5NjP7rvva964HDveNoHb43+IBxflEA/koFuEGYfk2BfsDBvsM+9ptNnNBeUcZ\
+iQZ50XXVb977B/faGPsDBlz9NgXeBp33tZHxkPcEjd8ZjQaeO6U1qyv3AvvVGM0G9wv3263opuCj\
+2RmNBjiR+waQLR4O8ov3Bi52+Mv2i3cS19336t0TXPcyFve0BxNs9wSK3IbgHo6MrEK4PrpAGfdq\
+++oF4/k2OfuvBhOcI405kzEeiIps0WPRWtoZ+2v36QUr/TYGDk2A1Pi70wHD4/dt4wO1rBVzr9J3\
+zBv3M9fm8+5SwfsGuB8ur2Kqyhq5rsLnyLh4fqAeo9IFnG5Ym0cb+xc0PSItz1H3AmMf5mmvZk0a\
+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\
+/7f/qv+o/6cAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAoAHgAsAAFERkxUAAgABAAAAAD/\
+/wABAAAAAWtlcm4ACAAAAAEAAAABAAQAAgAAAAEACAABAnYABAAAABgAOgBAAEYAUAByAIQAugDI\
+AOoBBAESARwBQgFQAVoBZAFuAZABrgIAAgYCJAIqAlAAAQAB/7sAAQAB/7wAAgAPAAEAFwABAAgA\
+CwAGAA0ABgAOAAYADwAGABMADQAWAAsAFwAFABwAAwAEAAv//gAP//8AF///ABz//wANAAsABQAP\
+AAYAEv/9ABP//wAU//4AFf//ABb//wAXAAQAGP//ABn//wAb//wAHf/1AB7/9wADABv//AAd//MA\
+Hv/4AAgAAv/bAA0AAQAOAAEADwABABEAAQAXAAEAHf/4AB7//QAGAAL/8QALAAEADv/6AA//+gAX\
+//oAGwANAAMAAv/nAB3//wAe//8AAgAC/+0AHf/+AAkAAv/YAAYAHwAN//QADv/0AA//9AAR//QA\
+F//0ABr/9wAbAAsAAwAC/+gAEAAEABj/+gACABv//AAd/+4AAgAb//wAHf/uAAIAG//8AB3/7gAI\
+AAL/5AANAAEADgABAA8AAQARAAEAFwABAB3/9wAe//kABwAC/+QADQABAA4AAQAPAAEAEQABABcA\
+AQAe//wAFAAC/8QABgAQAAv/+gAN//oADv/6AA//+gAQAB4AEf/4ABIABQATAAQAFAAEABUABAAW\
+AAQAF//6ABgABAAZAAQAGwAYABz//gAdABkAHgAaAAEAAv/xAAcAAv/5AA3/+gAO//oAD//6ABH/\
++gAX//oAHgAEAAEAAv/xAAkAAv/OAAYAHwAL//IADf/1AA7/9QAP//UAF//1ABr/+gAeAAgACQAC\
+/9IABgAfAAv//AAN//cADv/3AA//9wAX//cAGv/+AB0ACgACAAMAAgACAAAABgASAAEAFQAeAA4=")}
+	]]>
+	</style>
+	<g id="Layer_1_2_">
+		<g>
+			<path fill="none" stroke="#000000" d="M4.906,38.328h394.118"/>
+			<path fill="none" stroke="#000000" d="M4.906,53.439h394.118"/>
+			<path fill="none" stroke="#000000" d="M5.102,60.562h394.119"/>
+			<path fill="none" stroke="#000000" d="M4.8,67.946h394.118"/>
+			<path fill="none" stroke="#000000" d="M4.8,45.582h394.118"/>
+		</g>
+		<text transform="matrix(1 0 0 1 141 170.1621)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 12 61.1621)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M0.107,144.833h399.914"/>
+			<path fill="none" stroke="#000000" d="M0.107,159.945h399.914"/>
+			<path fill="none" stroke="#000000" d="M0.306,167.067h399.915"/>
+			<path fill="none" stroke="#000000" d="M0,174.451h399.915"/>
+			<path fill="none" stroke="#000000" d="M0,152.087h399.915"/>
+		</g>
+		<text transform="matrix(1 0 0 1 7.1997 167.6675)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M0.107,246.497h401.055"/>
+			<path fill="none" stroke="#000000" d="M0.107,261.608h401.055"/>
+			<path fill="none" stroke="#000000" d="M0.307,268.731h401.055"/>
+			<path fill="none" stroke="#000000" d="M0,276.115h401.055"/>
+			<path fill="none" stroke="#000000" d="M0,253.75h401.055"/>
+		</g>
+		<text transform="matrix(1 0 0 1 7.1997 271.9971)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M0.119,351.326h444.021"/>
+			<path fill="none" stroke="#000000" d="M0.119,366.438h444.021"/>
+			<path fill="none" stroke="#000000" d="M0.339,373.561h444.022"/>
+			<path fill="none" stroke="#000000" d="M0,380.944h444.021"/>
+			<path fill="none" stroke="#000000" d="M0,358.58h444.021"/>
+		</g>
+		<text transform="matrix(1 0 0 1 7.1997 374.1606)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<text transform="matrix(1 0 0 1 97.0078 75.666)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+			<path fill="none" stroke="#000000" d="M95,76.162h14.667"/>
+		</g>
+		<path fill="none" stroke="#000000" d="M52.667,94.496h12"/>
+		<g>
+			<path fill="none" stroke="#000000" d="M53,88.162h12"/>
+			<path fill="none" stroke="#000000" d="M52.666,81.162h12"/>
+			<path fill="none" stroke="#000000" d="M52.666,74.496h12"/>
+		</g>
+		<text transform="matrix(1 0 0 1 5 25.1621)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">No valves</tspan></text>
+		<text transform="matrix(1 0 0 1 4 132.1621)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">2nd valve: Harmonic Series one half step lower</tspan></text>
+		<text transform="matrix(1 0 0 1 4.4995 232.3291)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">1st valve: Harmonic Series one whole step lower</tspan></text>
+		<text transform="matrix(1 0 0 1 5 337.6621)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">Mid-range notes available using no valve, 2nd valve alone, or 1st valve alone</tspan></text>
+		<text transform="matrix(1 0 0 1 54.0073 97.999)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<path fill="none" stroke="#000000" d="M53.667,199.829h12"/>
+		<g>
+			<path fill="none" stroke="#000000" d="M54,193.496h12"/>
+			<path fill="none" stroke="#000000" d="M53.666,186.496h12"/>
+			<path fill="none" stroke="#000000" d="M53.666,179.829h12"/>
+		</g>
+		<path fill="none" stroke="#000000" d="M56.333,301.163h12"/>
+		<g>
+			<path fill="none" stroke="#000000" d="M56.667,294.829h12"/>
+			<path fill="none" stroke="#000000" d="M56.333,287.829h12"/>
+			<path fill="none" stroke="#000000" d="M56.333,281.163h12"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 54.6743 206)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+			<path fill="none" stroke="#000000" d="M52.667,206.496h14.667"/>
+		</g>
+		<text transform="matrix(1 0 0 1 146 61.0044)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 185.9985 50.5054)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 232.4961 43.0054)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 274.9941 35.0059)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" stroke-miterlimit="1" d="M316.902,31.162h14.553"/>
+			<text transform="matrix(1 0 0 1 319.4912 28.0063)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		</g>
+		<text transform="matrix(1 0 0 1 150.9922 170.8359)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 189.0942 160.2646)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 237.4922 152.5005)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 283.4902 145.0005)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 152.4966 271.9941)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 196.4941 261.9946)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 237.5918 253.7603)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 283.4893 245.9956)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 44.6021 376.7539)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 82.5 377.6553)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 115.4985 373.8223)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 152.4971 366.8228)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 185.1621 366.4893)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 215.9937 361.9893)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 248.1592 358.8228)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 280.6572 358.1563)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 313.6553 355.1563)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 345.4873 351.3237)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 382.3193 351.6563)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 413.9834 348.9902)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M98.334,180.829h12"/>
+			<text transform="matrix(1 0 0 1 99.6743 184.3325)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 94.667 285.4956)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+			<path fill="none" stroke="#000000" d="M100.334,281.829h12"/>
+			<text transform="matrix(1 0 0 1 101.6743 285.3325)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		</g>
+		<text transform="matrix(1 0 0 1 47 310.1621)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<text transform="matrix(1 0 0 1 55.6743 308)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+			<path fill="none" stroke="#000000" d="M53.667,308.496h14.667"/>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 322.6738 136)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+			<path fill="none" stroke="#000000" d="M320.666,136.496h14.667"/>
+		</g>
+		<text transform="matrix(1 0 0 1 188 262.1621)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 225 153.1621)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 275 145.1621)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 310 29.1621)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" stroke-miterlimit="1" d="M360.902,137.162h14.553"/>
+			<text transform="matrix(1 0 0 1 363.4912 134.0063)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 327.6738 238)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+			<path fill="none" stroke="#000000" d="M325.666,238.496h14.667"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#000000" stroke-miterlimit="1" d="M363.357,236.162h14.553"/>
+			<text transform="matrix(1 0 0 1 365.9463 233.0063)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		</g>
+		<text transform="matrix(1 0 0 1 356.4551 233.1621)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 319 240.1621)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M360,30.162h14.666"/>
+			<g>
+				<text transform="matrix(1 0 0 1 361.0078 24)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+				<path fill="none" stroke="#000000" d="M359,24.496h14.667"/>
+			</g>
+		</g>
+		<text transform="matrix(1 0 0 1 73 378.8286)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 144.3335 366.8291)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 177 366.8291)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 271.667 359.8286)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 374.334 351.8286)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+	</g>
+</svg>

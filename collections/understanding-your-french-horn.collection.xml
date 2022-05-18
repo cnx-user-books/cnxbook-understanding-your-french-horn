@@ -1,0 +1,36 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10219</md:content-id>
+    <md:title>Understanding Your French Horn</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
+    <md:uuid>eb7a548e-9355-4035-bbb5-04398393bf28</md:uuid>
+<md:slug>understanding-your-french-horn</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>The Physics of Horn Playing</md:title>
+      <col:content>
+        <col:module document="m13246"/>
+        <col:module document="m12589"/>
+        <col:module document="m11118"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Horn and Its History</md:title>
+      <col:content>
+        <col:module document="m11897"/>
+        <col:module document="m12364"/>
+        <col:module document="m11617"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Transposition</md:title>
+      <col:content>
+        <col:module document="m10672"/>
+        <col:module document="m10668"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m13559"/>
+  </col:content>
+</col:collection>

@@ -1,0 +1,163 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Standing Waves and Wind Instruments</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12589</md:content-id>
+  <md:title>Standing Waves and Wind Instruments</md:title>
+  <md:abstract>The musical sounds of aerophones (woodwinds and brass) are created by standing waves in the air inside the instruments.</md:abstract>
+  <md:uuid>6d44131a-aae6-4a8b-9276-f0249bdab2fe</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m11118/latest/" strength="3">Harmonic Series</link>
+      <link url="http://cnx.rice.edu/content/m12413/latest/" strength="3">Standing Waves and Musical Instruments</link>
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="2">Frequency, Wavelength, and Pitch</link>
+      <link url="http://cnx.rice.edu/content/m12378/latest/" strength="2">Transverse and Longitudinal Waves</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m12364/latest/" strength="3">Wind Instruments - Some Basics</link>
+      <link url="http://cnx.rice.edu/content/m11896/latest/" strength="2">Classifying Instruments</link>
+      <link url="http://cnx.rice.edu/content/m11897/latest/" strength="2">Orchestral Instruments</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <section id="s0">
+   <title>Introduction</title>
+
+    <para id="p0a">A <link document="m11897" target-id="s1">wind instrument</link> makes a <link document="m12413" target-id="p0c">tone</link> when a <link document="m12413">standing wave</link> of air is created inside it. In most wind instruments, a vibration that the player makes at the <link document="m12364" target-id="p1b">mouthpiece</link> is picked up and amplified and given a pleasant <link document="m11059">timbre</link> by the air inside the tube-shaped body of the instrument. The shape and length of the inside of the tube give the sound wave its <link document="m10943">pitch</link> as well as its timbre.
+    </para>
+    <para id="p0b">You will find below a discussion of <link target-id="s1">what makes standing waves in a tube</link>, <link target-id="s2">wind instruments and the harmonic series</link>, and <link target-id="s3">the types of tubes that can be used in musical instruments</link>. This is a simplified discussion to give you a basic idea of what's going on inside a wind instrument. Mathematical equations are avoided, and  all the complications - for example, what happens to the wave when there are closed finger holes in the side of the tube - are ignored. Actually, the physics of what happens inside real wind instruments is so complex that physicists are still studying it, and still don't have all the answers. If you want a more in-depth or more technical discussion, there are some recommendations <link target-id="s4">below</link>.
+    </para>
+    <para id="p0c">If you can't follow the discussion below, try reviewing <link document="m13246">Acoustics for Music Theory</link>, <link document="m12413">Standing Waves and Musical Instruments</link>, <link document="m13682">Harmonic Series I</link>, and <link document="m12364">Wind Instruments: Some Basics</link> 
+    </para> 
+
+  </section>
+  <section id="s1">
+   <title>What Makes the Standing Waves in a Tube</title>
+
+    <para id="p1a">
+As discussed in <link document="m12413">Standing Waves and Musical Instruments</link>, instruments produce musical tones by trapping waves of specific lengths in the instrument. It's pretty easy to see why the <link document="m12413" target-id="s1">standing waves on a string</link> can only have certain lengths; since the ends of the strings are held in place, there has to be a <link document="m12413" target-id="p0ee">node</link> in the wave at each end. But what is it that makes only certain standing waves possible in a tube of air?
+    </para>
+    <para id="p1b">To understand that, you'll have to understand a little bit about what makes waves in a tube different from waves on a string. Waves on a string are <link document="m13246" target-id="s11">transverse waves</link>. The string is stretched out in one direction (call it "up and down"), but when it's vibrating, the motion of the string is in a different direction (call it "back and forth"). Take a look at this <link resource="TransverseNodes.swf">animation</link>. At the nodes (each end, for example), there is no back and forth motion, but in between the nodes, the string is moving back and forth very rapidly. The term for this back-and-forth motion is <term>displacement</term>. There is no displacement at a node; the most displacement happens at an <link document="m12413" target-id="p0ee">antinode</link>.
+    </para>
+
+    <figure id="fig1a">
+      <title>Transverse Motion on a String</title>
+      <media id="id11915158" alt=""><image src="../../media/TransverseNodes.png" mime-type="image/png"/></media>
+    </figure>
+
+    <para id="p1c">The standing waves of air in a tube are not transverse waves. Like all sound waves, they are <link document="m13246" target-id="s11">longitudinal</link>. So if the air in the tube is moving in a certain direction (call it "left and right"), the vibrations in the air are going in that same direction (in this case, they are rushing "left and right").
+    </para>
+    <para id="p1d">But they are like the waves on a string in some important ways. Since they are standing waves, there are still nodes - in this case, places where the air is not rushing back and forth. And, just as on the string, in between the nodes there are antinodes, where the displacement is largest (the air is moving back and forth the most). And when one antinode is going in one direction (left), the antinodes nearest it will be going in the other direction (right). So, even though what is happening is very different, the end result of standing waves "trapped" in a tube will be very much like the end result of standing waves "trapped" on a string: a <link document="m13682">harmonic series</link> based on the tube length.
+    </para>
+    <para id="p1e">There will be more on that harmonic series in the <link target-id="s2">next section</link>. First, let's talk about why only some standing waves will "fit" in a tube of a particular length. If the tube were closed on both ends, it's easy to see that this would be a lot like the wave on the string. The air would not be able to rush back and forth at the ends, so any wave trapped inside this tube would have to have nodes at each end. <note id="id11961549">It's very difficult to draw air that is rushing back and forth in some places and standing still in other places, so most of the figures below use a common illustration method, showing the longitudinal waves as if they are simultaneously the two maximum positions of a transverse wave. Here is an <link resource="PressureWaveNew.swf">animation</link> that may give you some idea of what is happening in a longitudinal standing wave. As of this writing, there was a nice <link url="http://www.physics.smu.edu/~olness/www/05fall1320/applet/pipe-waves.html">Standing Waves applet</link> demonstration of waves in tubes. Also, see <link target-id="element-428">below</link> for more explanation of what the transverse waves inside the tubes really represent.</note>
+    </para>
+    <figure id="fig1d"><title>Fully Closed Tube</title>
+       <media id="id11961602" alt=""><image src="../../media/closedtube.png" mime-type="image/png"/></media>
+       <caption>
+The standing waves inside the tube represent back-and-forth motion of the air. Since the air can't move through the end of the tube, a closed tube must have a node at each end, just like a string held at both ends.
+       </caption>
+    </figure>
+    <para id="p1f">Now, a closed tube wouldn't make a very good musical instrument; it wouldn't be very loud. Most of the sound you hear from an instrument is not the standing wave inside the tube; the sound is made at the open ends where the standing waves manage to create other waves that can move away from the instrument. Physicists sometimes study the acoustics of a tube closed at both ends (called a <term>Kundt tube</term>), but most wind instruments have at least one open end. An instrument that is open at both ends may be called <term>open-open</term>, or just an <term>open tube</term> instrument. An instrument that is only open at one end may be called <term>open-closed</term>, or a <term>closed tube</term> or <term>stopped tube</term> instrument (or sometimes <term>semi-closed</term> or <term>half-closed</term>). This is a little confusing, since such instruments (<link document="m12606">trumpets</link>, for example) still obviously have one open end.
+    </para>
+    <para id="p1g">Now, there's nothing stopping the air from rushing back and forth at the open end of the tube. In fact, the waves that "fit" the tube are the ones that have antinodes at the open end, so the air is in fact rushing back and forth there, causing waves (at the same <link document="m13246" target-id="s2">frequency</link> as the standing wave) that are not trapped in the instrument but can go out into the room.
+    </para>
+    <figure id="fig1c">
+       <title>Open-Open and Open-Closed Tubes</title>
+       <media id="id11960688" alt=""><image src="../../media/opentubes.png" mime-type="image/png"/></media>
+       <caption>
+There must be a (displacement) antinode at any open end of a tube.
+       </caption>
+    </figure>
+    <para id="p1h">What is it that requires the waves to have an antinode at an open end? Look again at the <link resource="PressureWaveNew.swf">animation</link> of what is happening to the air particles in the standing wave. The air at the nodes is not moving back and forth, but it is piling up and spreading out again. So the <term>air pressure</term> is changing a lot at the nodes. But at the antinodes, the air is moving a lot, but it is moving back and forth, not piling up and spreading out. In fact, you can imagine that same wave to be an air pressure wave instead of an air displacement wave. It really is both at the same time, but the pressure wave nodes are at the same place as the displacement antinodes, and the pressure antinodes are at the same place as the displacement nodes. 
+    </para>
+    <figure id="fig1b"><title>An Air Displacement Wave is also an Air Pressure Wave</title>
+      <media id="id11960751" alt=""><image src="../../media/DisplacementPressureWave.png" mime-type="image/png"/></media>
+      <caption>
+The nodes of the displacement wave, where the air is not rushing back-and-forth but is doing the most piling-up-and-spreading-out, are the antinodes of the pressure wave. The antinodes of the displacement wave, where the air is rushing back-and-forth the most, but is not piling up or spreading out at all, are the nodes of the pressure wave. Both waves must have exactly the same frequency, of course; they are actually just two aspects of the same sound wave.
+      </caption>
+    </figure>
+    <para id="p1i">
+At an open end of the tube, there is nothing to stop the air rushing in and out, and so it does. What the air cannot do at the open end is build up any pressure; there is nothing for the air to build up against, and any drop in pressure will just bring air rushing in from outside the tube. So the air pressure at an open end must remain the same as the air pressure of the room. In other words, that end must have a pressure node (where the air pressure doesn't change) and (therefore) a displacement antinode. <note id="id11960790">Since being exposed to the air pressure outside the instrument is what is important, the "open end" of a wind instrument, as far as the sound waves are concerned, is the first place that they can escape - the first open hole. This is how <link document="m11897" target-id="s12">woodwinds</link> change the length of the wave, and the pitch of the note. For more on this, please see <link document="m12364">Wind Instruments – Some Basics</link>.</note>
+    </para>
+
+  </section>
+  <section id="s2">
+    <title>Harmonic Series in Tubes</title>
+
+    <para id="p2a">As explained in the <link target-id="s1">previous section</link>, the standing waves in a tube must have a (displacement) node at a closed end and an antinode at an open end. In an open-open tube, this leads to a <link document="m13682">harmonic series</link> very similar to a harmonic series produced on a <link document="m12413" target-id="s1">string</link> that's held at both ends. The <term>fundamental</term>, the lowest note possible in the tube, is the note with a wavelength twice the length of the tube (or string). The next possible note has twice the frequency (half the wavelength) of the fundamental, the next three times the frequency, the next four times, and so on.
+    </para>
+    <figure id="fig2a">
+      <title>Allowed Waves in an Open Tube</title>
+      <media id="id11960896" alt=""><image src="../../media/opentubewavelengths.png" mime-type="image/png"/></media>
+      <caption>
+These are the first four harmonics allowed in an open tube. Any standing wave with a displacement antinode at both ends is allowed, but the lower harmonics are usually the easiest to play and the strongest harmonics in the <link document="m11059">timbre</link>.
+      </caption>
+    </figure>
+    <para id="p2b">But things are a little different for the tube that is closed at one end and open at the other. The lowest note that you might be able to get on such a tube (a fundamental that is unplayable on many instruments) has a wavelength four times the length of the tube. (You may notice that this means that a stopped tube will get a note half the <link document="m13246" target-id="s2">frequency</link> - an <link document="m10862" target-id="">octave</link> lower - than an open tube of the same length.) The next note that is possible on the half-closed tube has three times the frequency of the fundamental, the next five times,and so on. In other words, a stopped tube can only play the odd-numbered harmonics.</para>
+    <figure id="fig2b">
+      <title>Allowed Wavelengths in a Stopped Tube</title>
+      <media id="id11960975" alt=""><image src="../../media/closedtubewavelengths.png" mime-type="image/png"/></media>
+      <caption>
+Again, these are the lowest (lowest pitch and lowest frequency) four harmonics allowed. Any wave with a displacement node at the closed end and antinode at the open end is allowed. Note that this means only the odd-numbered harmonics "fit".
+      </caption>
+    </figure><para id="element-332"><note id="id11960999" type="reminder"><label>Reminder</label>All of the transverse waves in <link target-id="fig1d"/>, <link target-id="fig1c"/>, <link target-id="fig2a"/>, and <link target-id="fig2b"/> represent longitudinal displacement waves, as shown in <link target-id="element-428"/>. All of the harmonics would be happening in the tube at the same time, and, for each harmonic, the displacement (<link target-id="element-428"/>) and pressure waves (<link target-id="element-334"/>) are just two different ways of representing the same wave.</note></para><figure id="element-428"><title>Displacement Waves</title> <media id="id11961068" alt=""><image src="../../media/DisplacementWaves.png" mime-type="image/png"/></media>
+<caption>Here are the first three possible harmonics in a closed-open tube shown as longitudinal displacement waves.</caption></figure><figure id="element-334"><title>Pressure Waves</title>
+<media id="id11961095" alt=""><image src="../../media/PressureWaves.png" mime-type="image/png"/><image for="pdf" src="../../media/PressureWaves.eps" mime-type="application/postscript"/></media>
+<caption>Here are those same three waves shown as pressure waves.</caption></figure>
+
+  </section>
+  <section id="s3">
+   <title>Basic Wind Instrument Tube Types</title>
+
+    <para id="element-814">The previous section shows why only the odd-numbered harmonics "fit" in a cylinder-shaped tube, but that is not the whole story. There is one other tube shape that works well for wind instruments, and it abides by slightly different rules.</para><para id="p3a">Just as on a <link document="m12413" target-id="s1">string</link>, the actual wave inside the instrument is a complex wave that includes all of those possible <link document="m13682">harmonics</link>. A cylinder makes a good musical instrument because all the waves in the tube happen to have simple, harmonic-series-type relationships. This becomes very useful when the player <term>overblows</term> in order to get more notes. As mentioned above, woodwind players get different notes out of their instruments by opening and closing finger holes, making the standing wave tube longer or shorter. Once the player has used all the holes, higher notes are played by <term>overblowing</term>, which causes the next higher harmonic of the tube to sound. In other words, the fundamental of the tube is not heard when the player "overblows"; the note heard is the pitch of the next available harmonic (either harmonic two or three). Brass players can get many different harmonics from their instruments, and so do not need as many fingerings. (Please see <link document="m13682">Harmonic Series</link> and <link document="m12364">Wind Instruments – Some Basics</link> for more on this.) 
+    </para>
+    <para id="p3ab">For most possible tube shapes, a new set of holes would be needed to get notes that are in tune with the lower set of notes. But a couple of shapes, including the cylinder, give higher notes that are basically in tune with the lower notes using the same finger holes (or valves). (Even so, some extra finger holes or an extra slide or valve is sometimes necessary for good tuning.) One other possible shape is basically not used because it would be difficult to build precisely and unwieldy to play. (Basically, it has to flare rapidly, at a very specific rate of flare. The resulting instrument would be unwieldy and impractical. Please see John S. Rigden's <cite><cite-title>Physics and the Sound of Music</cite-title></cite>, as cited <link target-id="s4">below</link> for more on this.)
+   </para>
+   <figure id="fig3a">
+    <media id="id11944481" alt=""><image src="../../media/bore-304f.png" mime-type="image/png"/></media>
+<caption>
+The two shapes that are useful for real wind instruments are the cylinder and the cone. Most real wind instruments are a combination of cylindrical and conical sections, but most act as (and can be classified as) either <term>cylindrical bore</term> or <term>conical bore</term> instruments.
+</caption>
+   </figure>
+   <para id="p3b">The other tube shape that is often used in wind instruments is the cone. In fact, most real wind instruments are tubes that are some sort of combination of cylindrical and conical tubes. But most can be classified as either cylindrical or conical instruments.
+   </para>
+   <para id="p3c">The really surprising thing is that stopped-tube instruments that are basically conical act as if they are open-tube cylindrical instruments. <note id="id11944535">The math showing why this happens has been done, but I will not go into it here. Please see the <link target-id="s4">further reading</link>, below for books with a more rigorous and in-depth discussion of the subject.</note> Compare, for example, the clarinet and the saxophone, woodwinds with very similar mouthpieces. Both instruments, like any basic woodwind, have enough finger holes and keys to play all the notes within an octave. To get more notes, a woodwind player <term>overblows</term>, blowing hard enough to sound the next harmonic of the instrument. For the saxophone, a very conical instrument, the next harmonic is the next <link document="m10862">octave</link> (two times the frequency of the fundamental), and the saxophonist can continue up this next octave by essentially repeating the fingerings for the first octave. Only a few extra keys are needed to help with tuning.
+   </para>
+   <para id="p3d">The clarinet player doesn't have it so easy. Because the clarinet is a very cylindrical instrument, the next harmonic available is three times the frequency, or an octave and a <link document="m10867" target-id="p21b">fifth</link> higher, than the fundamental. Extra holes and keys have to be added to the instrument to get the notes in that missing fifth, and then even more keys are added to help the clarinetist get around the awkward fingerings that can ensue. Many notes have several possible fingerings, and the player must choose fingerings based on tuning and ease of motion as they change notes.
+   </para>
+   <para id="p3e">
+So why bother with cylindrical instruments? Remember that an actual note from any instrument is a very complex sound wave that includes lots of harmonics. The pitch that we hear when a wind instrument plays a note is (usually) the lowest harmonic that is being produced in the tube at the time. The higher harmonics produce the <link document="m11059">timbre</link>, or sound color, of the instrument. A saxophone-shaped instrument simply can't get that odd-harmonics clarinet sound.
+   </para>
+   <para id="p3f">
+The shapes and sounds of the instruments that are popular today are the result of centuries of trial-and-error experimentation by instrument-makers. Some of them understood something of the physics involved, but the actual physics of real instruments - once you add sound holes, valves, keys, mouthpieces, and bells - are incredibly complex, and theoretical physicists are still studying the subject and making new discoveries. 
+   </para>
+
+  </section>
+  <section id="s4">
+   <title>Further Reading</title>
+
+    <list id="l4a"><item>
+Alexander Wood's <cite><cite-title>The Physics of Music</cite-title></cite> (1944, The Sherwood Press) is a classic which includes both the basics of waves in a pipe and information about specific instruments.
+      </item>
+      <item>
+John Backus' <cite><cite-title>The Acoustical Foundations of Music</cite-title></cite> (1969, W.W. Norton and Company) also goes into more detail on the physics of specific instruments.
+      </item>
+      <item>
+John S. Rigden's <cite><cite-title>Physics and the Sound of Music</cite-title></cite> (1977, John Wiley and Sons) includes most of the math necessary for a really rigorous, complete explanation of basic acoustics, but is (in my opinion) still very readable.
+      </item>
+      <item>
+Arthur H. Benade's <cite><cite-title>Fundamentals of Musical Acoustics</cite-title></cite> is a more technical textbook that gives some idea of how acoustical experiments on instruments are designed and carried out. Those who are less comfortable with the science/engineering aspect of the subject may prefer the two very thorough articles by Benade in: 
+      </item>
+      <item>
+<cite><cite-title>The Physics of Music</cite-title></cite> (W. H. Freeman and Co.), a collection of readings from the periodical <cite><cite-title>Scientific American</cite-title></cite>.
+      </item>
+    </list>
+
+  </section>
+  </content>
+  
+</document>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="307" height="231"
+	 viewBox="0.2 0 307 231" overflow="visible" enable-background="new 0.2 0 307 231" xml:space="preserve">
+	<style type="text/css">
+	<![CDATA[
+@font-face{font-family:'Myriad-Bold';src:url("data:;base64,\
+T1RUTwACACAAAQAAQ0ZGIMzjsagAAAAsAAABkmNtYXD/xwB2AAABwAAAACwBAAQCAAEBAQxNeXJp\
+YWQtQm9sZAABAQEg+BsB+BQEZPuOHATo+ecFHQAApAQN93wP938R3ffUEgABAQGqQ29weXJpZ2h0\
+IChjKSAxOTkyLCAxOTk0IEFkb2JlIFN5c3RlbXMgSW5jb3Jwb3JhdGVkLiAgQWxsIFJpZ2h0cyBS\
+ZXNlcnZlZC5NeXJpYWQgaXMgYSB0cmFkZW1hcmsgb2YgQWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0\
+ZWQgbWF5IGJlIHJlZ2lzdGVyZWQgaW4gY2VydGFpbiBqdXJpc2RpY3Rpb25zLgAAAAAiAAIBAQRQ\
+914O+SSgdvdB9wb3pfcGAZz4+wP4NPdBFb/7QQX3OAb7Zvk2BftbBvti/TYF9zIGuvdBBaH3BhW0\
+9yOVspa+lLMZjgaVZJdYlmO1+yMYDoCW+TaW+1iX9ymWvJYG95mQ/GaOc5MHgJb5Npb7XZf3Lpa8\
+lgj3mZD8ZpFwlAkeoGBFgpn/DAkeegmZmZ8MCvcECvcsC/cEmAwM9yyUDA2MDA4AAAAAAAEAAAAD\
+AAAADAAEACAAAAAEAAQAAQAAAEH//wAAAEH////AAAEAAAAA+v/MAAMAPwABAQgAuKb8C1jb/AsI\
+AEEAAQAYBkip/Au4AZYFMN38C1jb/AtUAE8A+v+2GwMAUQABAQgAAwAFAAEBCABhdXRvAKb8CzMA\
+")}
+@font-face{font-family:'Maestro';src:url("data:;base64,\
+T1RUTwACACAAAQAAQ0ZGILklZHYAAAAsAAAC/mNtYXD/ltDmAAADLAAAADwBAAQCAAEBAQhNYWVz\
+dHJvAAEBAR34GwwA+BgE+yr+aBwF4hwFsQXrD4wQ8hGL+ZISAAEBASlDb3B5cmlnaHQgKGMpIDE5\
+OTkgQ29kYSBNdXNpYyBUZWNobm9sb2d5AAAAAAQABwBYAAQCAAEAGABvAikCi/iIyhb4gfgL/IEH\
++83KFfeO+AT7jgYO94D3PukVKWsF+ykH7asF+z73WRW2mQX3N6j7LQftqwX3Jqj7HQeymAUjB2R+\
+BfsoB7KXBSQHZH4F+zdu9y4HKWsF+yhu9x4HYH0F8we2mQX3KQdgfQUO+Vn4ZvuQFYdycIluG01d\
+kpluHy64ScJkzG+6esqG2YbMm86u0qnIssC7uLq4wbjHuIichqyFvAiIuYmrnBq7j7mTth6Tsp+5\
+rMCvxaqopowIoaRqSaYfpkmZUoxcjEyFVX1egm15ZnJegHl1bWpign9+f3x+foF+gX6ArPtWGIyU\
+lIyWG8i6f3KsH8pdrUmRNpBQfVRsWGlUWWFJcJROk1GUVAiQao1udBprhnKBeB5mRlRnQIZeiGCV\
+YKBWpW+xiLyIr5KqnKSeqaabsI2kjaODonmieJd0jXCQT2ZiPHUIcZ2vfsEbqKeUnKYfppygoZql\
+CJSckKauGqCJo4imHoLEgsOCxAigHATzFWFoa0pwH3FPfkU8GnGNco5zHsC0t7mwvLnIoMCIuIfF\
+d6hnighR/gEVw/vx4KixzITyGYP1Ur4ghghxiRVaimd6cmp4coNujWyMdJNznHObcp16noGIiYeH\
+iIZknm+geaRwr3yziLeJqJKqmqsInK6jqKuko56mmKqSbfdJGHR+a3FgZFZcZWBzZlc6c0aQUJBC\
+rE3IVwhWyNJx3RumpY6Rph939wt49wp49woIDvg5jgSIrp6psqYIpbK6mMIbx4q9gLR1uHOjaY9f\
+jmh6bWRxCHFkW35UG06MWZZjoF6kcq2Htgj3EZ4VNJirX8Abop6UnZofmZ2RnoieCON+abdUG3R5\
+gnl+H315hniOdwgOAAAAAAABAAAAAwAAAAwABAAwAAAACAAIAAIAAPAj8Cbwd///AADwI/Am8Hf/\
+/w/eD9wPjAABAAAAAAAAAAA=")}
+@font-face{font-family:'Myriad-Roman';src:url("data:;base64,\
+T1RUTwADACAAAQAQQ0ZGIL6SVDAAAAA8AAAJp0dQT1O498chAAAKcAAAA35jbWFwA38CMgAACeQA\
+AACMAQAEAgABAQENTXlyaWFkLVJvbWFuAAEBASD4GwH4GARd+476+vnTBR0AAKQDDfd9D/elEcUc\
+CW0SAAEBAapDb3B5cmlnaHQgKGMpIDE5OTIsIDE5OTQgQWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0\
+ZWQuICBBbGwgUmlnaHRzIFJlc2VydmVkLk15cmlhZCBpcyBhIHRyYWRlbWFyayBvZiBBZG9iZSBT\
+eXN0ZW1zIEluY29ycG9yYXRlZCBtYXkgYmUgcmVnaXN0ZXJlZCBpbiBjZXJ0YWluIGp1cmlzZGlj\
+dGlvbnMuAAABAAEAAA0AAA8AABsAACgBAC8AADQBAEIEAEgCAE0EAFMCAFcBAFoAAB0CAAEABAAH\
+ACYARAB7ANsBBAFWAa4ByQI7AqcC6ANXA7IEPgSDBLcEygVEBYwFzQY4BoIG2AceB1gHwwge++sO\
+++sO+xD3jgGb9zID2fsJFae6t/cDo+ApgRiAQnAgdU8IDoD3EgG/9wsD9wOAFa+jpq+wc6VoaHJw\
+Z2ejcK0fDoD3Efd49xEBv/cKA/cE9+oVr6KmrrB0pWdpcnFmaKNwrR/79QSvoqausHSlZ2lycWZo\
+o3CtHw7mhNP3b9H3ktRsdxKv5/gM4RPs+OL39hX7ckX3HPtdBoF3ZINSG/syJfD3P/c99vH3OM+4\
+f3qvHxPcodIFE+yZbk2cPRv7dvsf+yf7XSKvMcVTH0zN33HxG+bZoZqyHw7soHb30Nf3rncB1uP3\
+2uMD1vk2Ff024/fQ99r70OP5NjP7rvva964HDvKL9wYudvjL9ot3Etfd9+rdE1z3Mhb3tAcTbPcE\
+ityG4B6OjKxCuD66QBn3avvqBeP5Njn7rwYTnCONOZMxHoiKbNFj0VraGftr9+kFK/02Bg5NgNT4\
+u9MBw+P3beMDtawVc6/Sd8wb9zPX5vPuUsH7BrgfLq9iqsoaua7C58i4eH6gHqPSBZxuWJtHG/sX\
+ND0iLc9R9wJjH+Zpr2ZNGkZXXTJPU56kZB4OUaB2+OzVAfdg4wP3YBbj+Oz3YtX8h0H3YQYOQoDM\
+anb3i8j3DswSruP3X+MTvPgy970V7Gfw+ylOUHpyYx6fUAWirbqYuRvujJZCYxqBB/tPjCNL+wka\
+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\
+ABoAPgBEAEoAUABWAHwAigCcANYBGAEqAVQBdgGMAZ4BsAG+AcwB2gIEAioCfAKGAqgC1gMEAAEA\
+Cf/XAAEAAf+7AAEAAf+2AAEAAf+8AAkACgAIAA4ACgAQAAIAEQADABIAAgAUAAIAFQAGABcAAgAc\
+AAEAAwAOAAEAFQABABz//gAEAAr//gAO//8AFf//ABz//QAOAAoABQAOAAYAEP/9ABH//wAS//4A\
+E///ABT//wAVAAQAFv//ABf//wAZ//wAGv/1ABv/9wAc//gAEAAC/8AAA//DAAT/5AAF/+UACP/6\
+AAkAJgAK/8MADv/AABD/+QARAAQAE//TABX/wAAX/9MAGP/LABv/2AAc/9cABAAZ//wAGv/zABv/\
++AAc//UACgAC/9sAA//iAAwAAQANAAEADgABAA8AAQAVAAEAGv/4ABv//QAc//gACAAC//EAA//4\
+AAoAAQAN//oADv/6ABX/+gAZAA0AHAASAAUAAv/nAAP/7AAa//8AG///ABz//wAEAAL/7QAD//QA\
+Gv/+ABz//gAEAAL/6AAD/+wAFv/6ABz//wADABn//AAa/+4AHP/zAAMAGf/8ABr/7gAc//MAAwAZ\
+//wAGv/uABz/8wAKAAL/5AAD/+cADAABAA0AAQAOAAEADwABABUAAQAa//cAG//5ABz/9wAJAAL/\
+5AAD/+cADAABAA0AAQAOAAEADwABABUAAQAb//wAHP/7ABQAAv/EAAP/ywAEABAACv/6AAz/+gAN\
+//oADv/6AA//+AAQAAUAEQAEABIABAATAAQAFAAEABX/+gAWAAQAFwAEABkAGAAaABkAGwAaABwA\
+GAACAAL/8QAD//gACAAC//kADP/6AA3/+gAO//oAD//6ABX/+gAbAAQAHAAJAAsAAv/OAAP/1QAE\
+AB8ACv/yAAz/9QAN//UADv/1ABX/9QAY//oAGwAIABwACwALAAL/0gAD/9kABAAfAAr//AAM//cA\
+Df/3AA7/9wAV//cAGP/+ABoACgAcAA0ADAAC/8gAA//PAAQAHgAK//sADP/2AA3/9gAO//YAD//2\
+ABX/9gAY//wAGgAOABsACgACAAIAAQAQAAAAEwAcABAAAA==")}
+	]]>
+	</style>
+	<g id="Layer_1_2_">
+		<g>
+			<path fill="none" stroke="#000000" d="M0.083,31.166h307.194"/>
+			<path fill="none" stroke="#000000" d="M0.083,46.277h307.194"/>
+			<path fill="none" stroke="#000000" d="M0.235,53.4H307.43"/>
+			<path fill="none" stroke="#000000" d="M0,60.784h307.194"/>
+			<path fill="none" stroke="#000000" d="M0,38.419h307.194"/>
+		</g>
+		<text transform="matrix(1 0 0 1 156.1997 42)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 5.1997 54)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<path fill="none" stroke="#000000" d="M68.199,66.667h12"/>
+		<g>
+			<text transform="matrix(1 0 0 1 69.2075 73.5039)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+			<path fill="none" stroke="#000000" d="M67.2,74h14.666"/>
+		</g>
+		<text transform="matrix(1 0 0 1 98.1997 61)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 129.1997 50)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 164.1997 42)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 225.1997 28)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 196.1997 35)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<path fill="none" stroke="#000000" d="M253.215,24H267.2"/>
+		<text transform="matrix(1 0 0 1 255.1997 24)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<path fill="none" stroke="#000000" d="M40.191,66.163h12"/>
+		<text transform="matrix(1 0 0 1 41.2085 93.8374)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<path fill="none" stroke="#000000" d="M40.191,72.163h12"/>
+		<path fill="none" stroke="#000000" d="M40.191,78.163h12"/>
+		<path fill="none" stroke="#000000" d="M40.191,84.163h12"/>
+		<path fill="none" stroke="#000000" d="M40.191,90.163h12"/>
+		<g>
+			<path fill="none" stroke="#000000" d="M0.041,136.166h150.314"/>
+			<path fill="none" stroke="#000000" d="M0.041,151.277h150.314"/>
+			<path fill="none" stroke="#000000" d="M0.115,158.4H150.43"/>
+			<path fill="none" stroke="#000000" d="M0,165.784h150.314"/>
+			<path fill="none" stroke="#000000" d="M0,143.419h150.314"/>
+		</g>
+		<text transform="matrix(1 0 0 1 5.1997 159)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 11.1997 14)"><tspan x="0" y="0" font-family="'Myriad-Bold'" font-size="12">A</tspan><tspan x="7.872" y="0" font-family="'Myriad-Roman'" font-size="12"> Harmonic Series</tspan></text>
+		<text transform="matrix(1 0 0 1 3.1997 120)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">New midrange notes:</tspan></text>
+		<text transform="matrix(1 0 0 1 41.1997 166)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 75.1997 155)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 109.1997 147)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 117.1997 147)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 7.1997 199)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">The only midrange note still missing is the G     ,</tspan><tspan x="0" y="14.5" font-family="'Myriad-Roman'" font-size="12">which can be played by adding a third valve, and</tspan><tspan x="0" y="29" font-family="'Myriad-Roman'" font-size="12">holding down the second and third valves at the same time.</tspan></text>
+		<text transform="matrix(1 0 0 1 229.1997 190)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+	</g>
+</svg>

@@ -1,0 +1,94 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Acoustics for Music Theory</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m13246</md:content-id>
+  <md:title>Acoustics for Music Theory</md:title>
+  <md:abstract>For adults, a short review of the physics underlying music theory.</md:abstract>
+  <md:uuid>f9a73694-c005-4bc7-aa18-ac27e64a24d4</md:uuid>
+</metadata>
+  <content>
+
+  <section id="s1">
+   <title>Music is Organized Sound Waves</title>
+    
+	<para id="p1b"><term>Music</term> is sound that's organized by people on purpose, to dance to, to tell a story, to make other people feel a certain way, or just to sound pretty or be entertaining. Music is organized on many different levels. Sounds can be arranged into <link document="m11647">melodies</link>, <link document="m11654">harmonies</link>, <link document="m11646">rhythms</link>, <link document="m11645">textures</link> and <link document="m11647" target-id="s2">phrases</link>. <link document="m10956" target-id="s1">Beats</link>, <link document="m10880" target-id="s1">measures</link>, <link document="m12402">cadences</link>, and <link document="m10842">form</link> all help to keep the music organized and understandable. But the most basic way that music is organized is by arranging the actual sound waves themselves so that the sounds are interesting and pleasant and go well together. 
+		</para>
+
+		<para id="p1c">A rhythmic, organized set of thuds and crashes is perfectly good music - think of your favorite drum solo - but many musical instruments are designed specifically to produce the regular, evenly spaced sound waves that we hear as particular <link document="m10943">pitches</link>. Crashes, thuds, and bangs are loud, short jumbles of lots of different wavelengths. These are the kinds of sound we often call "noise", when they're random and disorganized, but as soon as they are organized in time (<link document="m11646">rhythm</link>), they begin to sound like music. (When used as a scientific term, <term>noise</term> refers to <emphasis>continuous</emphasis> sounds that are random mixtures of different wavelengths, not shorter crashes and thuds.)
+		</para>
+
+                <para id="element-72">However, to get the melodic kind of sounds  more often associated with music, the sound waves must themselves be organized and regular, not random mixtures. Most of the sounds we hear are brought to our ears through the air. A movement of an object causes a disturbance of the normal motion of the air molecules near the object. Those molecules in turn disturb other nearby molecules out of their normal patterns of random motion, so that the disturbance itself becomes a thing that moves through the air - a sound wave. If the movement of the object is a fast, regular vibration, then the sound waves are also very regular. We hear such regular sound waves as <term>tones</term>, sounds with a particular <link document="m10943">pitch</link>. It is this kind of sound that we most often associate with music, and that many musical instruments are designed to make.</para>
+
+      <figure id="fig1a"><media id="id23627398" alt=""><image src="../../media/noisevstone.png" mime-type="image/png"/><image for="pdf" src="../../media/noisevstone-0.eps" mime-type="application/postscript"/></media>
+<caption>A random jumble of sound waves is heard as a noise. A regular, evenly-spaced sound wave is heard as a tone.</caption>
+      </figure>
+
+<para id="p1d">Musicians have terms that they use to describe tones. (Musicians also have other meanings for the word "tone", but this course will stick to the "a sound with pitch" meaning.) This kind of (regular, evenly spaced) wave is useful for things other than music, however, so scientists and engineers also have terms that describe  pitched sound waves. As we talk about where music theory comes from, it will be very useful to know both the scientific and the musical terms and how they are related to each other.
+		</para>
+
+		<para id="p1e">For example, the closer together those evenly-spaced waves are, the higher the note sounds. Musicians talk about the <link document="m10943">pitch</link> of the sound, or <link document="m10941">name specific notes</link>, or talk about <link document="m11639">tuning</link>. Scientists and engineers, on the other hand, talk about the <link target-id="p2b">frequency</link> and the <link target-id="p2a">wavelength</link> of the sound. They are all essentially talking about the same things, but talking about them in slightly different ways, and using the scientific ideas of wavelength and frequency can help clarify some of the main ideas underlying music theory.
+		</para>
+
+  </section>
+  <section id="s11">
+    <title>Longitudinal and Transverse Waves</title>
+		<para id="p1f">
+So what are we talking about when we speak of sound waves? Waves are disturbances; they are changes in something - the surface of the ocean, the air, electromagnetic fields. Normally, these changes are travelling (except for <link document="m12413">standing waves</link>); the disturbance is moving away from whatever created it, in a kind of domino effect. 
+		</para>
+  <para id="p1g">
+Most kinds of waves are <term>transverse</term> waves. In a transverse wave, as the wave is moving in one direction, it is creating a disturbance in a different direction. The most familiar example of this is waves on the surface of water. As the wave travels in one direction - say south - it is creating an up-and-down (not north-and-south) motion on the water's surface. This kind of wave is fairly easy to draw; a line going from left-to-right has up-and-down wiggles. (See <link target-id="fig1b"/>.)
+  </para>
+
+		<figure id="fig1b"><title>Transverse and Longitudinal Waves</title>
+<media id="id23627553" alt=""><image src="../../media/wavetypes.png" mime-type="image/png"/><image for="pdf" src="../../media/wavetypes.eps" mime-type="application/postscript"/></media>
+			<caption>In water waves and other <term>transverse waves</term>, the ups and downs are in a different direction from the forward movement of the wave. The "highs and lows" of sound waves and other <term>longitudinal waves</term> are arranged in the "forward" direction.</caption>
+		</figure>
+
+		<para id="p1h">But sound waves are not transverse. Sound waves are <term>longitudinal waves</term>. If sound waves are moving south, the disturbance that they are creating is giving the air molecules extra north-and-south (not east-and-west, or up-and-down) motion. If the disturbance is from a regular vibration, the result is that the molecules end up squeezed together into evenly-spaced waves. This is very difficult to show clearly in a diagram, so <emphasis>most diagrams, even diagrams of sound waves, show transverse waves</emphasis>.
+  </para>
+
+  <para id="p1i">Longitudinal waves may also be a little difficult to imagine, because there aren't any examples that we can see in everyday life (unless you like to play with toy slinkies). A mathematical description might be that in longitudinal waves, the waves (the disturbances) are along the same axis as the direction of motion of the wave; transverse waves are at right angles to the direction of motion of the wave. If this doesn't help, try imagining yourself as one of the particles that the wave is disturbing (a water drop on the surface of the ocean, or an air molecule). As it comes from behind you, a transverse waves lifts you up and then drops down; a longitudinal wave coming from behind pushes you forward and pulls you back. You can view here animations of  <link resource="Waves.swf">longitudinal and transverse waves</link>, <link resource="Pulses.swf">single particles being disturbed by a transverse wave or by a longitudinal wave</link>, and <link resource="Translong.swf">particles being disturbed by transverse and longitudinal waves</link>. 
+		</para><para id="element-692">The result of these "forward and backward" waves is that the "high point" of a sound wave is where the air molecules are bunched together, and the "low point" is where there are fewer air molecules. In a pitched sound, these areas of bunched molecules are very evenly spaced. In fact, they are so even, that there are some very useful things we can measure and say about them. <emphasis>In order to clearly show you what they are, most of the diagrams in this course will show sound waves as if they are transverse waves</emphasis>.</para>
+
+  </section>
+  <section id="s12">
+    <title>Wave Amplitude and Loudness</title>
+    <para id="p12a">Both transverse and longitudinal waves cause a <term>displacement</term> of something: air molecules, for example, or the surface of the ocean. The amount of displacement at any particular spot changes as the wave passes. If there is no wave, or if the spot is in the same state it would be in if there was no wave, there is no displacement. Displacement is biggest (furthest from "normal") at the highest and lowest points of the wave. In a sound wave, then, there is no displacement wherever the air molecules are at a normal density. The most displacement occurs wherever the molecules are the most crowded or least crowded.
+    </para>
+    <figure id="fig12a"><title>Displacement</title>
+<media id="id23627751" alt=""><image src="../../media/Displacement.png" mime-type="image/png"/><image for="pdf" src="../../media/Displacement-0.eps" mime-type="application/postscript"/></media></figure>
+    <para id="p12b">The <term>amplitude</term> of the wave is a measure of the displacement: how big is the change from no displacement to the peak of a wave? Are the waves on the lake two inches high or two feet? Are the air molecules bunched very tightly together, with very empty spaces between the waves, or are they barely more organized than they would be in their normal course of bouncing off of each other? Scientists measure the amplitude of sound waves in <term>decibels</term>. Leaves rustling in the wind are about 10 decibels; a jet engine is about 120 decibels.
+		</para>
+
+		<para id="p12g">Musicians call the loudness of a note its <term>dynamic level</term>. <term>Forte</term> (pronounced "FOR-tay") is a loud dynamic level; <term>piano</term> is soft. Dynamic levels don't correspond to a measured decibel level. An orchestra playing "fortissimo" (which basically means "even louder than forte") is going to be quite a bit louder than a string quartet playing "fortissimo". (See <link document="m11649">Dynamics</link> for more of the terms that musicians use to talk about loudness.) Dynamics are more of a performance issue than a music theory issue, so amplitude doesn't need much discussion here.
+		</para>
+
+		<figure id="fig1c"><title>Amplitude is Loudness</title>
+<media id="id23625749" alt=""><image src="../../media/physics1c.png" mime-type="image/png"/><image for="pdf" src="../../media/physics1c-0.eps" mime-type="application/postscript"/></media>
+			<caption>The size of a wave (how much it is "piled up" at the high points) is its <term>amplitude</term>. For sound waves, the bigger the amplitude, the louder the sound. </caption>
+		</figure>
+  
+  </section>
+  <section id="s2">
+   <title>Wavelength, Frequency, and Pitch</title>
+  
+		<para id="p2a">
+The aspect of evenly-spaced sound waves that really affects music theory is the spacing between the waves, the distance between, for example, one high point and the next high point. This is the <term>wavelength</term>, and it affects the <link document="m10943">pitch</link> of the sound; the closer together the waves are, the higher the tone sounds.
+		</para>
+
+		<para id="p2b">All sound waves are travelling at about the same speed - the speed of sound. So waves with a shorter wavelength arrive (at your ear, for example) more often (frequently) than longer waves. This aspect of a sound - how often a peak of a wave goes by, is called <term>frequency</term> by scientists and engineers. They measure it in <term>hertz</term>, which is how many peaks go by per second. People can hear sounds that range from about 20 to about 17,000 hertz. 
+		</para>
+
+		<figure id="fig2a"><title>Wavelength, Frequency, and Pitch</title>
+<media id="id23625862" alt=""><image src="../../media/phys1b.png" mime-type="image/png"/><image for="pdf" src="../../media/phys1b-0.eps" mime-type="application/postscript"/></media>
+			<caption>Since the sounds are travelling at about the same speed, the one with the shorter wavelength "waves" more frequently; it has a higher frequency, or pitch. In other words, it sounds higher.</caption>
+		</figure>
+		<para id="p2c">The word that musicians use for frequency is <term>pitch</term>. The shorter the wavelength, the higher the frequency, and the higher the pitch, of the sound. In other words, short waves sound high; long waves sound low. Instead of measuring frequencies, musicians <link document="m10941" strength="2">name the pitches</link> that they use most often. They might call a note "middle C" or "second line G" or "the F sharp in the bass clef". (See <link document="m10862" strength="2">Octaves and Diatonic Music</link>  and <link document="m11639" strength="2">Tuning Systems</link> for more on naming specific frequencies.) These notes have frequencies (Have you heard of the "A 440" that is used as a tuning note?), but the actual frequency of a middle C can vary a little from one orchestra, piano, or performance, to another, so musicians usually find it more useful to talk about note names.
+		</para>
+
+<para id="p2d">Most musicians cannot name the frequencies of any notes other than the tuning A (440 hertz). The human ear can easily distinguish two pitches that are only one hertz apart when it hears them both, but it is the very rare musician who can hear specifically that a note is 442 hertz rather than 440. So why should we bother talking about frequency, when musicians usually don't? As we will see, the physics of sound waves - and especially frequency - affects the most basic aspects of music, including <link document="m10943">pitch</link>, <link document="m11639">tuning</link>, <link document="m11953">consonance and dissonance</link>, <link document="m11654">harmony</link>, and <link document="m11059">timbre</link>.
+</para>
+
+  </section></content>
+  
+</document>

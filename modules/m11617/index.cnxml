@@ -1,0 +1,124 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The French Horn</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11617</md:content-id>
+  <md:title>The French Horn</md:title>
+  <md:abstract>An introduction to and short history of the orchestral brass instrument called the "French horn" or "horn",</md:abstract>
+  <md:uuid>2b0912e4-8a23-4475-872a-1822abf4dc9a</md:uuid>
+</metadata>
+
+
+  <content>
+
+        <section id="s0">
+
+               <title>Introduction</title>
+
+               <para id="p0a">
+The middle-range <link document="m11897" target-id="s13" strength="3">brass</link> instrument in the <link document="m11421" strength="2">Western</link> <link document="m11897" strength="2">orchestra</link> or band is sometimes called the <term>horn</term>, sometimes the <term>French horn</term>. It is an <link document="m11896" target-id="s22" strength="3">aerophone</link> with a <link document="m12364" target-id="p1c" strength="2">conical</link> bore, a fairly small mouthpiece, a widely flaring bell, and about 17 feet of metal tubing wrapped into a circular shape to make it easier to hold. It is a <link document="m10672" strength="3">transposing instrument</link>; most horn music is written in F.
+               </para>
+               </section>
+
+	<section id="s1">
+		<title>The Instrument</title>
+
+		<figure id="fig1a">
+			<title>The French horn</title>
+			<media id="id7442393" alt=""><image src="../../media/Horn3.png" mime-type="image/png"/></media>
+		</figure>
+
+		<para id="p1a">
+As in other brass instruments, the sound of a horn is produced by "buzzing" the lips against the mouthpiece. Players get higher or lower notes by changing the <link document="m12364" target-id="p2a" strength="3">embouchure</link> (the lips and facial muscles), but the three <link document="m12364" target-id="p2g" strength="3">valves</link> that open extra sections of tubing are also needed to get all the notes possible on the horn (<link target-id="s2" strength="3">see below</link>). The left hand works the valves; the right hand is normally placed inside the bell of the instrument, where it can be used to help tune the instrument and make changes in its <link document="m11059" strength="2">timbre</link>. 
+		</para>
+		<para id="p1b">
+The most common modern instrument is a "double horn", which has two parallel sets of tubing. One set makes it an F horn; the other a smaller, higher B flat horn. (See <link target-id="s2" strength="3">History, below</link> for an explanation of how and why instruments come in different keys.) A fourth valve called the <term>trigger</term> is used to switch between the two sides of the instrument. But as a <link document="m10672" strength="3">transposing instrument</link>, the double horn is considered to be "in F"; music for the instrument is usually written in F, allowing individual players to choose whether to use the F or the B flat "side" of the instrument for any given note. 
+		</para>
+
+		<figure id="fig1b">
+			<title>The Range of the Horn</title>
+			<media id="id8240811" alt=""><image src="../../media/hornrange.gif" mime-type="image/gif"/></media>
+			<caption>The modern horn is a transposing instrument; music for horn is in F, written a perfect fifth higher than it sounds.</caption>
+		</figure>
+
+    <para id="p1c">
+The <term>mellophone</term> is a brass instrument closely related to the French horn. It is only half the length of a normal horn, which has two useful effects. One is that it is lighter to carry around. The other is that, while playing in the same <link document="m12381" strength="2">range</link> as the French horn, it is playing lower in the harmonic series, where the harmonics are not so close together and it is not so easy to play the wrong harmonic. (See <link target-id="p4c" strength="3">below</link>.) Because of these advantages, the bell-front mellophone (which looks a bit like a rounded oversized trumpet) is commonly used by French horn players in marching bands.
+    </para>
+
+	</section>
+
+	<section id="s2">
+		<title>History</title>
+
+    <figure id="fig2a">
+      <media id="id7468526" alt=""><image src="../../media/conch30.jpg" mime-type="image/jpeg"/></media>
+      <caption>Horns and other brass instruments are played by buzzing the lips against the mouthpiece. The very earliest instruments in this family were natural objects (such as animal horns or this conch shell) that could be played by buzzing the lips against a hole in one end of the object.</caption>
+    </figure>
+
+		<para id="p2a">
+The very earliest horns were hollowed-out animal horns, or other natural objects that would resonate at a particular pitch when the player buzzed the lips against a hole in one end.
+           </para>
+     <para id="p2aa">
+The modern instrument is descended from earlier <link document="m11897" target-id="s13" strength="3">brass</link> instruments that were used for centuries in Europe for military and hunting purposes. These horns came in various different sizes and shapes. The orchestral horn is particularly descended from the French <emphasis>trompe de chasse</emphasis>; hence the name "French horn". This hunting horn, in use in France in the seventeenth century, was a slender tube that was coiled into a large hoop that could easily be slung over a huntsman's shoulder. The tube was only about 7 feet long and was much more <link document="m12364" target-id="p1c" strength="2">cylindrical</link> than a modern horn. The eighteenth-century <emphasis>cor de chasse</emphasis>, the typical instrument in the orchestra of Bach's and Handel's time, was twice as long and coiled into a double hoop. This instrument had no <link document="m12364" target-id="p2g" strength="3">valves</link> and was originally played with the bell pointing up and out. It could therefore play only the notes of a single <link document="m11118" strength="2">harmonic series</link>. This severely limited the parts a single instrument could play; a horn that could play a harmonic series on an E flat fundamental, for example, could play some, but not all, of the notes in the key of E flat, could play even fewer notes in keys <link document="m10865" target-id="s3" strength="2">closely related</link> to E flat, and could play no notes at all in keys not related to E flat. 
+    </para>
+    <para id="p2ba">
+This meant that a horn player who wanted to be able to play in more than one key would need several different horns, would need time to switch from one horn to another whenever the music changed keys, and would still not be able to play every note in the key. For centuries, the history of the horn was a history of the search for solutions to these limitations.
+		</para>
+		<para id="p2b">
+One solution to this problem was to add a second set of players. One pair of horns could play in one key; the other in the other key. The setup of the modern orchestra often still reflects this early solution, with four horns playing in two pairs, and the third horn part almost acting like another first horn.
+		</para>
+		<para id="p2c">
+A second solution was to change the position of the horn so that the bell rested on the player's leg, and the right hand could be placed inside the bell. The player could then use the hand in two different ways, partially blocking the air flow, or almost completely <term>stopping</term> the air with the hand. Partially blocking the air lowered the pitch by about a half step, but the full stop basically shortened the playing length of the instrument and thus raised the pitch by about a whole step. The <link document="m11059" strength="2">timbre</link> of half-stopped and stopped notes are very different from each other and also very different from the sound of "open" notes. They can sound very jarring to modern ears. But <term>hand-horn technique</term>, invented by a Dresden horn player named Hampl around 1770, allowed the entire <link document="m11421" target-id="p7f" strength="2">chromatic scale</link> to be played on a single instrument without pause. This was so useful that hand-horn became widely accepted in spite of its timbre idiosyncrasies. In fact, it continued to be expected and used for decades after it was no longer really necessary.
+		</para>
+		<para id="p2d">
+Finally, there were many mechanical solutions. A very popular early solution involved adding extra lengths of tubing to the instrument to change its key. There were different ways to add the extra tubing: <term>crooks</term> could be fitted into sockets in the hoop, <term>couplers</term> could be added in between the mouthpiece and the instrument. Now a single horn player could play in many different keys with only one horn and a bag of crooks or couplers. He still needed time to change the crooks on his instrument when the music changed keys, but not as much time as before. To simplify things for the horn player, the composer would indicate which crook was needed (a movement might be labelled "for horn in A") and <link document="m10668" strength="2">transpose</link> the part for that instrument. This made the music easy to read - the first harmonic always looked like a C, the third like a G, and so on - easy for the horn player of that time, whose instrument was transposing the notes for him, but harder for a modern horn player trying to read older music, who may have to transpose the A part to her accustomed horn in F.
+		</para>
+		<para id="p2e">
+Of course, the ideal horn could switch crooks nearly instantaneously, and many new horns were invented to provide this solution. Some more successful than others. The <term>omnitonic horn</term> attached all crooks to the instrument, with a device to switch from one tube to another. This made it very easy and fast to change crooks, but hand horn technique was still needed to be able to play any note in the key. 
+		</para>
+		<para id="p2f">
+The invention that really freed the horn to play the full <link document="m10862" target-id="p0bb" strength="2">chromatic scale</link> easily was the <link document="m12364" target-id="p2g" strength="3">valve</link>. A valve can open and close almost instantly, redirecting the air through an extra crook in the middle of the instrument. It's really not clear who first invented a valved horn and when, but n 1818 a valve horn with two piston valves was patented; in the 1830's a third piston was added. Although most other modern brass still use piston valves, the horn switched to rotary valves, apparently invented by Joseph Riedl of Vienna around 1832. The modern horn uses three rotary valves, which lower its natural (F) harmonic series by a half step, a whole step, and one and a half steps, giving the horn a quick and easy chromatic scale. (For more on why three valves is enough for a brass instrument, see <link document="m11118" strength="3">The Harmonic Series</link>.)
+		</para>
+		<para id="p2g">
+Most modern horns are also <term>double horns</term>, that is, two horns in one. When instrument makers and players were settling on which of the many instruments (Horn in D? In E flat?) to use for the modern valved horn, the F horn was originally chosen as having a particularly full, moderate, and pleasing sound. But it is difficult to play high notes accurately on the F horn, so a second set of crooks, for the smaller, higher B flat horn, was added. A fourth valve, or <term>trigger</term> opens the shorter set of crooks, switching the instrument from the F "side" to the B flat "side" to play high notes.
+		</para>
+
+	</section>
+	
+	<section id="s3">
+		<title>Repertoire</title>
+
+		<para id="p3a">
+Horns are part of the standard orchestra. A small orchestra will have two horns, a large one four or more. The first horn (principal) part may be so tiring that a large orchestra may have an associate principal horn player to take the principal's place on some of the program, and/or an assistant principal horn player to play along with the principal on non-solo sections. A typical band or wind ensemble will also have at least four horns. Some easy-to-find recordings that feature horns in larger ensembles are Strauss' "Blue Danube" waltz, the "Waltz of the Flowers" from Tchaikovsky's ballet <cite><cite-title>The Nutcracker</cite-title></cite>, the "Nocturne" from Mendelssohn's <cite><cite-title>Midsummer Night's Dream</cite-title></cite>, and the "Ride of the Valkyries" music from Wagner's opera <cite><cite-title>Die Walkuere</cite-title></cite>.
+		</para>
+
+		<para id="p3b">
+Horns are also well-represented in the chamber music repertoire. The standard brass quintet includes a horn, and so does the standard woodwind quintet. There is also much music written for horn quartet, some - but by no means all - of it derived from orchestral works.
+		</para>
+
+		<para id="p3c">
+In spite of the historic limitations of the instrument (see history, above), several famous composers also wrote solo music for the horn. The most well-known of these are the four Mozart horn concertos.
+		</para>
+
+	</section>
+
+	<section id="s4">
+		<title>Practical Information for Composers and Arrangers</title>
+
+		<para id="p4a">
+The French horn is a versatile brass instrument with a large <link document="m12381" strength="2">range</link>, very useful in many different kinds of arrangements. Played with a brassy tone, or grouped with other brass, it can give a military or fanfare flavor, but, played with a mellower tone it also blends very well with orchestral woodwinds. It can give a sweet, haunting color to solos and easily evokes hunting or other pastoral scenes. 
+		</para>
+
+		<para id="p4b">
+The most important thing to remember when writing for horn is that it is a transposing instrument; most players are only comfortable reading parts that have been transposed into F. If you do not know how to transpose, see the modules on <link document="m10672" strength="3">Transposing Instruments</link> and <link document="m10668" strength="2">Transposition</link>.
+		</para>
+
+		<para id="p4c">
+The horn is a more agile instrument than the lower brass, but not as agile as the trumpet. Avoid writing too many fast notes or large leaps in a row. Note also that the horn plays higher in its <link document="m11118" strength="2">harmonic series</link> than other orchestral brass instruments. This means the notes at the top of the intrument's range (the notes above the <link document="m10941" strength="2">treble</link> <link document="m10880" strength="2">staff</link> in the instrument's <link target-id="fig1b" strength="3">written range</link>) that have the same fingering are so close together that it is very easy to hit the wrong note. Use this range sparingly unless writing for professionals. Even in the middle register, an inexperienced player aiming for one note can very easily hit a different note that has the same fingering and only slightly different <link document="m12364" target-id="p2a" strength="3">embouchure</link>. This is what gives the horn its reputation as an instrument that is "difficult to play".
+		</para>
+
+	</section><section id="eip-973"><title>Suggested Resources</title><para id="eip-646">To hear typical music featuring the French horn, search for "Mozart horn concerto" or "Strauss horn concerto".
+</para></section>
+    
+  </content>
+  
+</document>

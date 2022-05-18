@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="360" height="135"
+	 viewBox="0.5 0 360 135" overflow="visible" enable-background="new 0.5 0 360 135" xml:space="preserve">
+	<style type="text/css">
+	<![CDATA[
+@font-face{font-family:'Myriad-Roman';src:url("data:;base64,\
+T1RUTwADACAAAQAQQ0ZGIPMCKr4AAAA8AAAI10dQT1Oy6MJaAAAJmAAAAYpjbWFwAxwCpgAACRQA\
+AACEAQAEAgABAQENTXlyaWFkLVJvbWFuAAEBASD4GwH4GARd+476+vnTBR0AAKQDDfd9D/eiEcUc\
+CJ0SAAEBAapDb3B5cmlnaHQgKGMpIDE5OTIsIDE5OTQgQWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0\
+ZWQuICBBbGwgUmlnaHRzIFJlc2VydmVkLk15cmlhZCBpcyBhIHRyYWRlbWFyayBvZiBBZG9iZSBT\
+eXN0ZW1zIEluY29ycG9yYXRlZCBtYXkgYmUgcmVnaXN0ZXJlZCBpbiBjZXJ0YWluIGp1cmlzZGlj\
+dGlvbnMuAAABAAEAAAkBABQCABgAAB4AACcAAEIEAEgBAE0CAFIBAFUBAFkBABoCAAEAAgADADYA\
+aQDPARQBbwGSAbMB0wJFArEC8gNhA7wESASNBKAFGgViBc8GGQZfBqoG/AdXDg77o/sN+cMBy9UD\
+91f5ShVMN0j7FYr7WAj7V8/7FMo4Hs8GRe9U9xP3Rhr3Sr/3FdTuHg77o/sN+cMB9yXVA+P7DRXK\
+4M73E4z3WAj3WEf3FUzdHkcG0ifB+xP7SBr7SFT7FUUoHg5hgNL3lM33ZNIS9+LkSeYT6LWsFXar\
+y3TUG/cv3ebz5krHO5ofjQcT8NqotMTPGtpR1/sURUlycmgeo0sFn6e9or8b3KxdVz46aksfWkm8\
+BhPo4N1kMIwfVIxnRPsEG01SpJpyHw5hoHb3Rc/31OABmuT3ad4D+CQW90XmzzD4KSwH+7b8NAVS\
+98L7RQf7afeJFY0H9zP3cZ2qm6efsRmOBolpimlpGvtuBw5hgNL3s8/3NdUB9/nkA/hF+R4V+8sG\
+YfvKBY+jqI6xG/cVxFA1HzOMQ1U5G09Wn5twH3VIBXerxnfSG/ch8Or3E99hxFinH6NjWpZYG3N9\
+iYl8H6T3OQX3jAYOYaB2+NXUAfgL5wPE+R4VQvfSiQf7rfzTBeUG96/45AXFBw609yHH9xzHAbP4\
+mAP4wPflFcf8mE8H+Jj7WBXH/JhPBw5HoHb3xdP3dNQB1uMD1hbj98X3ktP7kvd096fU+/8GDkKA\
+zGp294vI9w7MEq7j91/jE7z4Mve9Fexn8PspTlB6cmMen1AFoq26mLkb7oyWQmMagQf7T4wjS/sJ\
+GkW9Ru3QwK2xpR6OBhN8k04F2gaGrIm0tRo1uhUTvIKKgYiCHmJ9YmNLG19lpcXp9wGc64kfDpmA\
+0WV2+D7Q92t3EtTj967kE7zU9xEVE3xgilqIah7XBhO8kNsFjQZLsMJw0Rv3APcC4fdC9yY37/sM\
+PVNpVWwfiffDMwbj/EEVmY2XjpYezZzDtccb6b04KfsDVUAuTFe1yHofiZWKlpYaDiCA0vgB0QGx\
+5AP4J94VgHJqf1kbK0PQ9wTwx973A7usf4CgH5/OBZhzXZhXG/syJfsB+yn7Keoo9ybMvpyWoh8O\
+lIDSZHb4PtD3a3cSseT3qOMTvPgn+VoV+7SJB7F2Wa5AG/sJJin7Nowf+yfmKPcJ2sW0waYejQYT\
+fI83BdoGiKyKvLYa+N0HM/yPFX2Kf4h/HhO8SntVY1AbLVrc7vXB2+bNu11UmB+Of4x9fxoOVYHQ\
+/wCngAD/AD+AAPcjygGx4PeV4AP4Yvd2FY2VjJmdGuRi9x/7MvshNPsH+yf7JeUo9yjYwZyZqh57\
+yQV+a2SATBszQLz3C4kfjMoVyJKx3eUb7aMzVIofDo/7ZdD3Is73+s+AdxKx5Pek4xPs+Hv39BUT\
+3MaMso6tHj0GE+yIQwWJBrN1XrY3G/sEIC/7OPsb4SX3DNbAr7ilH41WBvsPSVwxT1mdoGsedUcF\
+cbLLfcUbyM+atrsfubaizvcEGjP3HBV7iXqGfR5SeVppVBstWtvp9wXH0t/MtWFXmx+Pf4x+fRoO\
+i6B2+DrU92t3AdTj94DjA9QW4/e4BpyMmJCXHruct7PEG96oSjwf+6rj97QH9zsjs0pqbIJ7cR5w\
+fXV0fXIIiffCMwYO+9WgdvladwHU4wPUFuP5WjMGDveroHb4O9OAdxLU4fdt4fdt4RQcE9zUFuH3\
+uAaajZqQmB63mbS3wRvOrVQ9H/u24ffAB5qOm4+YHrWbsbC+G9GuVC0f+6bh97EH9zwstUpdbH91\
+bh53fHd3fG8IiQbEdlmzShs6XmBdcB+IBhO8h9kFPgaNY41jWBoOi6B2+DvTgHcS1OP3gOMT2NQW\
+4/e4BpmNm4+WHrybuLTEG96oST0f+6vj97UH9zojs0g7U15ecx6JBhO4htoFPQaOY4xjWBoOk/tF\
+dvdP0fgC0YB3ErHk96jjE+z4J/taFeP4uQYT3L6MtY6zHjcGE+yIQgWJBrpzWbBAGyX7CTv7Sfso\
+5yr3BdnBsbqlH40G9w8Efoh6h38eTndaaFIbKl3e7PcBwtjmzbldVZkfjoCMfn4aDvt4oHb4MN6A\
+d6d3EtXiE8jUFuP3lgaajJmNmB7Ml7e6yRuXlIqKlR8TmN0HE8iNg4SMghtQVWJKdR+IBhOoh+oF\
+PgaOXoxaUhoO+3SA1GN2+DTOEujhE3Do+NEVMkBI1vucBxOwUpVgo3AedKCsfbQbraaRkZwfh84F\
+h359iXMbWnqtxx/3mfcSzvsS9wgHDoeA1GJ2+Hh3EtHj93zjE7j4cvh4FTP7vAZ6iHuGfx5je2Ji\
+UBs8bsrnH/efM/uvB/s95mDX4b++sqEejQYTeJA8BdkGiLGKt70aDi+gdvh4dwGT+E8Dm/h4Ffc4\
++4H7QPuLBewG0fcBnaicpZuoGY0GnG6bcJ5v0vsBGO8G+z33jvc5934FKwZIJHpxe3J7bxmIBnum\
+fKN5p0byGA43+1x2+VV3AZT4WwOU+HgV90b8UwWQgY2EhhqFiIWHgh52Xm5pc3hxdG59dYWhQRih\
+j7Wat7DHwLbgyvc69xj37RguBiv7sH9ogWaCbhmJBoOof7F/qyL3shgOgJb5Npb7XZf3Lpa8lgb3\
+mZD8ZpFwlAceoGBFgpn/DAkeegmZmZ8MCs4K4wvOkQwM448MDfdoFPi/FQAAAAABAAAAAwAAAAwA\
+BAB4AAAAGgAQAAMACgAgACkANQA3AD0ARgBlAGgAbgByAHUAef//AAAAIAAoADMANwA9AEYAYQBn\
+AGwAcQB0AHj////h/9r/0f/Q/8v/w/+p/6j/pf+j/6L/oAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA\
+AAAAAAAAAQAAAAoAHgAsAAFERkxUAAgABAAAAAD//wABAAAAAWtlcm4ACAAAAAEAAAABAAQAAgAA\
+AAEACAABATYABAAAAA4AJgBAAEoAZAB6AIAAigCQAJoApACuAOwBAgEcAAYACv/SAA7/4AAR/+8A\
+Ff/mABf/3QAZ/+sAAgAW//wAGf/1AAYADAABAA0AAQAOAAEADwABABQAAQAZ//gABQAKAAEADf/6\
+AA7/+gAWAA0AGQASAAEAGf//AAIAGP/9ABn//gABABn//wACABb//AAZ//MAAgAW//wAGf/zAAIA\
+Fv/8ABn/8wAPAAr/+gAM//oADf/6AA7/+gAP//gAEAAFABEABAASAAQAEwAEABT/9QAVAAQAFgAY\
+ABf//gAYABIAGQAYAAUADP/6AA3/+gAO//oAD//6ABkACQAGAAz/8QAN//EADv/xABT/8QAWAA0A\
+GQAPAAYACv/7AAz/9gAN//YADv/2AA//9gAU//YAAgAEAAkAEAAAABIAEwAIABUAFgAKABgAGQAM\
+AAA=")}
+	]]>
+	</style>
+	<g id="Layer_1_2_">
+		<path fill="none" stroke="#000000" d="M0.894,134.227h186.61"/>
+		<path fill="none" stroke="#000000" d="M0.529,118.311h186.608"/>
+		<path fill="none" stroke="#FF0000" d="M1.524,126.145c3.146-1.917,13.108-7.667,26.214-7.667c13.108,0,23.069,5.75,26.216,7.667
+			c3.145,1.917,13.106,7.667,26.214,7.667c13.107,0,23.069-5.75,26.214-7.667c3.146-1.917,13.108-7.667,26.215-7.667
+			c13.108,0,23.07,5.75,26.215,7.667c3.146,1.917,13.107,7.667,26.215,7.667c0.832,0,1.651-0.023,2.457-0.067"/>
+		<path fill="none" stroke="#0A50A1" d="M1.524,126.145c3.135,1.917,13.062,7.667,26.123,7.667c13.062,0,22.989-5.75,26.124-7.667
+			c3.134-1.917,13.061-7.667,26.123-7.667c13.062,0,22.989,5.75,26.122,7.667c3.135,1.917,13.062,7.667,26.123,7.667
+			c13.063,0,22.989-5.75,26.124-7.667c3.135-1.917,13.061-7.667,26.124-7.667c0.928,0,1.839,0.029,2.734,0.083"/>
+		<path fill="none" stroke="#000000" d="M1.593,93.416h186.61"/>
+		<path fill="none" stroke="#000000" d="M1.228,77.5h186.608"/>
+		<path fill="none" stroke="#FF0000" d="M2.224,85.334c4.446-1.917,18.528-7.667,37.055-7.667c18.528,0,32.609,5.75,37.056,7.667
+			C80.78,87.25,94.861,93,113.389,93c18.528,0,32.609-5.75,37.054-7.667c4.447-1.917,18.528-7.667,37.057-7.667"/>
+		<path fill="none" stroke="#0A50A1" d="M2.224,85.334c4.458,1.917,18.574,7.667,37.146,7.667c18.574,0,32.69-5.75,37.147-7.667
+			c4.457-1.917,18.573-7.667,37.146-7.667s32.69,5.75,37.146,7.667c4.458,1.917,18.574,7.667,37.147,7.667"/>
+		<path fill="none" stroke="#000000" d="M1.228,77.5L1.167,93.416"/>
+		<path fill="none" stroke="#000000" d="M0.562,118.5L0.5,134.416"/>
+		<path fill="none" stroke="#000000" d="M1.593,54.416h186.61"/>
+		<path fill="none" stroke="#000000" d="M1.228,38.5h186.608"/>
+		<path fill="none" stroke="#FF0000" d="M2.224,46.334c7.206-1.917,30.028-7.667,60.054-7.667c30.028,0,52.849,5.75,60.057,7.667
+			C129.539,48.25,152.36,54,182.388,54c1.966,0,3.9-0.024,5.802-0.071"/>
+		<path fill="none" stroke="#0A50A1" d="M2.224,46.334c7.29,1.917,30.374,7.667,60.746,7.667c30.374,0,53.458-5.75,60.748-7.667
+			c7.289-1.917,30.373-7.667,60.747-7.667c1.134,0,2.258,0.008,3.372,0.023"/>
+		<path fill="none" stroke="#000000" d="M1.228,38.5L1.167,54.416"/>
+		<path fill="none" stroke="#000000" d="M0.927,16.416h186.61"/>
+		<path fill="none" stroke="#000000" d="M0.562,0.5H187.17"/>
+		<path fill="none" stroke="#FF0000" d="M1.557,8.334c19.477-1.917,81.16-7.667,162.316-7.667c7.96,0,15.732,0.055,23.296,0.157"/>
+		<path fill="none" stroke="#0A50A1" d="M1.557,8.334c18.024,1.917,75.103,7.667,150.201,7.667c12.445,0,24.396-0.158,35.755-0.43"
+			/>
+		<path fill="none" stroke="#000000" d="M0.562,0.5L0.5,16.416"/>
+		<text transform="matrix(1 0 0 1 207 12.334)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">Fundamental  (4 x tube length)</tspan></text>
+		<text transform="matrix(1 0 0 1 207.6665 49.0005)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">Frequency = 3 x Fundamental</tspan></text>
+		<text transform="matrix(1 0 0 1 207.6665 89.334)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">Frequency = 5 x Fundamental</tspan></text>
+		<text transform="matrix(1 0 0 1 209 129.334)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">Frequency = 7 x Fundamental</tspan></text>
+	</g>
+</svg>

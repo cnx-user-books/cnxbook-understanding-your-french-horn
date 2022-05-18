@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="175" height="92"
+	 viewBox="0.136 -0.226 175 92" overflow="visible" enable-background="new 0.136 -0.226 175 92" xml:space="preserve">
+	<style type="text/css">
+	<![CDATA[
+@font-face{font-family:'Myriad-Bold';src:url("data:;base64,\
+T1RUTwADACAAAQAQQ0ZGIC25cOIAAAA8AAADZEdQT1OwFL8KAAAD7AAAAFpjbWFwALsBHQAAA6AA\
+AABMAQAEAgABAQEMTXlyaWFkLUJvbGQAAQEBIPgbAfgUBGT7jhwE6PnnBR0AAKQEDfd8D/eLEeP5\
+oBIAAQEBqkNvcHlyaWdodCAoYykgMTk5MiwgMTk5NCBBZG9iZSBTeXN0ZW1zIEluY29ycG9yYXRl\
+ZC4gIEFsbCBSaWdodHMgUmVzZXJ2ZWQuTXlyaWFkIGlzIGEgdHJhZGVtYXJrIG9mIEFkb2JlIFN5\
+c3RlbXMgSW5jb3Jwb3JhdGVkIG1heSBiZSByZWdpc3RlcmVkIGluIGNlcnRhaW4ganVyaXNkaWN0\
+aW9ucy4AAAAAEAAYACIAIwAlACYAKAAIAgABAAIAHQBDAI4BDQFqAZgCAQ77yvlBdwGb988D9wlj\
+Ffdq+WkFJgb7av1pBQ41oHb4ofcRAbz4XwO8+R4V+xH3vokH+6D8nwX3NQb3oPi/BeoHDpqgdvdB\
+9wb3pfcGAZz4+wP4NPdBFb/7QQX3OAb7Zvk2BftbBvti/TYF9zIGuvdBBaH3BhW09yOVspa+lLMZ\
+jgaVZJdYlmO1+yMYDmaE9wT3VfcB9zX3AxLN9yv3Qfcs+xz3NBP4zY4Vhq3DhtYbE/T3Gt2hsrwf\
+taynu8ka4lLGPp8ejQcT+NaorsLGGslquVykHqhaUpQuGz47hINjH/crJhWOl56NrRvQsnBYWWFq\
+Oh9ZBvsBBL8GE/TXyHBHRE5wRnF5i458Hw7ChPcL+Fb3CQHN9yz3r/c1A82OFYawxIbaG/cY9wGn\
+xtIfy8K65PcVGvcMX99Fvx68Szeg+xUbP0KGgVMf9yz7ABWOmKKOrBv3GN1G+yX7NTA/+x+MH3l1\
+i45+Hw4gi/cR9zT3EPcg9xEBzvcsA/hn+C0V+4z3IPeb9xH8M/02+EH3Efup9zT3jAYOtIT3D/cr\
+9wv3PfcSa3cSrvc097P3JxPs+Qn4FhX7j/sL8/siBoZ/b4dpG/sRM9z3IPcm7NP3E9W4f3qwHxPc\
+q/cPBRPsmmpInDQb+3H7N/sU+3SKHyitM8hQHlDJ5Gz3Dxvk5KGbuh8OgJb5Npb7WJf3KZa8lgb3\
+mZD8Zo5zkweAlvk2lvtdl/culryWCPeZkPxmkXCUCR6gYEWCmf8MCR56CZmZnwwK9wQK9ywL9wSY\
+DAz3LJQMDYwMDvdeFPkVFQAAAAEAAAADAAAADAAEAEAAAAAMAAgAAgAEAC8ANwBCAEUAR///AAAA\
+LwA3AEEARABH////0v/L/8L/wf/AAAEAAAAAAAAAAAAAAAAAAQAAAAoAHgAsAAFERkxUAAgABAAA\
+AAD//wABAAAAAWtlcm4ACAAAAAEAAAABAAQAAgAAAAEACAABABoABAAAAAIADgAUAAEAB//nAAEA\
+A//8AAEAAgADAAQAAA==")}
+@font-face{font-family:'Maestro';src:url("data:;base64,\
+T1RUTwACACAAAQAAQ0ZGIMCiCJYAAAAsAAABH2NtYXD/pgCXAAABTAAAACwBAAQCAAEBAQhNYWVz\
+dHJvAAEBASD4GwH4FwT7Kv5nHAXgHAWwBR0APjbwDfAP8xHR920SAAEBAStDb3B5cmlnaHQgXChj\
+XCkgMTk5OSBDb2RhIE11c2ljIFRlY2hub2xvZ3kAAAAAQwACAQEEbPp8Dvdmw6oB+7+n9wzQA6X4\
+RRVx/OMGjfcW5J2dHpubo5yUoZOckaGKoIqza71ZimGKdoRlaQiLi8KUGoz3GIr3EIsa3PvqFZ52\
+jmuDbYRtfXh5egh3eGdsjBrhB6qJtpikHqCzr3+YfAgOHuEqZ28eGacXmZ8eEAqTnx4ipTUATwYe\
+oEQ3VAj/DAkeGaQ2AB8KHialjwseGaQ2AB8eEKVomY8MDB4mpY8eMqJ4mZ8MDQAAAAABAAAAAwAA\
+AAwABAAgAAAABAAEAAEAAABi//8AAABi////nwABAAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAA\
+AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALADgAAAEIAABDOlxET0NV\
+TUV+MVxraXR0eVxMT0NBTFN+MVxUZW1wXFM0V1xTVkdQcmV2aWV3XzEuc3ZnAD0iMTIiADEyOyIL\
+AEEAAAEIAABodHRwOi8vbnMuYWRvYmUuY29tL0Fkb2JlU1ZHVmlld2VyRXh0ZW5zaW9ucy8zLjAv\
+")}
+@font-face{font-family:'Myriad-Roman';src:url("data:;base64,\
+T1RUTwADACAAAQAQQ0ZGIGqx6KkAAAA8AAAFCkdQT1OwV8AYAAAFxAAAAXpjbWFwAyUC5gAABUgA\
+AAB8AQAEAgABAQENTXlyaWFkLVJvbWFuAAEBASD4GwH4GARd+476+vnTBR0AAKQDDfd9D/eeEcUc\
+BNASAAEBAapDb3B5cmlnaHQgKGMpIDE5OTIsIDE5OTQgQWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0\
+ZWQuICBBbGwgUmlnaHRzIFJlc2VydmVkLk15cmlhZCBpcyBhIHRyYWRlbWFyayBvZiBBZG9iZSBT\
+eXN0ZW1zIEluY29ycG9yYXRlZCBtYXkgYmUgcmVnaXN0ZXJlZCBpbiBjZXJ0YWluIGp1cmlzZGlj\
+dGlvbnMuAAAAAAEAAgANAA4AKgA1AEIARQBGAE0AUABTAFUAVgBXAFoAEQIAAQACAAMAOgBbAG4A\
+hACfAREBgQHcAe8CMQJ6Ar8DCwNFA6AODvtMgPcQ+MV3EsP3CifdE9D3KfdVFZn4dQUrBpn8dQUT\
+4K37YBWvoqaur3SlZ2lycWdoo3CtHw77Y/sQ944Bm/cyA9n7CRWnurf3A6PgKYEYgEJwIHVPCA4g\
+94LLAan3iwOp98IVS/eLywcO+0Ogdvk2dwHW4wPW+TYV/Tbj+TYHDt6gdvjs1QH3YOMD92AW4/js\
+92LV/IdB92EGDs+AzGp294vI9w7MEq7j91/jE7z4Mve9Fexn8PspTlB6cmMen1AFoq26mLkb7oyW\
+QmMagQf7T4wjS/sJGkW9Ru3QwK2xpR6OBhN8k04F2gaGrIm0tRo1uhUTvIKKgYiCHmJ9YmNLG19l\
+pcXp9wGc64kfDvcqgNJkdvg+0PdrdxKx5Peo4xO8+Cf5WhX7tIkHsXZZrkAb+wkmKfs2jB/7J+Yo\
+9wnaxbTBph6NBhN8jzcF2gaIrIq8thr43Qcz/I8VfYp/iH8eE7xKe1VjUBstWtzu9cHb5s27XVSY\
+H45/jH1/Gg7igdD/AKeAAP8AP4AA9yPKAbHg95XgA/hi93YVjZWMmZ0a5GL3H/sy+yE0+wf7J/sl\
+5Sj3KNjBnJmqHnvJBX5rZIBMGzNAvPcLiR+MyhXIkrHd5RvtozNUih8O+0igdvladwHU4wPUFuP5\
+WjMGDvcbgM34Cs0BseT3ueYD96OAFfcH9xHZ90j3Jy3w+x/7GSAs+zb7LfEr9xYfjc0VNk/b9ee4\
+6/LztCQ5+wJMPDcfDjSgdvgw3oB3p3cS1eITyNQW4/eWBpqMmY2YHsyXt7rJG5eUioqVHxOY3QcT\
+yI2DhIyCG1BVYkp1H4gGE6iH6gU+Bo5ejFpSGg44gNRjdvg0zhLo4RNw6PjRFTJASNb7nAcTsFKV\
+YKNwHnSgrH20G62mkZGcH4fOBYd+fYlzG1p6rccf95n3Es77EvcIBw73HYDUYnb4eHcS0eP3fOMT\
+uPhy+HgVM/u8BnqIe4Z/HmN7YmJQGzxuyucf958z+68H+z3mYNfhv76yoR6NBhN4kDwF2QaIsYq3\
+vRoOzovjSHb4eHcSmPheE3CY+HgV90z8eAXfBvdS+HgFLwYt+6MFE7B7Xn1jgGMIiAaBs36ze7gs\
+96MYDsT7XHb5VXcBlPhbA5T4eBX3RvxTBZCBjYSGGoWIhYeCHnZebmlzeHF0bn11haFBGKGPtZq3\
+sMfAtuDK9zr3GPftGC4GK/uwf2iBZoJuGYkGg6h/sX+rIveyGA6Alvk2lvtdl/culryWBveZkPxm\
+kXCUBx6gYEWCmf8MCR56CZmZnwwKzgrjC86RDAzjjwwN92gU+DIVAAAAAAABAAAAAwAAAAwABABw\
+AAAAGAAQAAMACAAhAC0ASQBUAGEAZQBsAG8AcgB2AHn//wAAACAALABJAFQAYQBkAGwAbwByAHQA\
+ef///+H/1/+8/7L/pv+k/57/nP+a/5n/lwABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAK\
+AB4ALAABREZMVAAIAAQAAAAA//8AAQAAAAFrZXJuAAgAAAABAAAAAQAEAAIAAAABAAgAAQEmAAQA\
+AAANACQAKgAwAEIAZAByAIAAjgCoANYA7ADyAQwAAQAG/9cAAQAB/7sABAAKAAsADQAQAA8ACQAQ\
+AAcACAAD/8AABgAmAAf/wwAJ/8AAC//AAAz/0wAO/9MAEP/XAAMADf/8AA//8wAQ//UAAwAD/+cA\
+D///ABD//wADAAP/7QAP//4AEP/+AAYAA//kAAgAAQAJAAEACwABAA//9wAQ//cACwAD/8QAB//6\
+AAj/+gAJ//oACgAEAAv/+gAMAAQADQAYAA7//gAPABkAEAAYAAUAA//5AAj/+gAJ//oAC//6ABAA\
+CQABAAP/8QAGAAP/zgAH//IACP/1AAn/9QAL//UAEAALAAYAA//IAAf/+wAI//YACf/2AAv/9gAP\
+AA4AAgAEAAEAAQAAAAMAAwABAAUACQACAAsAEAAHAAA=")}
+	]]>
+	</style>
+	<g id="Layer_1_2_">
+		<text transform="matrix(1.1979 0 0 1 0 31.9995)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Myriad-Bold'" font-size="12">A</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 90.9512 32.4131)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Myriad-Bold'" font-size="12">B</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 40.8774 74.9321)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Myriad-Bold'" font-size="12">E</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 56.5786 75.4702)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Myriad-Bold'" font-size="12">7</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 111.4692 74.2651)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Myriad-Bold'" font-size="12">A</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 5.8843 75.5996)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Myriad-Bold'" font-size="12">B</tspan></text>
+		<text transform="matrix(1 0 0 1 9.4336 24)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Maestro'" font-size="24">b</tspan></text>
+		<text transform="matrix(1 0 0 1 100.8032 24.1079)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Maestro'" font-size="24">b</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 130.2109 31.9321)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Myriad-Bold'" font-size="12">E</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 145.9121 32.4702)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Myriad-Bold'" font-size="12">7</tspan></text>
+		<text transform="matrix(1 0 0 1 140.1357 24.4409)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Maestro'" font-size="24">b</tspan></text>
+		<text transform="matrix(1 0 0 1 15.8027 67.4404)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Maestro'" font-size="24">b</tspan></text>
+		<text transform="matrix(1 0 0 1 49.8027 68.1069)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Maestro'" font-size="24">b</tspan></text>
+		<text transform="matrix(1 0 0 1 120.4697 66.4404)"><tspan x="0" y="0" fill="#0A50A1" font-family="'Maestro'" font-size="24">b</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 9.4692 44.7739)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">I      love  you   tru - - - ly,</tspan><tspan x="0" y="43.5" font-family="'Myriad-Roman'" font-size="12">Tru - - - ly,               dear!</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 13.1357 31.4404)"><tspan x="0" y="0" fill="#FF0000" font-family="'Myriad-Bold'" font-size="12">/G</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 124.4692 73.7739)"><tspan x="0" y="0" fill="#FF0000" font-family="'Myriad-Bold'" font-size="12">/G</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 103.8022 32.1069)"><tspan x="0" y="0" fill="#FF0000" font-family="'Myriad-Bold'" font-size="12">/A</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 18.8022 75.7734)"><tspan x="0" y="0" fill="#FF0000" font-family="'Myriad-Bold'" font-size="12">/A</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 152.8022 33.1069)"><tspan x="0" y="0" fill="#FF0000" font-family="'Myriad-Bold'" font-size="12">/D7</tspan></text>
+		<text transform="matrix(1.1979 0 0 1 63.4688 75.7734)"><tspan x="0" y="0" fill="#FF0000" font-family="'Myriad-Bold'" font-size="12">/D7</tspan></text>
+	</g>
+</svg>

@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Transposing Instruments</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10672</md:content-id>
+  <md:title>Transposing Instruments</md:title>
+  <md:abstract>Music for transposing instruments is not written or read at concert pitch.</md:abstract>
+  <md:uuid>95d98d84-3f42-48c7-8be3-7bf76b05ede7</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10668/latest/" strength="3">Transposition</link>
+      <link url="http://cnx.rice.edu/content/m11617/latest/" strength="3">French Horn</link>
+      <link url="http://cnx.rice.edu/content/m12604/latest/" strength="3">Clarinet</link>
+      <link url="http://cnx.rice.edu/content/m12611/latest/" strength="3">Saxophone</link>
+      <link url="http://cnx.rice.edu/content/m12615/latest/" strength="3">The Oboe and Its Relatives</link>
+      <link url="http://cnx.rice.edu/content/m12606/latest/" strength="3">Trumpets and Cornets</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="eip-168"><title>What is a Transposing Instrument?</title><para id="eip-121">It is easier for musicians to play together, talk to each other about music, and share written music with each other, if everyone agrees on the same names for each <link document="m10943" strength="3">pitch</link>. The most widely used standard is called <term>concert pitch</term>. Used in most genres of <link document="m11421">Western music</link>, concert pitch is usually defined by saying that a pitch that sounds at <emphasis>440 hertz is an "A"</emphasis>, with all other pitches related to that A using <link document="m11639" target-id="s22">equal temperament</link> tuning.
+</para><para id="eip-14">Even though concert pitch is defined by the sound of an "A", instruments that read music at concert pitch are called <term>C instruments</term>. This is because the key of C is the "natural" key, the <link document="m10851">major key</link> that has no <link document="m10943">sharps or flats, only natural notes</link>. (You may wonder why A is not the natural key. As is true for so many aspects of music notation and theory, there is no logical reason; it is just a happenstance that arose out of the history of Western music.) </para><para id="eip-748">Many instruments are C instruments. For example, piano, organ, oboe, violin, guitar, and trombone are all C instruments. A pianist who sees a written C will play a note that the violinist would agree is a C. This may seem obvious, but a clarinet player who sees a C on the page will play a note that does not sound like a C to the other players. This is because the <link document="m12604">clarinet</link> is a <term>transposing instrument</term>. <emphasis>The music for transposing instruments is not written or read at concert pitch.</emphasis> The clarinet player, for example, seeing a C on the page, will play a note that sounds like a B flat. The clarinet is therefore called a B flat instrument. A <link document="m11617">French horn</link> player, seeing a C on his "horn in F" or "F horn" part, will play a note that sounds like an F. So the name of the instrument ("B flat clarinet" or "F horn") tells you which concert-pitch note the instrument plays when given a written C. </para><para id="eip-549">Transposing does not just change the written C, however; it changes every note. For example, a B flat instrument plays every note a <link document="m10866">whole step</link> lower than written, not just the C. This means that if you want the clarinet player to play particular concert-pitch notes, you must write those notes one whole step higher than you would for a non-transposing instrument. </para>
+       
+    <figure id="fig1a"><media id="id1163682127465" alt=""><image src="../../media/transposeInst.png" mime-type="image/png"/></media>
+    </figure>
+    <para id="keysetc">Since every note of the scale is changed, the result is a different <link document="m10851">scale</link>. This means that the part for the transposing instrument will be in a different <link document="m10851">key</link> and have a different <link document="m10881">key signature</link> than the parts for C instruments. Changing music to put it into a different key is called <link document="m10668">transposing</link> the music. Music for transposing instruments must be properly transposed in order for most players to be able to read it. (There are musicians who can "transpose at sight," for example horn players who can read concert-pitch music and play it at concert pitch, but this is unusual.)
+    </para>
+</section>
+<section id="section2"><title>Transposing and Non-transposing Instruments</title>
+<para id="types">A complete list of all the transposing instruments would be very long. Many are very rare. I will list here only the most common ones. Then I'll discuss a couple of issues that sometimes cause confusion: octave-transposing C instruments and non-C, non-transposing instruments.
+</para>
+    <list id="listinstr"><title>Common Transposing Instruments</title>
+        <item>
+<emphasis>Clarinet</emphasis> is usually a Bb instrument. The most common <link document="m12604">clarinet</link> sounds one whole step lower than written, so parts for it must be written one whole step higher than concert pitch. Like French horns, clarinets used to come in several different keys, and clarinets in A (with parts that are written a minor third higher) and other keys can still be found.
+        </item>
+        <item>
+<emphasis>Alto and Baritone Saxophone</emphasis> are Eb instruments. Parts for alto <link document="m12611">saxophone</link> are transposed up a major sixth. Parts for bari sax are transposed up an octave plus a major sixth.
+        </item>
+        <item>
+<emphasis>Tenor and Soprano Saxophone</emphasis> are Bb instruments. Parts for soprano sax are written a step higher than they sound, and parts for tenor sax are transposed up an octave plus a whole step (a major ninth).
+        </item>
+        <item>
+<emphasis>English Horn</emphasis> is an F instrument. Parts for <link document="m12615">English horn</link> are transposed up a perfect fifth.
+        </item>
+        <item>
+<emphasis><link document="m12606">Trumpet and Cornet</link></emphasis> can be in B flat or C, depending on the individual instrument. B flat is the more common key for cornet. If you are writing for a particular player, you may want to find out if a C or B flat part is expected.
+        </item>
+        <item>
+<emphasis><link document="m11617">French horn</link></emphasis> parts are usually written in F these days, up a perfect fifth. However, because of the instrument's history, older orchestral parts may be in any conceivable transposition, and may even change transpositions in the middle of a piece. Because of this, some horn players learn to transpose at sight.
+        </item>
+        <item>
+<emphasis>Alto <link document="m12603">flute</link></emphasis> is in G, written a fourth higher than it sounds.
+        </item>
+        <item>
+<link document="m12617">Tubas</link> and <link document="m12650"> euphoniums</link> may also be transposing instruments. Some tuba and euphonium parts are written as bass clef C parts (sometimes even when the instrument played is nominally not a "C instrument"; see <link target-id="lnonc">below</link> for more about this). But in British-style brass bands, BBb and Eb tubas (called basses) are written in treble clef. The BBb is written two octaves and a major second higher than it sounds, and the Eb an octave and a major sixth higher than it sounds. in France (and in the case of parts printed in France), you find Bb euphoniums (calles basses or petites basses) written for in bass clef transposing by a major second, and bass tubas (called contrebasses) in Bb written for in bass clef transposing by a major ninth. If you are writing for a particular group or player, you may want to check to see what kind of instrument is available and what transposition the player is comfortable with.
+</item></list>
+    <para id="octaves">
+Some transposing instruments do not change key, but play an octave higher or lower than written.
+    </para>
+    <list id="octavetransposers">
+       <item>
+<emphasis><link document="m12745">Guitar</link></emphasis> parts are written one octave higher than they sound.
+       </item>
+       <item>
+<emphasis>Men's voices</emphasis>, when given a melody written in treble clef, will usually sing it one octave lower than written.
+       </item>
+       <item>
+<emphasis>String Bass</emphasis> parts are written one octave higher than they sound.
+       </item>
+       <item>
+<emphasis><link document="m12603">Piccolo</link></emphasis> parts are written one octave lower than they sound.
+       </item>
+       <item>
+<emphasis><link document="m12612" target-id="p2c">Contrabassoon</link></emphasis> parts are written one octave higher than they sound.
+       </item>
+       <item>
+<emphasis>Handbell</emphasis> and <emphasis>handchime</emphasis> parts are written one octave lower than they sound.
+       </item></list>
+</section>
+    <para id="pnonc">
+There are also instruments that <emphasis>do not transpose</emphasis> but are also <emphasis>not considered C or concert-pitch instruments</emphasis>. Players of these instruments read concert-pitch music, but the instruments are considered to be fundamentally pitched on a note other than C. This is of very little practical importance, but is an issue that confuses some people, so let's take two examples. Soprano and tenor recorders, when all the finger-holes are covered (so that the air must go through the entire instrument), play a C. Alto recorders, when all the finger-holes are covered, play an F. Like B flat trumpets, this would seem to make alto recorder a good candidate to be a transposing instrument. If it were, a player could easily switch from one size recorder to another; a written C would have the same fingering on all instruments. But recorder history and tradition differ from trumpet history and tradition; so, although alto recorder can be considered to be "pitched in F", alto players learn to read at concert pitch, associating the fingerings with different notes than a soprano or tenor player would.
+    </para>
+    <para id="ptuba">
+The second example is from brass instruments. The fundamental pitch of a <link document="m11897" target-id="s12">woodwind</link> (the recorder, for example) is considered to be the lowest note it can play when all holes are closed. The fundamental pitch of a brass instrument, on the other hand, is considered to be the <link document="m11118" target-id="p1c">fundamental</link> of the <link document="m11118">harmonic series</link> it plays when no valves are being used. For example, the C trumpet, using no valves, plays a harmonic series based on C, while a B flat (transposing) trumpet plays a B flat harmonic series. <link document="m12617">Tubas</link>, on the other hand, can be based on several different harmonic series, including C, B flat, F, and E flat. But these are not necessarily transposing instruments. A tuba player playing a B flat instrument may read a transposing B flat part, or may read concert-pitch music and simply use different fingerings for the same note than a player on a C instrument.</para>
+    <list id="lnonc"><title>Some Non-transposing, Non-C Instruments</title><item>
+<emphasis>Alto recorder</emphasis> - Fundamental note is an F.
+      </item>
+      <item>
+<emphasis>Various <link document="m12617">tubas</link></emphasis> - Can be in B flat, F, or E flat as well as C, and may be transposing or non-transposing, depending on the piece of music, the player, and the local tradition for the instrument.
+      </item>
+      <item>
+<emphasis><link document="m12602">Trombone</link></emphasis> - "First position" is based on the B flat harmonic series.
+      </item>
+  <item>
+<emphasis><link document="m12612">Bassoons</link></emphasis> - Are also based on B flat; the lowest (all holes covered) note is a B flat (A on some contrabassoons).
+      </item>
+      <item>
+<emphasis><link document="m12650">Baritone and Euphonium</link></emphasis> - These instruments are pitched in B flat, and <emphasis>may or may not be treated as a transposing instrument</emphasis>. Players may read either a bass <link document="m10941">clef</link> non-transposed part, or a treble clef B flat transposed part in which the part is written a major ninth (an octave plus a whole step) higher than it is played. This curious circumstance accomodates both tuba players (who are accustomed to playing non-transposing bass clef parts) and cornet players (accustomed to playing treble clef B flat parts) who want to switch to the less-common baritone when needed.
+      </item>
+    </list>
+<section id="s4"><title>Why are there Transposing Instruments?</title>
+<para id="why">
+Things do run more smoothly when everyone agrees on the same name for the same sound. So why are there transposing instruments? The instruments that transpose an octave have either a very high or very low range. Transposition puts their written parts comfortably in the staff and avoids using too many harder-to-read ledger lines. 
+    </para>
+    <figure id="transpinst1b"><media id="id1163690301089" alt=""><image src="../../media/ledgerTransp.png" mime-type="image/png"/></media>
+    </figure>
+    <para id="why2">
+Some transpositions are for the convenience of the player. Someone who has learned to play C trumpet, for example, associates a particular note with a particular fingering. If he switches to a B flat trumpet, he can use the same fingerings for the written notes, as long as the part has been appropriately transposed. If it has not (and some modern composers do not bother with transposition), he must learn to associate the same fingerings with different written notes, which can be confusing.
+     </para>
+     <para id="why3">
+Other transpositions used to be for the convenience of the player, but are now mostly accidents of history. For example, there was a time when <link document="m11617">French horns</link>, like harmonicas, came in every key, and could only play well in that key or closely related keys. French horn players could switch between different instruments playing what looked like the same set of notes, but which actually sounded in whatever key was needed. As the horn became capable of playing all notes equally well, the horn in F was the one that was chosen as having the nicest sound, so players still read parts in F. 
+    </para>
+</section>
+  </content>
+  
+</document>

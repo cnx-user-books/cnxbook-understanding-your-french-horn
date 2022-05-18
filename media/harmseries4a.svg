@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="504" height="287"
+	 viewBox="0.333 0.274 504 287" overflow="visible" enable-background="new 0.333 0.274 504 287" xml:space="preserve">
+	<style type="text/css">
+	<![CDATA[
+@font-face{font-family:'Myriad-Bold';src:url("data:;base64,\
+T1RUTwADACAAAQAQQ0ZGIHcKTVEAAAA8AAAGw0dQT1OxycCeAAAHfAAAAS5jbWFwAxECxAAABwAA\
+AAB8AQAEAgABAQEMTXlyaWFkLUJvbGQAAQEBIfgbAfgUBGT7jhwE6PnnBR0AAKQEDfd9D/eeEeMc\
+BmsSAAEBAapDb3B5cmlnaHQgKGMpIDE5OTIsIDE5OTQgQWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0\
+ZWQuICBBbGwgUmlnaHRzIFJlc2VydmVkLk15cmlhZCBpcyBhIHRyYWRlbWFyayBvZiBBZG9iZSBT\
+eXN0ZW1zIEluY29ycG9yYXRlZCBtYXkgYmUgcmVnaXN0ZXJlZCBpbiBjZXJ0YWluIGp1cmlzZGlj\
+dGlvbnMuAAAAAAEAGwApADAAQgBEAEYASABKAE4ATwBQAFEAUwBUAFUAEQIAAQACAAMATwB/ANAB\
+RQGTAe8CfwK4Az0DjgPUBEkEmQT0BTsODvt3gPdL+zZ299f3S4t3Er33RhNYE2j3IPfMFcGusr8f\
+woposFYbV2ZlVVevZL8f+9cEwa6yvx8TmMKKaLBWG1dmZVUfE2hXr2S/Hg73XqB29633GfeYdwHO\
+9yz3j/csA875NhX9Nvcs9633j/ut9yz5Nvss+5j7j/eYBw73eoD3Dfha9w0Brvc099r3NgP39YAV\
+91n3GfcZ93L3TvsF9y/7Y/ta+xb7K/te+1T3Cvsr91sfkfcNFSVO7vcT9xLG8fT0xCP7DfsYUCok\
+Hw60gPZAdvd76tD0Eqj3Kvci9ycTfPho97UV9wdY6/s3MkhyeGkepyoFnqvAnL0b1plmcR+FB/tB\
++wZP+xMfE7w9xkPuxb2gsqsejgYTfJRaBfcdBoWmibi5GhO8+yfHFYKKgomDHmyBa3JmG2lxnrLF\
+yZ7bHw5ngPcL96f3CYt3Eqz3MBPQ+C73EBWBdG+FZxtBT7vlH9uKv8TbG7OmhIOdHxOwo/cFBRPQ\
+l2tfkmMb+0op+wn7I/su8Cr3MsW+lZimHw60gfcF/wBdgAD/AGiAAO7wAaz3JfdH9yED+IH3WBWN\
+l46ipRr3DU/3D/sy+z09+x37EPsu6iv3Os3IlaC9HnfyBX1iYYRXG0RNqcuGH4rzFbOPpcbMG9Cb\
+TGcfDu37ZfcI7PcE96H3B4B3Eqz3LvdN9ywT7Pig9+sVE9zUjbSNqx77GAYT7IZRBYkGs3JhqEgb\
++w0mJ/sy+yDhKfcNw7qis6gfjWwGMFRlQ1FWnp1sHm37CAVzt85+zBvT1Jm5wB/DvJ7Y6Rr7LPcn\
+FX6Ke4d/HmiBbHFjG0xnxNTkt73DtahwY5YfjYKMgYIaDvtpoHb4fXff9zYSv/c/+zb3LBPo92kW\
++H37LPx9BxPw1/i9FcCsr7gfuYprrlcbV2loXV6sZ74fDvgJoHb4DfcPgHcSyPco9yj3KPco9ygU\
+HBO8yBb3KAYT3PewB5iMmZCXHqOUoqmyG7yhYU4f+6b3KPeyB5eNmo6WHqiWo6OvG7yiYkQf+533\
+KPe0B/cmRM0tZ22CfHAec312d3hxCIkGvnZarEsbOF9da3YfiAYTvIXOBfsVBo1fjVhOGg7uoHb4\
+DfcPgHcSyPcs9zT3LBO4yBb3LAYT2PeuB5mMmY+VHqeWpKi1G8KhYEwf+6P3LPe1B/ckQM4nOVpc\
+a3ceiAYTuITPBfsYBo1fjVhOGg7lgPcB97n3AQGs9zD3WfcyA/ezgBX3FvcT3fdG9ygn8vsp+zIj\
+Jvsy+zL3Ai33Ix+N9wEVS2jK3tSn1dPQp0FDM2ZQTx8O9wP7RXb3T/cJ96f3C4B3Esj3LPdZ9y4T\
+3Mj7WhX3LPeHjQZroblzxhv3AfcF3/dGHxPs9zAr6CBEU29YZx6JBhPchM8F+xgGjV2NVUsa9yxb\
+FRPslIyVjZMeuJWxq7Ybz65QPThkVElfaKq0gR+JlYqVlxoOIKB29/r3IoB3p3cSyfcrE5jIFvcs\
+94sGE8iYjJaNlR67lbGowxucl4mJmB8TmPcjBxPIjYCEjH0bW1BtQ3IfhwYTqIXmBfsWBo5hjFxD\
+Gg5WgPb3vvUBuPcmzPcmA6yjFXewxHzLG/cg0s7nH4rSZbsuqghPoHiXoxqjoJqwtLZ7gKEepfMF\
+mm1ZmVIb+w09Ri8filKyU/FqCMN4mn9xGnJ4fF1eUZ6cbx4O+wyA9xD3nPcEAd33KQPd+NkVL0r7\
+BMz7XQdGmVynbh5ypLR6vBu1sJGSnh+K9wcFiH2BinYbXnymxh/3RvcB9wT7AfcZBw6Alvk2lvtY\
+l/cplryWBveZkPxmjnOTB4CW+TaW+12X9y6WvJYI95mQ/GaRcJQJHqBgRYKZ/wwJHnoJmZmfDAr3\
+BAr3LAv3BJgMDPcslAwNjAwO914U+HsVAAAAAAEAAAADAAAADAAEAHAAAAAYABAAAwAIACAAOgBI\
+AE8AYQBjAGUAZwBpAHAAdP//AAAAIAA6AEgATwBhAGMAZQBnAGkAbQBy////4f/I/7v/tf+k/6P/\
+ov+h/6D/nf+cAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAoAHgAsAAFERkxUAAgABAAA\
+AAD//wABAAAAAWtlcm4ACAAAAAEAAAABAAQAAgAAAAEACAABANoABAAAAAwAIgAoADYATABSAGQA\
+agBwAHYAiACaAMgAAQAB/9UAAwAFAAIABwACAAwAAgAFAAYABAAHAAQACAAEAAwABwAQAA0AAQAQ\
+//gABAAFAAQAB//1AAz/9QAQABAAAQAN//4AAQAQ//oAAQAQ//oABAAGAAMABwADAAgAAwAMAAMA\
+BAAGAAMABwADAAgAAwAMAAMACwAF//UABv/5AAf/+QAI//gACf/+AAr//wAL//8ADP/5AA3//wAO\
+//8AEAAVAAQABv/7AAf/+wAI//sADP/7AAIABAACAAYAAAAIAAgABQAKAA4ABgAQABAACwAA")}
+@font-face{font-family:'Myriad-Roman';src:url("data:;base64,\
+T1RUTwADACAAAQAQQ0ZGIPWH4UUAAAA8AAALJ0dQT1O629PGAAAL4AAABMBjbWFwAksCZQAAC2QA\
+AAB8AQAEAgABAQENTXlyaWFkLVJvbWFuAAEBASD4GwH4GARd+476+vnTBR0AAKQDDfd9D/efEcUc\
+Cu0SAAEBAapDb3B5cmlnaHQgKGMpIDE5OTIsIDE5OTQgQWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0\
+ZWQuICBBbGwgUmlnaHRzIFJlc2VydmVkLk15cmlhZCBpcyBhIHRyYWRlbWFyayBvZiBBZG9iZSBT\
+eXN0ZW1zIEluY29ycG9yYXRlZCBtYXkgYmUgcmVnaXN0ZXJlZCBpbiBjZXJ0YWluIGp1cmlzZGlj\
+dGlvbnMuAAABAAEAAAMAAA0AAA8AACIAACoAAC8AADQBADgAAEIIAE0NACICAAEABAAHAC4ATQBr\
+ALAAxgEYAXABiwH6AmwC2AMZA4gD4wQkBLAE9QUpBTwFtgX+Bj8GqgcXB2EHtwf9CEgIggjtCT8J\
+mvvrDvvrDvtu+Fj3hAHG0drRA775SBWb+4QFwQab94QFyhab+4QFwQab94QFDvsQ944Bm/cyA9n7\
+CRWnurf3A6PgKYEYgEJwIHVPCA6A9xIBv/cLA/cDgBWvo6avsHOlaGhycGdno3CtHw7EoHb3aM/3\
+0dgBpPjIA/g892gV0/toBegG+3r5NgUiBvt5/TYF5QbR92gFnc8VzfdXmLSWtZSyGY4GlWSVY5lf\
+zvtWGA770KB2+TZ3AdbjA9b5NhX9NuP5NgcO8ov3Bi52+Mv2i3cS19336t0TXPcyFve0BxNs9wSK\
+3IbgHo6MrEK4PrpAGfdq++oF4/k2OfuvBhOcI405kzEeiIps0WPRWtoZ+2v36QUr/TYGDk2A1Pi7\
+0wHD4/dt4wO1rBVzr9J3zBv3M9fm8+5SwfsGuB8ur2Kqyhq5rsLnyLh4fqAeo9IFnG5Ym0cb+xc0\
+PSItz1H3AmMf5mmvZk0aRlddMk9TnqRkHg5RoHb47NUB92DjA/dgFuP47Pdi1fyHQfdhBg73t4vw\
+O3b4z/KLdxKa+csTWPepFuv38wUTaKTim8yWzwiNBpRHmUmgNOD78hjmBvdT+TYFMgYy++gFE5h2\
+N3hAfUEIiQaB0nnaeNw59+oYMAYx++h0NHY7gEgZiQZ/zHned+A79+kYLwb3P/02BQ5CgMxqdveL\
+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\
+ABIABQAD/+cABP/sAB7//wAf//8AIf//AAUAA//tAAT/9AAe//4AIP/9ACH//gAKAAIAKAAD/9gA\
+BP/fAA3/9AAO//QAD//0ABH/9AAX//QAG//3ABwACwAFAAP/6AAE/+wAEAAEABj/+gAh//8AAwAc\
+//wAHv/uACH/8wADABz//AAe/+4AIf/zAAMAHP/8AB7/7gAh//MADAAD/+QABP/nAA0AAQAOAAEA\
+DwABABEAAQAXAAEAGQABAB7/9wAf//kAIP/yACH/9wAKAAP/5AAE/+cADQABAA4AAQAPAAEAEQAB\
+ABcAAQAZAAEAH//8ACH/+wACAAP/9QAE/+wAFwAD/8QABP/LAAv/+gAN//oADv/6AA//+gAQAB4A\
+Ef/4ABIABQATAAQAFAAEABUABAAWAAQAF//6ABgABAAZ//UAGgAEABwAGAAd//4AHgAZAB8AGgAg\
+ABIAIQAYAAIAA//xAAT/+AAIAAP/+QAN//oADv/6AA//+gAR//oAF//6AB8ABAAhAAkAAgAD//EA\
+BP/4AAsAA//OAAT/1QAL//IADf/1AA7/9QAP//UAF//1ABn/9gAb//oAHwAIACEACwALAAP/0gAE\
+/9kAC//8AA3/9wAO//cAD//3ABf/9wAZ//cAG//+AB4ACgAhAA0ACgAN//EADv/xAA//8QAX//EA\
+Gf/xABv/+gAcAA0AHgAJAB8ADwAhAA8ADAAD/8gABP/PAAv/+wAN//YADv/2AA//9gAR//YAF//2\
+ABn/9gAb//wAHgAOAB8ACgACAAMAAQABAAAAAwASAAEAFQAhABE=")}
+	]]>
+	</style>
+	<g id="Layer_1_2_">
+		<g>
+			<path fill="none" stroke="#FF0000" d="M174.861,135.032c-5.716-14.922-5.716-14.922-5.716-14.922l-1.627-7.458l-0.806-7.457
+				l0.016-7.456l0.836-7.454l1.657-7.452l5.778-14.897"/>
+			<path fill="none" stroke="#FF0000" d="M175.136,0.842c5.716,14.921,5.716,14.921,5.716,14.921l1.627,7.458l0.806,7.457
+				l-0.015,7.456l-0.836,7.452l-1.657,7.452l-5.777,14.899"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#000000" d="M174.554,134.371c5.778-14.898,5.778-14.898,5.778-14.898l1.658-7.451l0.836-7.453
+				l0.015-7.456l-0.805-7.457l-1.627-7.459l-5.717-14.921"/>
+			<path fill="none" stroke="#000000" d="M174.829,0.181c-5.777,14.897-5.777,14.897-5.777,14.897l-1.657,7.452l-0.836,7.454
+				l-0.016,7.456l0.806,7.456l1.627,7.458l5.716,14.922"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#FF0000" d="M238.279,135.771c-5.746-7.46-5.746-7.46-5.746-7.46l-1.643-3.731l-0.821-3.729v-3.73
+				l0.821-3.73l1.643-3.729l5.746-7.461"/>
+			<path fill="none" stroke="#FF0000" d="M238.279,68.626c5.748,7.46,5.748,7.46,5.748,7.46l1.643,3.73l0.821,3.73v3.731
+				l-0.821,3.729l-1.643,3.73l-5.748,7.461"/>
+			<path fill="none" stroke="#FF0000" d="M238.279,68.626c-5.746-7.461-5.746-7.461-5.746-7.461l-1.643-3.729l-0.821-3.73v-3.73
+				l0.821-3.73l1.643-3.731l5.746-7.46"/>
+			<path fill="none" stroke="#FF0000" d="M238.279,1.479c5.748,7.461,5.748,7.461,5.748,7.461l1.643,3.73l0.821,3.73v3.73
+				l-0.821,3.73l-1.643,3.73l-5.748,7.46"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#000000" d="M236.944,135.771c5.747-7.46,5.747-7.46,5.747-7.46l1.643-3.731l0.82-3.729v-3.73
+				l-0.82-3.73l-1.643-3.729l-5.747-7.461"/>
+			<path fill="none" stroke="#000000" d="M236.944,68.626c-5.747,7.46-5.747,7.46-5.747,7.46l-1.643,3.73l-0.821,3.73v3.731
+				l0.821,3.729l1.643,3.73l5.747,7.461"/>
+			<path fill="none" stroke="#000000" d="M236.944,68.626c5.747-7.461,5.747-7.461,5.747-7.461l1.643-3.729l0.82-3.73v-3.73
+				l-0.82-3.73l-1.643-3.731l-5.747-7.46"/>
+			<path fill="none" stroke="#000000" d="M236.944,1.479c-5.747,7.461-5.747,7.461-5.747,7.461l-1.643,3.73l-0.821,3.73v3.73
+				l0.821,3.73l1.643,3.73l5.747,7.46"/>
+		</g>
+		<path fill="none" stroke="#FF0000" d="M139.825,134.511c5.747-29.235,5.747-29.235,5.747-29.235l1.642-14.616l0.821-14.617V61.424
+			l-0.821-14.617l-1.642-14.618l-5.747-29.233"/>
+		<path fill="none" stroke="#000000" d="M140.034,3.251c-5.748,29.233-5.748,29.233-5.748,29.233l-1.642,14.617l-0.821,14.618
+			v14.618l0.821,14.615l1.642,14.617l5.748,29.236"/>
+		<path fill="none" stroke="#000000" d="M205.48,135.675c-5.747-9.914-5.747-9.914-5.747-9.914l-1.643-4.958l-0.821-4.957v-4.957
+			l0.821-4.957l1.643-4.957l5.747-9.915"/>
+		<path fill="none" stroke="#000000" d="M205.48,46.448c5.747,9.914,5.747,9.914,5.747,9.914l1.643,4.958l0.821,4.957v4.957
+			l-0.821,4.957l-1.643,4.958l-5.747,9.915"/>
+		<path fill="none" stroke="#000000" d="M205.48,46.448c-5.747-9.916-5.747-9.916-5.747-9.916l-1.643-4.957l-0.821-4.957v-4.957
+			l0.821-4.957l1.643-4.958l5.747-9.915"/>
+		<path fill="none" stroke="#FF0000" d="M204.145,135.675c5.747-9.914,5.747-9.914,5.747-9.914l1.642-4.958l0.821-4.957v-4.957
+			l-0.821-4.957l-1.642-4.957l-5.747-9.915"/>
+		<path fill="none" stroke="#FF0000" d="M204.145,46.448c-5.748,9.914-5.748,9.914-5.748,9.914l-1.642,4.958l-0.821,4.957v4.957
+			l0.821,4.957l1.642,4.958l5.748,9.915"/>
+		<path fill="none" stroke="#FF0000" d="M204.145,46.448c5.747-9.916,5.747-9.916,5.747-9.916l1.642-4.957l0.821-4.957v-4.957
+			l-0.821-4.957l-1.642-4.958l-5.747-9.915"/>
+		<path fill="none" stroke="#FF0000" d="M271.945,109.319c5.746,6.004,5.746,6.004,5.746,6.004l1.643,3.003l0.821,3.002v3.003
+			l-0.821,3.002l-1.643,3.003l-5.746,6.005"/>
+		<path fill="none" stroke="#FF0000" d="M271.945,109.319c-5.747-6.006-5.747-6.006-5.747-6.006l-1.643-3.002l-0.82-3.003v-3.002
+			l0.82-3.002l1.643-3.002l5.747-6.005"/>
+		<path fill="none" stroke="#FF0000" d="M271.945,55.271c5.746,6.005,5.746,6.005,5.746,6.005l1.643,3.003l0.821,3.002v3.002
+			l-0.821,3.002l-1.643,3.003l-5.746,6.006"/>
+		<path fill="none" stroke="#FF0000" d="M271.945,55.271c-5.747-6.004-5.747-6.004-5.747-6.004l-1.643-3.003l-0.82-3.002v-3.003
+			l0.82-3.002l1.643-3.003l5.747-6.005"/>
+		<path fill="none" stroke="#FF0000" d="M271.945,1.224c5.746,6.006,5.746,6.006,5.746,6.006l1.643,3.002l0.821,3.003v3.002
+			l-0.821,3.002l-1.643,3.003l-5.746,6.005"/>
+		<path fill="none" stroke="#000000" d="M272.18,108.838c-5.746,6.005-5.746,6.005-5.746,6.005l-1.643,3.003l-0.821,3.002v3.003
+			l0.821,3.002l1.643,3.003l5.746,6.005"/>
+		<path fill="none" stroke="#000000" d="M272.18,108.838c5.747-6.005,5.747-6.005,5.747-6.005l1.643-3.003l0.82-3.003v-3.002
+			l-0.82-3.003l-1.643-3.002l-5.747-6.005"/>
+		<path fill="none" stroke="#000000" d="M272.18,54.79c-5.746,6.005-5.746,6.005-5.746,6.005l-1.643,3.003l-0.821,3.002v3.002
+			l0.821,3.002l1.643,3.003l5.746,6.006"/>
+		<path fill="none" stroke="#000000" d="M272.18,54.79c5.747-6.004,5.747-6.004,5.747-6.004l1.643-3.003l0.82-3.002v-3.003
+			l-0.82-3.002l-1.643-3.003l-5.747-6.005"/>
+		<path fill="none" stroke="#000000" d="M272.18,0.743c-5.746,6.006-5.746,6.006-5.746,6.006l-1.643,3.002l-0.821,3.002v3.003
+			l0.821,3.002l1.643,3.003l5.746,6.005"/>
+		<g>
+			<path fill="none" stroke="#FF0000" d="M309.709,135.816c-5.747-4.966-5.747-4.966-5.747-4.966l-1.643-2.483l-0.821-2.483v-2.483
+				l0.821-2.483l1.643-2.482l5.747-4.966"/>
+			<path fill="none" stroke="#FF0000" d="M309.709,91.121c5.746,4.965,5.746,4.965,5.746,4.965l1.643,2.484l0.821,2.483v2.483
+				l-0.821,2.483l-1.643,2.483l-5.746,4.966"/>
+			<path fill="none" stroke="#FF0000" d="M309.709,91.121c-5.747-4.966-5.747-4.966-5.747-4.966l-1.643-2.483l-0.821-2.483v-2.482
+				l0.821-2.483l1.643-2.483l5.747-4.966"/>
+			<path fill="none" stroke="#FF0000" d="M309.709,46.424c5.746,4.966,5.746,4.966,5.746,4.966l1.643,2.484l0.821,2.483v2.482
+				l-0.821,2.483l-1.643,2.483l-5.746,4.967"/>
+			<path fill="none" stroke="#FF0000" d="M309.709,46.424c-5.747-4.965-5.747-4.965-5.747-4.965l-1.643-2.484l-0.821-2.482v-2.484
+				l0.821-2.483l1.643-2.482l5.747-4.966"/>
+			<path fill="none" stroke="#FF0000" d="M309.709,1.729c5.746,4.967,5.746,4.967,5.746,4.967l1.643,2.483l0.821,2.483v2.482
+				l-0.821,2.483l-1.643,2.483l-5.746,4.966"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#000000" d="M309.944,135.419c5.747-4.966,5.747-4.966,5.747-4.966l1.643-2.483l0.82-2.483v-2.482
+				l-0.82-2.483l-1.643-2.483l-5.747-4.966"/>
+			<path fill="none" stroke="#000000" d="M309.944,90.724c-5.747,4.965-5.747,4.965-5.747,4.965l-1.642,2.483l-0.822,2.483v2.483
+				l0.822,2.483l1.642,2.483l5.747,4.966"/>
+			<path fill="none" stroke="#000000" d="M309.944,90.724c5.747-4.966,5.747-4.966,5.747-4.966l1.643-2.483l0.82-2.483v-2.482
+				l-0.82-2.484l-1.643-2.483l-5.747-4.966"/>
+			<path fill="none" stroke="#000000" d="M309.944,46.027c-5.747,4.966-5.747,4.966-5.747,4.966l-1.642,2.484l-0.822,2.483v2.483
+				l0.822,2.483l1.642,2.483l5.747,4.967"/>
+			<path fill="none" stroke="#000000" d="M309.944,46.027c5.747-4.965,5.747-4.965,5.747-4.965l1.643-2.484l0.82-2.483v-2.483
+				l-0.82-2.483l-1.643-2.483l-5.747-4.966"/>
+			<path fill="none" stroke="#000000" d="M309.944,1.332c-5.747,4.967-5.747,4.967-5.747,4.967l-1.642,2.482l-0.822,2.483v2.483
+				l0.822,2.483l1.642,2.483l5.747,4.966"/>
+		</g>
+		<path fill="none" stroke="#000000" d="M117.691,1.276h210"/>
+		<text transform="matrix(1 0 0 1 0.3335 48.2739)"><tspan x="0" y="0" font-family="'Myriad-Bold'" font-size="12">Open strings:</tspan><tspan x="0" y="14.5" font-family="'Myriad-Roman'" font-size="12">the string vibrates </tspan><tspan x="0" y="29" font-family="'Myriad-Roman'" font-size="12">at all its harmonics</tspan><tspan x="0" y="43.5" font-family="'Myriad-Roman'" font-size="12">at the same time.</tspan></text>
+		<text transform="matrix(1 0 0 1 347.6909 40.2759)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">Nodes</tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M319.039,23.399l21.291,9.951"/>
+			<path fill="none" stroke="#000000" d="M321.629,31.357l-2.591-7.958"/>
+			<path fill="none" stroke="#000000" d="M327.381,20.55l-8.343,2.849"/>
+		</g>
+		<g>
+			<path fill="none" stroke="#000000" d="M316.742,46.814l25.291-5.886"/>
+			<path fill="none" stroke="#000000" d="M324.11,50.61l-7.368-3.796"/>
+			<path fill="none" stroke="#000000" d="M322.36,39.996l-5.618,6.818"/>
+		</g>
+		<text transform="matrix(1 0 0 1 0.3335 191.9409)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">When a string is touched</tspan><tspan x="0" y="14.5" font-family="'Myriad-Roman'" font-size="12">lightly at a certain spot,</tspan><tspan x="0" y="29" font-family="'Myriad-Roman'" font-size="12">only the harmonics</tspan><tspan x="0" y="43.5" font-family="'Myriad-Roman'" font-size="12">that have a node </tspan><tspan x="0" y="58" font-family="'Myriad-Roman'" font-size="12">exactly at that spot</tspan><tspan x="0" y="72.5" font-family="'Myriad-Roman'" font-size="12">can still vibrate.</tspan></text>
+		<text transform="matrix(1 0 0 1 0 178.6074)"><tspan x="0" y="0" font-family="'Myriad-Bold'" font-size="12">Harmonics</tspan></text>
+		<path fill="none" stroke="#000000" d="M173.503,286.031c-5.716-14.922-5.716-14.922-5.716-14.922l-1.627-7.458l-0.806-7.457
+			l0.016-7.456l0.836-7.454l1.657-7.452l5.778-14.897"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M173.778,151.841c5.716,14.921,5.716,14.921,5.716,14.921
+			l1.627,7.458l0.806,7.457l-0.015,7.456l-0.836,7.452l-1.657,7.452l-5.777,14.899"/>
+		<path fill="none" stroke="#FF0000" d="M173.196,285.37c5.778-14.898,5.778-14.898,5.778-14.898l1.658-7.451l0.836-7.453
+			l0.015-7.456l-0.805-7.457l-1.627-7.459l-5.717-14.921"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M173.471,151.18c-5.777,14.897-5.777,14.897-5.777,14.897
+			l-1.657,7.452l-0.836,7.454l-0.016,7.456l0.806,7.456l1.627,7.458l5.716,14.922"/>
+		<path fill="none" stroke="#FF0000" d="M237.669,285.635c-5.746-7.484-5.746-7.484-5.746-7.484l-1.643-3.743l-0.821-3.741v-3.742
+			l0.821-3.743l1.643-3.742l5.746-7.484"/>
+		<path fill="none" stroke="#FF0000" d="M237.669,218.274c5.748,7.484,5.748,7.484,5.748,7.484l1.643,3.742l0.821,3.742v3.743
+			l-0.821,3.742l-1.643,3.743l-5.748,7.485"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M237.669,218.274c-5.746-7.485-5.746-7.485-5.746-7.485
+			l-1.643-3.742l-0.821-3.742v-3.742l0.821-3.743l1.643-3.743l5.746-7.484"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M237.669,150.913c5.748,7.485,5.748,7.485,5.748,7.485l1.643,3.742
+			l0.821,3.742v3.742l-0.821,3.743l-1.643,3.743l-5.748,7.484"/>
+		<path fill="none" stroke="#000000" d="M236.333,285.635c5.747-7.484,5.747-7.484,5.747-7.484l1.643-3.743l0.82-3.741v-3.742
+			l-0.82-3.743l-1.643-3.742l-5.747-7.484"/>
+		<path fill="none" stroke="#000000" d="M236.333,218.274c-5.747,7.484-5.747,7.484-5.747,7.484l-1.643,3.742l-0.821,3.742v3.743
+			l0.821,3.742l1.643,3.743l5.747,7.485"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M236.333,218.274c5.747-7.485,5.747-7.485,5.747-7.485l1.643-3.742
+			l0.82-3.742v-3.742l-0.82-3.743l-1.643-3.743l-5.747-7.484"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M236.333,150.913c-5.747,7.485-5.747,7.485-5.747,7.485
+			l-1.643,3.742l-0.821,3.742v3.742l0.821,3.743l1.643,3.743l5.747,7.484"/>
+		<path fill="none" stroke="#000000" d="M311.081,284.656c-5.747-4.966-5.747-4.966-5.747-4.966l-1.643-2.483l-0.821-2.483v-2.483
+			l0.821-2.483l1.643-2.482l5.747-4.966"/>
+		<path fill="none" stroke="#000000" d="M311.081,239.96c5.746,4.965,5.746,4.965,5.746,4.965l1.643,2.484l0.821,2.483v2.483
+			l-0.821,2.483l-1.643,2.483l-5.746,4.966"/>
+		<path fill="none" stroke="#000000" d="M311.081,239.96c-5.747-4.966-5.747-4.966-5.747-4.966l-1.643-2.483l-0.821-2.483v-2.482
+			l0.821-2.483l1.643-2.483l5.747-4.966"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M311.081,195.264c5.746,4.966,5.746,4.966,5.746,4.966l1.643,2.484
+			l0.821,2.483v2.482l-0.821,2.483l-1.643,2.483l-5.746,4.967"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M311.081,195.264c-5.747-4.965-5.747-4.965-5.747-4.965
+			l-1.643-2.484l-0.821-2.482v-2.484l0.821-2.483l1.643-2.482l5.747-4.966"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M311.081,150.568c5.746,4.967,5.746,4.967,5.746,4.967l1.643,2.483
+			l0.821,2.483v2.482l-0.821,2.483l-1.643,2.483l-5.746,4.966"/>
+		<path fill="none" stroke="#FF0000" d="M311.315,284.259c5.747-4.966,5.747-4.966,5.747-4.966l1.643-2.483l0.82-2.483v-2.482
+			l-0.82-2.483l-1.643-2.483l-5.747-4.966"/>
+		<path fill="none" stroke="#FF0000" d="M311.315,239.563c-5.747,4.965-5.747,4.965-5.747,4.965l-1.642,2.483l-0.822,2.483v2.483
+			l0.822,2.483l1.642,2.483l5.747,4.966"/>
+		<path fill="none" stroke="#FF0000" d="M311.315,239.563c5.747-4.966,5.747-4.966,5.747-4.966l1.643-2.483l0.82-2.483v-2.482
+			l-0.82-2.484l-1.643-2.483l-5.747-4.966"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M311.315,194.867c-5.747,4.966-5.747,4.966-5.747,4.966
+			l-1.642,2.484l-0.822,2.483v2.483l0.822,2.483l1.642,2.483l5.747,4.967"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M311.315,194.867c5.747-4.965,5.747-4.965,5.747-4.965l1.643-2.484
+			l0.82-2.483v-2.483l-0.82-2.483l-1.643-2.483l-5.747-4.966"/>
+		<path fill="none" stroke="#000000" stroke-dasharray="10 4" d="M311.315,150.171c-5.747,4.967-5.747,4.967-5.747,4.967
+			l-1.642,2.482l-0.822,2.483v2.483l0.822,2.483l1.642,2.483l5.747,4.966"/>
+		<path fill="#0A50A1" d="M176.333,219.274c0,1.657-1.343,3-3,3s-3-1.343-3-3s1.343-3,3-3S176.333,217.618,176.333,219.274z"/>
+		<path fill="#0A50A1" d="M239.333,218.274c0,1.657-1.343,3-3,3s-3-1.343-3-3s1.343-3,3-3S239.333,216.618,239.333,218.274z"/>
+		<path fill="#0A50A1" d="M314.333,217.274c0,1.657-1.344,3-3,3s-3-1.343-3-3s1.344-3,3-3S314.333,215.618,314.333,217.274z"/>
+		<text transform="matrix(1 0 0 1 349.0005 71.9414)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">The open string can vibrate</tspan><tspan x="0" y="14.5" font-family="'Myriad-Roman'" font-size="12">at all these frequencies </tspan><tspan x="0" y="29" font-family="'Myriad-Roman'" font-size="12">at the same time.</tspan></text>
+		<text transform="matrix(1 0 0 1 351.3335 168.2744)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">A string that is touched lightly </tspan><tspan x="0" y="14.5" font-family="'Myriad-Roman'" font-size="12">exactly at its midpoint</tspan><tspan x="0" y="29" font-family="'Myriad-Roman'" font-size="12">can only vibrate at the</tspan><tspan x="0" y="43.5" font-family="'Myriad-Roman'" font-size="12">frequencies that have</tspan><tspan x="0" y="58" font-family="'Myriad-Roman'" font-size="12">a node there. So it will</tspan><tspan x="0" y="72.5" font-family="'Myriad-Roman'" font-size="12">have a &quot;thinner&quot; sound than</tspan><tspan x="0" y="87" font-family="'Myriad-Roman'" font-size="12">the open string. It will also</tspan><tspan x="0" y="101.5" font-family="'Myriad-Roman'" font-size="12">sound one octave higher </tspan><tspan x="0" y="116" font-family="'Myriad-Roman'" font-size="12">than the open string.</tspan></text>
+		<path fill="none" stroke="#000000" d="M118.691,135.276h210"/>
+		<path fill="none" stroke="#000000" d="M119.691,151.276h210"/>
+		<path fill="none" stroke="#000000" d="M120.691,285.276h210"/>
+	</g>
+</svg>

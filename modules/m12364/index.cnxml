@@ -1,0 +1,128 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Wind Instruments: Some Basics</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12364</md:content-id>
+  <md:title>Wind Instruments: Some Basics</md:title>
+  <md:abstract>For middle school and up, some terms that are useful to know when discussing aerophones (wind instruments).</md:abstract>
+  <md:uuid>09ab85c2-8ecd-4b6b-99e0-3c30de50cecb</md:uuid>
+</metadata>
+
+  <content>
+
+  <section id="s0">
+    <title>Introduction</title>
+    <para id="p0a">
+The brass and woodwind sections of the <link document="m11897">orchestra</link> - all the instruments that one blows into to produce a sound - are called the <term>wind instruments</term>, or <term>winds</term>. The technical term for these instruments is <link document="m11896" target-id="s22">aerophones</link>. There are several basic terms that you need to know in order to discuss wind instruments and the playing of wind instruments. Some of the most common are introduced here.
+    </para>   
+  </section>
+
+  <section id="s6">
+    <title>Mouthpieces: Getting the Sound Started</title>
+
+     <para id="p1b">
+In most wind instruments, the air is blown into the instrument at or near one end of the tube and exits at the other end. The place where the air is blown in is the <term>mouthpiece</term>. It is often detachable from the instrument, allowing the player to use the same mouthpiece on different instruments, or different mouthpieces on the same instrument, as needed. The sound vibration usually begins at the mouthpiece, and wind instruments are <link document="m11896">classified</link> by mouthpiece types. 
+    </para>
+    <para id="p6a">
+<term>Reed</term> instruments use small, rectangular pieces of reed plants (the pieces are called simply <term>reeds</term>) in their mouthpieces. The reed vibrates very quickly, opening and closing the end of the instrument like an incredibly fast valve. When the rapid puffs of air coming through this "valve" cause a sympathetic vibration of the air in the body of the instrument, the result is a woodwind sound. When they don't, the result is a squeak familiar to all reed players. In a <term>single-reed</term> instrument, the reed vibrates against the mouthpiece. In a <term>double-reed</term> instrument, two pieces of reed vibrate against each other.
+    </para>
+    <para id="p6b">
+In flute-type instruments, a narrow airstream vibrates quickly over and under a sharp edge. (Please see <link document="m12603" target-id="s7">Flutes</link> for more about how this type of mouthpiece works.)
+    </para>
+    <para id="p6c">
+In <link document="m11897" target-id="s13">brass</link> instruments, the players lips vibrate against each other and against the rim of a <term>cup mouthpiece</term>. Note that an instrument is classified as brass not because it is made of metal, but because it has this type of mouthpiece, which relies on vibrating lips.
+    </para>
+    <para id="p6d">
+In all of these cases, the mouthpiece vibration is the original vibration that the rest of the instrument picks up, magnifies, and turns into a pretty sound.
+    </para>
+  </section>
+
+  <section id="s1">
+    <title>Bells and Bores: The Shape of the Instrument</title>
+
+    <para id="p1a">
+Most <link document="m11897" target-id="s1">wind instruments</link> are vaguely tube-shaped, because a long, thin column of air is a good place to set up a <link document="m12589">standing waves of air</link>. The properties of this standing sound wave inside the instrument are what give the sound its <link document="m10943">pitch</link>, its <link document="m11649">dynamic level</link> (loudness or softness), its <link document="m11118">harmonics</link>, and its <link document="m11059">timbre</link> (color). So an instrument's sound depends mostly on the size and shape of the tube that the air moves through. <note id="id1171788325966">Interestingly, whether the tube is straight or bent into circles or ovals doesn't seem to affect the sound much, although a very sharp bend in the instrument does affect the sound a little. Whether an instrument is straight or bent into circles usually depends on what's easiest for the musician to hold and the instrument-maker to shape.</note>
+    </para>
+    <para id="p1bb">
+The air enters the instrument at the mouthpiece (see <link target-id="s6">above</link>). After a length of tube which widens gradually or hardly at all, the other end of the instrument often flares abruptly. This flared section at the end of the instrument is the <term>bell</term>. The bell can be quite large and gradual, as in a <link document="m11617">French horn</link>, or small and abrupt, as in a trumpet, or even narrowing, as in a bassoon.
+    </para>
+    <figure id="fig1a">
+        <title>Basic Wind Instrument</title>
+        <media id="id1171791263709" alt=""><image src="../../media/windinstrument.png" mime-type="image/png"/></media>
+    </figure>
+    <para id="p1c">
+In between the mouthpiece and the bell, the space inside the instrument that the air moves through is the <term>bore</term> of the instrument. The bore of an instrument is often described as being either cylindrical or conical. A <term>cylindrical bore</term> stays about the same width from the mouthpiece to the bell. A <term>conical bore</term> gets gradually wider as it moves from the mouthpice to the bell. The bore of the instrument strongly affects its <link document="m11059">timbre</link>. For more complete information on how the shape of a wind instrument affects its sound, please see <link document="m12589">Standing Waves and Wind Instruments</link>.
+    </para>
+    <figure id="fig1b">
+       <title>Bore</title>
+       <media id="id1171793189326" alt=""><image src="../../media/bore-b755.png" mime-type="image/png"/></media>
+       <caption>Bore affects the timbre of the instrument. In general, instruments with a cylindrical bore have a more direct sound with less complex harmonics. Instruments with a conical bore usually have a mellower sound with more complex harmonics.</caption>
+    </figure>
+
+  </section>
+  <section id="s2">
+    <title>Lips, Tongue, and Fingers: Playing the Instrument</title>
+
+    <para id="p2a">
+Most wind instruments require the player to do something very specific with the lips and the facial muscles while blowing, in order to get a good, controlled sound. (Brass instruments will get no sound at all unless the lips are buzzing against each other and the mouthpiece.) The formal term for what a player does with the lips and face is <term>embouchure</term>; the informal term is <term>chops</term>.
+    </para>
+    <para id="p2ab">
+Unless they are <link document="m11884" target-id="l0a">slurred</link>, notes played on wind instruments are <term>tongued</term>. This means that the tongue, which has temporarily blocked or interrupted the airstream, begins each note by releasing the airstream again. Tonguing is usually done with the tip of the tongue, as if the player is saying "tah". But sometimes, when the music is very fast, some wind players will <term>double tongue</term> (tah-kah-tah-kah) or <term>triple tongue</term> (tah-kah-tah tah-kah-tah) the notes, using the back as well as the front of the tongue. Flutes can also get an effect called <term>flutter tongue</term> by using an articulation that resembles the rolled Spanish "rr".
+    </para>
+    <para id="p2d">
+In the meantime, the fingers are usually involved in making the column of air in the instrument shorter or longer, to make the pitch higher or lower. This may involve a sliding section of the instrument (as in a trombone), or <term>fingerholes</term> that can be covered or uncovered with the fingers (as in recorders).
+    </para>
+    <para id="p2e">
+In most modern instruments, however, it usually involves either keys or valves. The <term>fingering</term> of a note is the keys or valves that need to be held down for that note. But most instruments can get more than one note with the same fingering, by changing the <link target-id="p2a">embouchure</link> to get different <link document="m11118">harmonics</link> of the standing wave. In fact, <link document="m11897" target-id="s13">brass</link> winds can get so many different harmonics with one fingering that changing the embouchure is the main way to play the instrument. Brass usually use valves, and <link document="m11897" target-id="s12">woodwinds</link> usually use keys. Keys and valves work in fundamentally different ways. 
+    </para>
+
+    <para id="p2f">
+That vibrating standing-wave column of air inside the instrument generally ends at the first place where air can escape from the instrument. So (this is simplified for explanation purposes), the more fingers a recorder player is holding down, the longer the column of air and the lower the pitch. But it can be difficult (on some large instruments, impossible) to completely cover all the holes with the fingers, so most modern woodwind instruments use <term>keys</term> instead. The fingers press down the keys, and the keys cover the holes as needed, usually with a pad that covers the hole more completely than a finger could, and sometimes also using a lever that lets the finger press in one easy-to-reach spot, while the lever presses the pad over a hole in a more-difficult-to-reach spot.
+    </para>
+
+    <figure id="fig2a">
+      <title>Keys</title>
+         <media id="id1171792575468" alt=""><image src="../../media/keyhole.png" mime-type="image/png"/></media>
+         <caption>In general, the more holes that are closed with a key or covered by a finger, the longer the standing wave inside the instrument, and the lower the pitch.</caption>
+    </figure>
+
+    <para id="p2g">
+Valves are more commonly found on brass instruments. Pressing a <term>valve</term> makes the air flow through an extra section of tube, temporarily making the instrument longer in between the mouthpiece and the bell.  The slightly longer instrument gets a slightly lower <link document="m11118" target-id="p1c">fundamental harmonic</link>, and a lower <link document="m11118">harmonic series</link>. (A few valves are <term>ascending valves</term>, which cut off a section of tubing and so raise the pitch.) Press the button in this <link resource="trumpetvalve.swf">animation</link> to see how the air gets redirected through one type of (<term>descending</term>) valve. 
+    </para>
+
+    <figure id="fig2b">
+      <title>Valves</title>
+      <media id="id1171795449473" alt=""><image src="../../media/Valve.png" mime-type="image/png"/></media>
+    </figure>
+
+    <para id="p2h">
+The figure and the animation show one type of piston valve. Other styles of valves, including rotary valves as well as other types of piston valves, have different arrangements for the air flow inside the valve, but the purpose is always to redirect the air when the valve is pressed, opening up or cutting off a section of tubing.
+    </para>
+    <para id="p2i">
+Most brass instruments can play an entire <link document="m10866" target-id="p0bb">chromatic scale</link> with just a few valves. They use small changes in the <link target-id="p2a">embouchure</link> to get many different notes from the <link document="m11118">harmonic series</link> for each valve. But woodwinds have many more keys and fingerings available. Typically a woodwind can play the notes in an entire octave just by changing fingerings. Then a large change in the airstream and <link target-id="p2a">embouchure</link> is needed to switch to the next <link document="m11118">harmonic</link>, so that the next octave can be played. This big change is called <term>overblowing</term>.
+    </para>
+    <para id="p2j">
+Some brass instruments may also have a <term>spit valve</term>, a small hole that is normally closed but that the player can open quickly with a small key. This is not used while playing the instrument. It is used to empty the instrument of what players call "spit". Water vapor from the warm, moist breath of the player condenses in the instrument, especially when it is cold. (And, yes, there's probably a little actual spit in it, too, but not much). This can cause a bubbling sound in the tone. The spit valve is placed at a spot where the water naturally accumulates (due to gravity), giving the player a way to quickly empty the instrument during rests.
+    </para>
+
+  </section>
+  <section id="s5">
+    <title>Wood and Brass: Instrument Materials</title>
+  
+    <para id="p5a">
+Calling the two main <link document="m11897" target-id="s1">wind</link> sections of the orchestra <link document="m11897" target-id="s12">woodwinds</link> and <link document="m11897" target-id="s13">brass</link> is a bit misleading. The important difference between the two groups is how the sound is first produced, not what the instrument is made of. (In a "brass" instrument, the lips are buzzed against the rim of the mouthpiece. In a "woodwind", the sound begins either with one or two vibrating reeds, or at a sharp edge in the mouthpiece.)
+    </para>
+    <para id="p5b">
+"Brass" instruments are usually made of brass, an alloy of copper and zinc. They may be the normal color of brass metal, or they may be tinted to a different metallic color. For example, nickel may be added to the alloy to give the instrument a silver color. Occasionally brass instruments are not made of metal at all; for example, the sousaphone, a tuba used in marching bands, is often made of (lighter-weight) fiberglass.
+    </para>
+    <para id="p5c">
+"Woodwinds" are often made of hardwood, but saxophones are normally made of brass, and most orchestral flutes are made of "nickel-silver" brass. There are also good-quality plastic woodwinds that may be preferable to the wooden versions in some situations - for example, playing in rain, heat, or cold. 
+    </para>
+    <para id="p5d">
+Other materials are often needed to make an instrument work well. Felt pads, pieces of cork, metal keys, and various oils help to keep the valve and key action quiet while keeping the instrument from leaking air in the wrong places.
+    </para>
+
+  </section>
+
+  </content>
+  
+</document>

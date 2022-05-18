@@ -1,0 +1,381 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Transposition: Changing Keys</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10668</md:content-id>
+  <md:title>Transposition: Changing Keys</md:title>
+  <md:abstract>Transposition, or changing the key of a piece of music, can be useful and is sometimes necessary to make music more singable or playable. Music is transposed by raising or lowering every note by the same interval.</md:abstract>
+  <md:uuid>97729466-db43-404f-952d-0d67986b6eef</md:uuid>
+</metadata>
+
+  <content>
+    <para id="intro">Changing the <link document="m10851">key</link> of a piece of music is called <term>transposing</term> the music. Music in a <link document="m10851">major key</link> can be transposed to any other major key; music in a <link document="m10856">minor key</link> can be transposed to any other minor key. (Changing a piece from minor to major or vice-versa requires many more changes than simple transposition.) A piece will also sound higher or lower once it is transposed. There are some ways to avoid having to do the transposition yourself, but learning to transpose can be very useful for performers, composers, and arrangers.
+    </para>  
+
+    <section id="why">
+    <title>Why Transpose?</title>
+
+    <para id="why1">Here are the most common situations that may require you to change the key of a piece of music:
+    </para>
+    <list id="whylist">
+    <item>To put it in the right key for your <emphasis>vocalists</emphasis>. If your singer or singers are struggling with notes that are too high or low, changing the key to put the music in their <link document="m12381">range</link> will result in a much better performance.
+    </item>
+    <item>
+         Instrumentalists may also find that a piece is <emphasis>easier to play</emphasis> if it is in a different key. Players of both bowed and plucked strings generally find fingerings and tuning to be easier in sharp keys, while woodwind and brass players often find flat keys more comfortable and in tune.
+    </item>
+    <item>
+         Instrumentalists with <emphasis>transposing instruments</emphasis> will usually need any part they play to be properly transposed before they can play it. <link document="m12604">Clarinet</link>, <link document="m11617">French horn</link>, <link document="m12611">saxophone</link>, <link document="m12606">trumpet, and cornet</link> are the most common <link document="m10672" strength="3">transposing instruments</link>.
+    </item>
+    </list>
+    </section>
+    
+    <section id="avoiding">
+    <title>Avoiding Transposition</title>
+    <para id="avoid">In some situations, you can avoid transposition, or at least avoid doing the work yourself. Some stringed instruments - guitar for example - can use a <link document="m12745" target-id="p9c">capo</link> to play in higher keys. A good electronic keyboard will transpose for you. If your music is already stored as a computer file, there are programs that will transpose it for you and display and print it in the new key. However, if you only have the music on paper, it may be easier to transpose it yourself than to enter it into a music program to have it transposed. So if none of these situations apply to you, it's time to learn to transpose. <note id="id13477534">If you play a chordal instrument (guitar, for example), you may not need to write down the transposed music. There are instructions <link target-id="chords">below</link> for transposing just the names of the chords.</note>
+    </para>
+    </section>
+    <section id="transposing">
+    <title>How to Transpose Music</title>
+    <para id="howto">
+There are four steps to transposition:
+    </para>
+    <list id="steps" list-type="enumerated"> 
+    <item>
+Choose your transposition.
+    </item>
+    <item>
+Use the correct <link document="m10881" strength="3">key signature</link>.
+    </item>
+    <item>
+Move all the notes the correct <link document="m10867" strength="3">interval</link>.
+    </item>
+    <item>
+Take care with your <link document="m10943" target-id="p0e" strength="2">accidentals</link>.
+    </item>
+    </list>
+      <section id="choose">
+      <title>Step 1: Choose Your Transposition</title>
+<para id="parachoose">
+In many ways, this is the most important step, and the least straightforward. The transposition you choose will depend on why you are transposing. If you already know what transposition you need, you can go to step two. If not, please look at the relevant sections below first:
+    <list id="wherego">
+    <item>
+Are you rewriting the music for a <link target-id="key2">transposing instrument</link>?
+    </item>
+    <item>
+Are you looking for a key that is in the range of your <link target-id="key1">vocalist</link>?
+    </item>
+    <item>
+Are you looking for a key that is <link target-id="key3">more playable</link> on your instrument?
+    </item>
+    </list>
+</para>
+      </section>
+      <section id="keysig">
+      <title>Step 2: Write the New Key Signature</title>
+         <para id="writekey">If you have chosen the transposition because you want a particular key, then you should already know what key signature to use. (If you don't, see <link document="m10881" strength="3">Key Signature</link>.) If you have chosen the transposition because you wanted a particular interval (say, a whole step lower or a perfect fifth higher), then the key changes by the same interval. For example, if you want to transpose a piece in D major up one <link document="m10866">whole step</link>, the key also moves up one whole step, to E major. Transposing a piece in B minor down a <link document="m10867" target-id="list22a">major third</link> will move the key signature down a major third to G minor. For more information on and practice identifying intervals, see <link document="m10867" strength="3">Interval</link>. For further information on how moving music up or down changes the key signature, see <link document="m10865" strength="3">The Circle of Fifths</link>.
+         </para>
+		<figure id="fig3a"><title>Find the New Key</title>
+<media id="id9457450" alt=""><image src="../../media/TransposeKeys.png" mime-type="image/png"/><image for="pdf" src="../../media/TransposeKeys-0.eps" mime-type="application/postscript"/></media>
+                        <caption>You must know the interval between the old and new keys, and you must know the new key signature. This step is very important; if you use the wrong key signature, the transposition will not work.</caption>
+		</figure>
+      </section>
+      <section id="interval">
+      <title>Step 3: Transpose the Notes</title>
+         <para id="lineandspace">
+Now rewrite the music, changing all the notes by the correct interval. You can do this for all the notes in the key signature simply by counting lines and spaces. As long as your key signature is correct, you do not have to worry about whether an interval is major, minor, or perfect.
+	   </para>
+         	<figure id="fig3b"><title>Move all the Notes</title>
+<media id="id14350396" alt=""><image src="../../media/transp3b.png" mime-type="image/png"/><image for="pdf" src="../../media/transp3b-0.eps" mime-type="application/postscript"/></media>
+                        <caption>Did you move the key down a minor third? Simply move all the notes down a third in the new key; count down three lines-or-spaces to find the new spot for each note. Did you move the key up a perfect fourth? Then move all the notes up four lines-and-spaces. Remember to count every line and every space, including the ones the notes start on and end on. Once you get the hang of it, this step is very straightforward, but it may take a while if you have a lot of music.</caption>
+		</figure>
+      </section>
+      <section id="accidentals">
+      <title>Step 4: Be Careful with Accidentals</title>
+         <para id="careful">
+Most notes can simply be moved the correct number of lines and spaces. Whether the interval is minor, major, or perfect will take care of itself if the correct key signature has been chosen. But some care must be taken to correctly transpose accidentals. Put the note on the line or space where it would fall if it were not an accidental, and then either lower or raise it from your new key signature. For example, an accidental B natural in the key of E flat major has been raised a half step from the note in the key (which is B flat). In transposing down to the key of D major, you need to raise the A natural in the key up a half step, to A sharp. If this is confusing, keep in mind that the interval between the old and new (transposed) notes (B natural and A sharp) must be one half step, just as it is for the notes in the key.
+         <note id="id15529573">If you need to raise a note which is already sharp in the key, or lower a note that is already flat, use <link document="m10943" target-id="fig22f" strength="2">double sharps or double flats</link>.</note>
+         </para>
+		<figure id="fig3d"><title>Transposing Accidentals</title>
+<media id="id15631675" alt=""><image src="../../media/transpaccidental.png" mime-type="image/png"/><image for="pdf" src="../../media/transpaccidental-0.eps" mime-type="application/postscript"/></media>
+      <caption>
+Flats don't necessarily transpose as flats, or sharps as sharps. For example, if the accidental originally raised the note one half step out of the key,  by turning a flat note into a natural, the new accidental may raise the note one half step out of the key by turning a natural into a sharp.
+      </caption>
+		</figure>
+                <exercise id="exer4a">
+                     <problem id="id6618048">
+                       <para id="prob4a">The best practice for transposing is to transpose a piece you know well into a new key.
+                       </para>
+                     </problem>
+                     <solution id="id4449824">
+                       <para id="solv4a">
+Play the part you have transposed; your own ears will tell you where you have made mistakes.
+                       </para>
+                     </solution>
+                </exercise>
+      </section>
+    </section>
+    <section id="key">
+    <title>Choosing Your New Key</title>
+    <para id="introchoose">
+Before you can begin transposing, you must decide what your new <link document="m10851" strength="3">key</link> will be. This will depend on why you are transposing, and what kinds of vocalists and instrumentalists you are working with.
+    </para>
+        <section id="key1">
+        <title>Working with Vocalists</title>
+        <para id="which1">
+If you are trying to accomodate singers, your main concern in choosing a key is finding their <link document="m12381">range</link>. Is the music you are working with too high or too low? Is it only a step too high, or does it need to be changed by a third or a fifth? Once you determine the <link document="m10867" strength="3">interval</link> needed, check to make certain this will be a comfortable key for your instrumentalists. 
+        </para>
+        <example id="vocal1">
+        <para id="vocexample1">
+A church choir director wants to encourage the congregation to join in on a particular hymn. It is written in four parts with the melody in the soprano part, in a range slightly too high for untrained singers. The hymn is written in the key of E flat. Lowering it by a minor third (one and a half steps) will allow the congregation to sing with gusto.
+        </para>
+		<figure id="fig1a"><media id="id4168092" alt=""><image src="../../media/hymnEflat.png" mime-type="image/png"/><image for="pdf" src="../../media/hymnEflat-0.eps" mime-type="application/postscript"/></media>
+                        <caption>The hymn is originally in E flat. The melody that goes up to an F is too high for most untrained vocalists (male and female).</caption>
+                </figure>
+                <figure id="fig1aa"><media id="id16154899" alt=""><image src="../../media/hymnC.png" mime-type="image/png"/><image for="pdf" src="../../media/hymnC-0.eps" mime-type="application/postscript"/></media>
+                        <caption>The same hymn in C is more easily singable by a congregation.</caption>
+		</figure>
+        </example>
+        <example id="vocal2">
+        <para id="vocexample2">
+An alto vocalist would like to perform a blues standard originally sung by a soprano or tenor in B flat. She needs the song to be at least a <link document="m10866">whole step</link> lower. Lowering it by a whole step would put it in the key of A flat. The guitar, bass, and harmonica players don't like to play in A flat, however, and the vocalist wouldn't mind singing even lower. So the best solution is to lower it  by a <link document="m10867" target-id="list22a">minor third</link>, and play in the key of G.
+        </para>
+		<figure id="figex2" orient="vertical"><subfigure id="figex2a">
+<media id="id4120511" alt=""><image src="../../media/BluesBflat.png" mime-type="image/png"/><image for="pdf" src="../../media/BluesBflat-0.eps" mime-type="application/postscript"/></media>
+                        <caption>The key of this blues standard is comfortable for a soprano or tenor, as shown in this excerpt.</caption>
+                      </subfigure>
+                      <subfigure id="figex2b">
+<media id="id3597557" alt=""><image src="../../media/BluesG.png" mime-type="image/png"/><image for="pdf" src="../../media/BluesG-0.eps" mime-type="application/postscript"/></media>
+                         <caption>An alto or baritone can deliver a more powerful performance if the music is transposed down a minor third.</caption>
+                       </subfigure>
+		</figure>
+        </example>
+
+<exercise id="exer3"><problem id="id16799556">
+		<para id="prob3a">You're accompanying a soprano who feels that this folk tune in C minor is too low for her voice. The guitar player would prefer a key with no flats and not too many sharps.
+		</para>
+		<figure id="fig2e" orient="vertical"><media id="id4421415" alt=""><image src="../../media/Transp1prob.png" mime-type="image/png"/><image for="pdf" src="../../media/Transp1prob-0.eps" mime-type="application/postscript"/></media>     
+	<caption>Tune in C minor too low for some sopranos voices.</caption></figure>
+                
+	</problem>
+	<solution id="id8918373">
+		<para id="solu3a">Transposing up a <link document="m10867" target-id="list22a">major third</link>, to E minor, puts the song in a better range for a soprano, with a key signature that is easy for guitars.</para>
+		<figure id="fig2f"><media id="id6697910" alt=""><image src="../../media/Transp1solv.png" mime-type="image/png"/><image for="pdf" src="../../media/Transp1solv-0.eps" mime-type="application/postscript"/></media>
+		<caption>Moving tune up to E minor puts it in a better key for sopranos.</caption></figure>
+                
+	</solution>
+    </exercise>
+
+        </section>
+        <section id="key2">
+        <title>Transposing Instruments</title>
+
+        <para id="transpinst"><term>Transposing instruments</term> are instruments for which standard parts are written higher or lower than they sound. A very accomplished player of one of these instruments may be able to transpose at sight, saving you the trouble of writing out a transposed part, but most players of these instruments will need a transposed part written out for them. Here is a short list of the most common transposing instruments. For a more complete list and more information, see <link document="m10672" strength="3">Transposing Instruments</link>.
+        <list id="transposelist">
+        <title>Transposing Instruments</title>
+<item><link document="m12604" strength="2">Clarinet</link> is usually (but not always) a B flat instrument. Transpose C parts up one whole step for B flat instruments. (In other words, write a B flat part one whole step higher than you want it to sound.)</item>
+<item><link document="m12606" strength="2">Trumpet and Cornet</link> parts can be found in both B flat and C, but players with B flat instruments will probably want a B flat (transposed) part.</item>
+<item><link document="m11617" strength="2">French Horn</link> parts are usually in F these days. However, because of the instrument's history, older orchestral parts may be in any conceivable transposition, even changing transpositions in the middle of the piece. Because of this, some horn players learn to transpose at sight. Transpose C parts up a perfect fifth to be read in F.</item>
+<item><link document="m12611" strength="2">Alto and Baritone Saxophone</link> are E flat instruments. Transpose parts up a major sixth for alto sax, and up an octave plus a major sixth for bari sax.</item>
+<item><link document="m12611" strength="2">Soprano and Tenor Saxophone</link> are B flat instruments. Tenor sax parts are written an octave plus one step higher.</item>
+        </list>
+        <note id="id9544707">Why are there transposing instruments? Sometimes this makes things easier on instrumentalists; they may not have to learn different fingerings when they switch from one kind of saxophone to another, for example. Sometimes, as with piccolo, transposition centers the music in the staff (rather than above or below the staff). But often transposing instruments are a result of the history of the instrument. See the history of the <link document="m11617" target-id="s2" strength="2">French horn</link> to find out more.</note>
+        </para>
+        <para id="instkey">
+The transposition you will use for one of these instruments will depend on what type of part you have in hand, and what instrument you would like to play that part. As with any instrumental part, be aware of the <link document="m12381" strength="2">range</link> of the instrument that you are writing for. If transposing the part up a perfect fifth results in a part that is too high to be comfortable, consider transposing the part down a perfect fourth instead.
+        </para>
+  <list id="transposeruleslist" list-type="enumerated">
+    <title>To Decide Transpositions for Transposing Instruments</title>
+    <item>
+Ask: what type of part am I transposing and what type of part do I want? Do you have a C part and want to turn it into an F part? Do you want to turn a B flat part into a C part? <emphasis>Non-transposing parts are considered to be C parts.</emphasis> The written key signature has nothing to do with the type of part you have; only the part's transposition from concert pitch (C part) matters for this step.
+    </item>
+    <item>
+Find the interval between the two types of part. For example, the difference between a C and a B flat part is one whole step. The difference between an E flat part and a B flat part is a perfect fifth.
+    </item>
+    <item>
+Make sure you are transposing in the correct direction. If you have a C part and want it to become a B flat part, for example, you must transpose <emphasis>up</emphasis> one whole step. This may seem counterintuitive, but remember, <emphasis>you are basically compensating for the transposition that is "built into" the instrument</emphasis>. To compensate properly, always transpose by moving in the opposite direction from the change in the part names. To turn a B flat part into a C part (B flat to C =  up one step), transpose the part down one whole step. To turn a B flat part into an E flat part (B flat to E flat = down a perfect fifth), transpose the part up a perfect fifth. 
+    </item>
+    <item>
+Do the correct <link target-id="keysig">transposition by interval</link>, including changing the written key by the correct interval.
+    </item>
+  </list>
+        <example id="CtoEb">
+        <para id="ctoeexample">
+Your garage band would like to feature a solo by a friend who plays the alto sax. Your songwriter has written the solo as it sounds on his keyboard, so you have a C part. Alto sax is an E flat instrument; in other words, when he sees a C, he plays an E flat, the note a <link document="m10867" target-id="list22a">major sixth</link> lower. To compensate for this, you must write the part a major sixth higher than your C part. 
+        </para>
+		<figure id="fig1c" orient="vertical"><subfigure id="fig1cB">
+<media id="id8492660" alt=""><image src="../../media/TranspEx3B.png" mime-type="image/png"/><image for="pdf" src="../../media/TranspEx3B-0.eps" mime-type="application/postscript"/></media>
+    </subfigure>
+    <subfigure id="fig1cG">
+<media id="id7087240" alt=""><image src="../../media/TranspEx3G.png" mime-type="image/png"/><image for="pdf" src="../../media/TranspEx3G-0.eps" mime-type="application/postscript"/></media>
+    </subfigure>
+                        <caption>In the top line, the melody is written out in concert pitch; on the second line it has been transposed to be read by an alto saxophone. When the second line is played by an alto sax player, the result sounds like the first line.</caption>
+		</figure>
+        </example>
+        <example id="btoc">
+        <para id="btocexample">
+Your choral group is performing a piece that includes an optional instrumental solo for clarinet. You have no clarinet player, but one group member plays recorder, a C instrument. Since the part is written for a B flat instrument, it is written one whole step higher than it actually sounds. To write it for a C instrument, transpose it back down one whole step.
+        </para>
+		<figure id="fig1d" orient="vertical"><subfigure id="fig1dBflat">
+<media id="id10578532" alt=""><image src="../../media/TranspEx4G.png" mime-type="image/png"/><image for="pdf" src="../../media/TranspEx4G-0.eps" mime-type="application/postscript"/></media>
+                        <caption>Melody for B flat clarinet</caption>
+                     </subfigure>
+                     <subfigure id="transp1dC">
+<media id="id5753917" alt=""><image src="../../media/TranspEx4F.png" mime-type="image/png"/><image for="pdf" src="../../media/TranspEx4F-0.eps" mime-type="application/postscript"/></media>
+                        <caption>Melody transposed for C instruments</caption>
+                     </subfigure>
+		</figure>
+        </example>
+
+
+    <exercise id="ex2">
+      <problem id="id13971957">
+         <para id="exer2">
+There's a march on your community orchestra's program, but the group doesn't have quite enough trombone players for a nice big march-type sound. You have extra French horn players, but they can't read bass clef C parts. 
+         </para>
+		<figure id="fig2c"><media id="id4222110" alt=""><image src="../../media/Transp3prob.png" mime-type="image/png"/><image for="pdf" src="../../media/Transp3prob-0.eps" mime-type="application/postscript"/></media>
+                        <caption>Trombone line from a march</caption>
+		</figure>
+      </problem>
+      <solution id="id3548422">
+
+         <para id="solu2">
+The trombone part is in C in bass clef; the horn players are used to reading parts in F in treble clef. Transpose the notes up a perfect fifth and write the new part in treble clef.
+         </para>
+
+		<figure id="fig2d" orient="vertical"><subfigure id="fig2c2">
+<media id="id5813145" alt=""><image src="../../media/Transp3solvBass.png" mime-type="image/png"/><image for="pdf" src="../../media/Transp3solvBass-0.eps" mime-type="application/postscript"/></media>
+                        <caption>This is the same part transposed up a fifth so that it is in F</caption>
+                        </subfigure>
+
+                        <subfigure id="fig2c3">
+<media id="id6650526" alt=""><image src="../../media/Transp3solvtreble.png" mime-type="image/png"/><image for="pdf" src="../../media/Transp3solvtreble-0.eps" mime-type="application/postscript"/></media>
+                             <caption>Now write it in treble clef to make it easy for horn players to read.</caption>
+                        </subfigure>
+		</figure>
+              
+      </solution>
+    </exercise>
+    
+
+        </section>
+        <section id="key3">
+        <title>Playable Keys</title>
+
+        <para id="easier">Transposition can also make music easier to play for instrumentalists, and ease of playing generally translates into more satisfying performances. For example, someone writing a transcription for band of an orchestral piece may move the entire piece from a sharp key (easier for strings) to a nearby flat key (easier for winds). A <link document="m12745">guitar</link> player, given a piece written in A flat for keyboard, will often prefer to play it in A or G, since the fingerings for chords in those keys are easier. Also, instrumentalists, like vocalists, have <link document="m12381">ranges</link> that need to be considered. 
+        </para>
+        <example id="arrange">
+        <para id="arrangement">
+Your eighth grade <link document="m12612">bassoon</link> player would like to play a Mozart minuet at a school talent show with a flute-playing friend from band. The minuet is in C, but the melody is a little too low for a <link document="m12603">flute</link>, and the bassoonist would also be more comfortable playing higher. If you transpose the whole piece up a minor third to E flat major, both players can hit the lowest notes, and you may also find that fingerings and tunings are better in the flat key.
+        </para>
+        <figure id="figexam5" orient="vertical"><subfigure id="figexam5a">
+<media id="id4359388" alt=""><image src="../../media/TranspFig13a.svg" mime-type="image/svg"/><image for="pdf" src="../../media/TranspFig13a.eps" mime-type="application/postscript"/></media>
+                    <caption>An excerpt from a Mozart Minuet in C. The upper part is too low for a flute player.</caption>
+                </subfigure>
+                <subfigure id="figexam5b">
+<media id="id16819914" alt=""><image src="../../media/TranspFig13b.svg" mime-type="image/svg"/><image for="pdf" src="../../media/TranspFig13b.eps" mime-type="application/postscript"/></media>
+                     <caption>Both young instrumentalists would be more comfortable playing in this key.</caption>
+                </subfigure>
+        </figure>
+        </example>
+
+    <exercise id="ex1">
+      <problem id="id4406688">
+        <para id="exer1">You've brought your guitar and your <link document="m12745" target-id="p9c">capo</link> to the sing-along because you'd like to play along, too. Going through the music beforehand, you notice that your favorite song is in A flat. The pianist isn't prepared to play it in any other key, but you really don't like those thin-sounding chords in A flat. You can use your capo to raise the sound of your instrument (basically turning it into a transposing instrument in C sharp, D, D sharp, or even higher), but the less you raise it the more likely you are to still sound in tune with the piano.
+        </para>
+		<figure id="fig2a"><media id="id7888067" alt=""><image src="../../media/Transp2prob.png" mime-type="image/png"/><image for="pdf" src="../../media/Transp2prob-0.eps" mime-type="application/postscript"/></media>
+		<caption>Chords in the key of A flat major are not ideal for guitarists.</caption></figure>
+      </problem>
+      <solution id="id7396982">
+        <para id="solu1">Put the capo on the first fret to raise the sound by one half step. Then transpose the chords down one half step. You will be playing in G, a nice strong key for guitar, but sounding in A flat. For more on transposing chords, see <link target-id="chords">Transposing Chord Names</link>
+        </para>
+		<figure id="fig2b"><media id="id10464526" alt=""><image src="../../media/Transp2solv.png" mime-type="image/png"/><image for="pdf" src="../../media/Transp2solv-0.eps" mime-type="application/postscript"/></media>
+<caption>Giving guitarists the option of playing in G major (with a capo) can make things easier.</caption></figure>
+      </solution>
+    </exercise>
+
+        </section>
+    </section>
+
+    <section id="sighttranspose">
+    <title>Transposing at Sight</title>
+    <para id="sight">
+<term>Transposing at sight</term> means being able to read a part written in one key while playing it in another key. Like any other performance skill, it can be learned with practice, and it is a skill that will help you become an extremely versatile instrumentalist. (Vocalists transpose at sight without even thinking about it, since they don't have to worry about different fingerings.) To practice this skill, simply start playing familiar pieces in a different key. Since you know the piece, you will recognize when you make a mistake. Start with pieces written in C, and play them only a half step or whole step lower or higher than written. When this is easy, move on to more challenging keys and larger intervals. Practice playing in an unfamiliar <link document="m10941" strength="2">clef</link>, for example bass clef if you are used to reading treble clef. Or, if you play a <link document="m10672" strength="3">transposing instrument</link>, work on being able to play C parts on sight. You may find more opportunities to play (and earn the gratitude of your fellow musicians) if you can say, "we can change keys if you like", or "I can cover that bass clef C part for you, no problem."
+    </para>
+    </section>
+
+    <section id="chords">
+       <title>Transposing Chord Names</title>
+
+       <para id="ch1a">
+If you are transposing entire chords, and you know the name of the chord, you may find it easier to simply transpose the name of the chord rather than transposing each individual note. In fact, transposing in this way is simple enough that even a musician who can't read music can do it.
+       </para>
+       <figure id="figch1a"><title>Chromatic Circle</title>
+<media id="id7916605" alt=""><image src="../../media/ChromaticCircle.png" mime-type="image/png"/><image for="pdf" src="../../media/ChromaticCircle-0.eps" mime-type="application/postscript"/></media>
+          <caption>
+When transposing, you can use the <link document="m10866" target-id="p0bb">chromatic</link> circle both to change the name of the key (as <link target-id="fig3a">above</link>) and to change chord names, because the basic idea is the same; the entire piece (chords, notes, and key) must move the same number of <link document="m10866">half steps</link> in the same direction. If you're using a chromatic circle to transpose the names of all the chords in a piece, just make sure that you move each chord name by the same amount and in the same direction.
+          </caption>
+       </figure>
+       <section id="chord1"><title>Step 1: Choose Your Transposition</title>
+    <para id="pchord1">
+Your choice of new key will depend on why you are transposing, but it may depend on other things, also.
+    </para>
+    <list id="lchord1"><item>
+If you are transposing because the <emphasis>music is too low or too high</emphasis>, decide how much higher or lower you want the music to sound. If you want the music to sound higher, go around the <link target-id="figch1a">chromatic circle</link> in the clockwise direction. If you want it lower, go in the counterclockwise direction. The further you go, the more it will change. Notice that, since you're going in a circle, raising the music a lot eventually gives the same chords as lowering it a little (and vice-versa). If some keys are easier for you to play in than others, you may want to check to make sure the key you choose has "nice" chords. If not, try another key near it. 
+    </item>
+    <item>
+If you  are changing keys in order to <emphasis>make the chords easy to play</emphasis>, try changing the final chord so that it names an easy-to-play-in key. (Guitarists, for example, often find the keys G, D, A, E, C, Am, Em, and Dm easier to play in than other keys.) The last chord of most pieces will usually be the chord that names the key. If that doesn't seem to work for your piece, try a transposition that makes the most common chord an easy chord. Start changing the other chords by the same amount, and in the same direction, and see if you are getting mostly easy-to-play chords. While deciding on a new key, though, keep in mind that you are also making the piece higher or lower, and choose keys accordingly. A guitarist who wants to change chords without changing the <link document="m10943">pitch</link> should lower the key (go counterclockwise on the circle) by as short a distance as possible to find a playable key. Then <link document="m12745" target-id="p9c">capo</link> at the fret that marks the number of keys moved. For example, if you moved counterclockwise by three keys, put the capo at the third fret.
+         </item>
+    <item>
+If you are changing keys to <emphasis>play with another instrumentalist</emphasis> who is transposing or who is playing in a different key from you, you will need to figure out the correct transposition. For a <link target-id="transpinst">transposing instrument</link>, look up the correct transposition (the person playing the instrument may be able to tell you), and move all of your chords up or down by the correct number of half steps. (For example, someone playing a B flat trumpet will read parts one step - two half steps - lower than <link document="m10672" target-id="intro">concert pitch</link>. So to play from the same part as the trumpet player, move all the chords counterclockwise two places.) If the instrumental part is simply written in a different key, find out what key it is in (the person playing it should be able to tell you, based on the <link document="m10881">key signature</link>) and what key you are playing in (you may have to make a guess based on the final chord of the piece or the most common chord). Use the chromatic circle to find the direction and number of half steps to get from your key to the other key.
+   </item>
+  </list>
+  </section>
+  <section id="chord2">
+    <title>Step 2: Change the Names of All the Chords</title>
+         <para id="pchord2a">Using the chromatic circle to count keys, change the note names in all of the chords by the same amount (the same number of half steps, or places in the chromatic circle) and in the same direction. Change only the note names (things like "F" and "C sharp" and "B flat"); don't change any other information about the chord (like major, minor, dim., 7, sus4, add11, etc.). If the bass note of the chord is written out as a note name, change that, also (using the same chromatic circle).
+         </para>
+         <para id="pchord2b">Check your transposition by playing it to see if it sounds right. If you don't like playing some of the chords in your new key, or if you have changed the key too much or not enough, try a different transposition.
+         </para>
+   </section>
+
+       <example id="chexam1">
+
+         <para id="pexam1">
+Say you have a song in the key of G, which is too low for your voice. If it's just a little too low, you can go up two keys to A. If this is still too low, you can go up even further (5 keys altogether) to the key of C. Maybe that's high enough for your voice, but you no longer like the chords. If that is the case, you can go up two more keys to D. Notice that, because the keys are arranged in a circle, going up seven keys like this is the same as going down five keys.
+         </para>
+
+         <figure id="figexa1"><media id="id3816138" alt=""><image src="../../media/TranspEx6N.png" mime-type="image/png"/><image for="pdf" src="../../media/TranspEx6N.eps" mime-type="application/postscript"/></media></figure>
+
+       </example>
+
+       <example id="chexam2">
+
+         <para id="pexam2">Now say you have a song in the key of E flat. It's not hard to sing in that key, so you don't want to go far, but you really don't like playing in E flat. You can move the song up one key to E, but you might like the chords even better if you move them down one key to D. Notice that if you are a guitar player, and everyone else really wants to stay in E flat, you can write the chords out in D and play them with a capo on the first fret; to everyone else it will sound as if you're playing in E flat.
+         </para>
+
+          <figure id="figexam2"><media id="id10174537" alt=""><image src="../../media/TranspEx7.png" mime-type="image/png"/><image for="pdf" src="../../media/TranspEx7-0.eps" mime-type="application/postscript"/></media></figure>
+
+       </example>
+ 
+       <exercise id="exerchord">
+
+         <problem id="id7901984">
+          <para id="pexer1">
+Now say that you have a song that is in B flat, which is more than a little (more than one key) too high for you. Find a key a bit lower that still has nice, easy-to-play chords for guitar.
+          </para>
+          <figure id="figexer1"><media id="id13309368" alt=""><image src="../../media/Transp5prob.png" mime-type="image/png"/><image for="pdf" src="../../media/Transp5prob-0.eps" mime-type="application/postscript"/></media></figure>
+         </problem>
+         <solution id="id5733113">
+           <para id="psolv1">
+The best solution here is probably to put the song in the key of G. This is three keys lower, and has easy chords.
+           </para>
+           <figure id="figsolv"><media id="id4841616" alt=""><image src="../../media/Transp5solv.png" mime-type="image/png"/><image for="pdf" src="../../media/Transp5solv-0.eps" mime-type="application/postscript"/></media></figure>
+         </solution>
+       </exercise>
+
+    </section>
+
+  </content>
+
+
+  
+</document>
