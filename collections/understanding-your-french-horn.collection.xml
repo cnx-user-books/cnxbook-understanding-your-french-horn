@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Catherine Schmidt-Jones">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10219</md:content-id>
     <md:title>Understanding Your French Horn</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
     <md:uuid>eb7a548e-9355-4035-bbb5-04398393bf28</md:uuid>
-<md:slug>understanding-your-french-horn</md:slug>
-</metadata>
+    <md:slug>understanding-your-french-horn</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>The Physics of Horn Playing</md:title>
